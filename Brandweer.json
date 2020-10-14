@@ -12538,6 +12538,14 @@
     },
     {
         "regio": "07",
+        "roepnummer": "07-0303",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "kazerne": "Zevenaar",
+        "adres": "Professor Aalbersestraat 3, 6904CA, Zevenaar"
+    },
+    {
+        "regio": "07",
         "roepnummer": "07-0305",
         "type": "DA",
         "omschrijving": "Dienstauto",
@@ -12771,6 +12779,22 @@
         "omschrijving": "Watertankwagen",
         "kazerne": "Kootwijkerbroek",
         "adres": "Drieënhuizerweg 5, 3774RE, Kootwijkerbroek"
+    },
+    {
+        "regio": "07",
+        "roepnummer": "07-1680",
+        "type": "DB-FRB",
+        "omschrijving": "Dienstbus - First Responder Brandweer",
+        "kazerne": "Kootwijkerbroek",
+        "adres": "Drieënhuizerweg 5, 3774RE, Kootwijkerbroek"
+    },
+    {
+        "regio": "07",
+        "roepnummer": "07-1702",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "kazerne": "Barneveld",
+        "adres": "Nijkerkerweg 119, 3771LA, Barneveld"
     },
     {
         "regio": "07",
@@ -13704,6 +13728,14 @@
         "roepnummer": "07-4682",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "kazerne": "Huissen",
+        "adres": "Kampstuk 21, 6852AC, Huissen"
+    },
+    {
+        "regio": "07",
+        "roepnummer": "07-46BPA",
+        "type": "BPA",
+        "omschrijving": "Bron/buispompaanhanger",
         "kazerne": "Huissen",
         "adres": "Kampstuk 21, 6852AC, Huissen"
     },
@@ -16547,6 +16579,14 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-0501",
+        "type": "DB",
+        "omschrijving": "Dienstbus",
+        "kazerne": "Bunnik",
+        "adres": "Stationsweg 49, 3981AB, Bunnik"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-0531",
         "kenteken": "12-BLF-6",
         "type": "TS",
@@ -16674,6 +16714,14 @@
         "omschrijving": "Tankautospuit",
         "kazerne": "Groenekan",
         "adres": "Koningin Wilhelminaweg 439, 3737BE, Groenekan"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-1001",
+        "type": "DB",
+        "omschrijving": "Dienstbus",
+        "kazerne": "Maartensdijk",
+        "adres": "Koningin Wilhelminaweg 9, 3738JZ, Maartensdijk"
     },
     {
         "regio": "09",
@@ -16922,6 +16970,14 @@
         "omschrijving": "Haakarmvoertuig",
         "kazerne": "Ijsselstein",
         "adres": "Jan van der Heydenweg 244, 3401RJ, IJsselstein"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-2113",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "kazerne": "Achterveld",
+        "adres": "Meester van Bergenweg 3, 3791AW, Achterveld"
     },
     {
         "regio": "09",
@@ -17524,6 +17580,14 @@
         "omschrijving": "Haakarmvoertuig",
         "kazerne": "Utrecht-Schepenbuurt",
         "adres": "Vlampijpstraat 100, 3534AR, Utrecht"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-4601",
+        "type": "DB",
+        "omschrijving": "Dienstbus",
+        "kazerne": "Utrecht-Tolsteeg",
+        "adres": "Helling 20, 3523CC, Utrecht"
     },
     {
         "regio": "09",
@@ -18912,6 +18976,14 @@
         "roepnummer": "09-9297",
         "type": "MCU",
         "omschrijving": "Mobiele Commando Unit",
+        "kazerne": "Amersfoort-Centrum",
+        "adres": "Kleine Koppel 112, 3812PG, Amersfoort"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-9303",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
         "kazerne": "Amersfoort-Centrum",
         "adres": "Kleine Koppel 112, 3812PG, Amersfoort"
     },
@@ -20702,6 +20774,27 @@
         "roepnummer": "10-6935",
         "type": "TS-RES",
         "omschrijving": "Tankautospuit-Reserve",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "10",
+        "roepnummer": "10-6936",
+        "type": "TS-RES",
+        "omschrijving": "Tankautospuit-Reserve",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "10",
+        "roepnummer": "10-6937",
+        "type": "TS-RES",
+        "omschrijving": "Tankautospuit-Reserve",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "10",
+        "roepnummer": "10-6985",
+        "type": "BMH-THU",
+        "omschrijving": "STH Bijzonder materieel Technische HulpverleningsUnit container",
         "kazerne": "Regionaal"
     },
     {
@@ -27857,6 +27950,14 @@
         "type": "DA-CC",
         "omschrijving": "Dienstauto - Cluster Commandant",
         "kazerne": "Cluster Commandant",
+        "adres": "Kazerne NOT FOUND"
+    },
+    {
+        "regio": "16",
+        "roepnummer": "16-9490",
+        "type": "DA-IM",
+        "omschrijving": "Dienstauto - Informatie Manager",
+        "kazerne": "Regionaal",
         "adres": "Kazerne NOT FOUND"
     },
     {
@@ -39012,8 +39113,8 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "merkType": "Ford",
-        "kazerne": "Eersel",
-        "adres": "Dalemsedijk 1, 5521RM, Eersel"
+        "kazerne": "Eindhoven-Centrum",
+        "adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
     },
     {
         "regio": "22",
@@ -39961,6 +40062,16 @@
     },
     {
         "regio": "22",
+        "roepnummer": "22-5003",
+        "kenteken": "15-ZDS-6",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "merkType": "Volkswagen Polo",
+        "kazerne": "Eindhoven-Centrum",
+        "adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
+    },
+    {
+        "regio": "22",
         "roepnummer": "22-5004",
         "kenteken": "XD-084-F",
         "type": "DB",
@@ -39991,8 +40102,8 @@
     },
     {
         "regio": "22",
-        "roepnummer": "22-5008",
-        "kenteken": "TR-947-V",
+        "roepnummer": "22-5007",
+        "kenteken": "03-ZFH-9",
         "type": "DA",
         "omschrijving": "Dienstauto",
         "merkType": "Volkswagen Polo",
@@ -40001,13 +40112,23 @@
     },
     {
         "regio": "22",
+        "roepnummer": "22-5008",
+        "kenteken": "TR-947-V",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "merkType": "Volkswagen Polo",
+        "kazerne": "Eindhoven-Woensel",
+        "adres": "Avinonlaan 7, 5627GA, Eindhoven"
+    },
+    {
+        "regio": "22",
         "roepnummer": "22-5009",
         "kenteken": "VD-842-R",
         "type": "PM",
         "omschrijving": "Personeel/Materieelvoertuig",
         "merkType": "Volkwagen",
-        "kazerne": "ROC Waalre",
-        "adres": "Engelse Tuin 1, 5583CT, Waalre"
+        "kazerne": "Eindhoven-Woensel",
+        "adres": "Avinonlaan 7, 5627GA, Eindhoven"
     },
     {
         "regio": "22",
@@ -40356,8 +40477,8 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "merkType": "Volkswagen Touran",
-        "kazerne": "Eindhoven-Centrum",
-        "adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
+        "kazerne": "Eindhoven-Woensel",
+        "adres": "Avinonlaan 7, 5627GA, Eindhoven"
     },
     {
         "regio": "22",
