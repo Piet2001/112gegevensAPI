@@ -634,6 +634,10 @@
     },
     {
         "regio": "03",
+        "kazerneNaam": "Leiding & Coördinatie "
+    },
+    {
+        "regio": "03",
         "kazerneNaam": "Meppel",
         "adres": "Paradijsweg 1, 7942HB, Meppel"
     },
@@ -646,6 +650,10 @@
         "regio": "03",
         "kazerneNaam": "Peize",
         "adres": "De Aanleg 4, 9321DD, Peize"
+    },
+    {
+        "regio": "03",
+        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "03",
@@ -1702,6 +1710,10 @@
     },
     {
         "regio": "08",
+        "kazerneNaam": "Leiding & Coördinatie "
+    },
+    {
+        "regio": "08",
         "kazerneNaam": "Leiding & Coördinatie "
     },
     {
@@ -2510,6 +2522,11 @@
     },
     {
         "regio": "11",
+        "kazerneNaam": "Spijkerboor",
+        "adres": "Starnmeerdijk 22, 1458PM, Spijkerboor"
+    },
+    {
+        "regio": "11",
         "kazerneNaam": "Volendam",
         "adres": "Julianaweg 137B, 1131DH, Volendam"
     },
@@ -2655,6 +2672,11 @@
         "regio": "13",
         "kazerneNaam": "Nico",
         "adres": "IJ-Tunnel 4, 1011TA, Amsterdam"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Teunis",
+        "adres": "Vredenhofweg 3, 1051LM, Amsterdam"
     },
     {
         "regio": "14",
@@ -2807,6 +2829,11 @@
         "regio": "17",
         "kazerneNaam": "Bosland",
         "adres": "Bosland 30, 3063EM, Rotterdam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Coloradoweg",
+        "adres": "Coloradoweg 20, 3199LA, Rotterdam"
     },
     {
         "regio": "17",
@@ -3037,6 +3064,11 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Middelburg-Stromenweg",
+        "adres": "Stromenweg 7, 4335JR, Middelburg"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Oostburg",
         "adres": "Ondernemersweg 100, 4501WD, Oostburg"
     },
@@ -3097,7 +3129,7 @@
     {
         "regio": "20",
         "kazerneNaam": "Almkerk",
-        "adres": "Provinciale weg Noord 36, 4286EB, Almkerk"
+        "adres": "Provincialeweg Noord 36, 4286EB, Almkerk"
     },
     {
         "regio": "20",
@@ -3113,6 +3145,11 @@
         "regio": "20",
         "kazerneNaam": "Bergen op Zoom",
         "adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Berkel-Enschot",
+        "adres": "Burgemeester Panislaan 21, 5056AD, Berkel-Enschot"
     },
     {
         "regio": "20",
@@ -3177,7 +3214,7 @@
     {
         "regio": "20",
         "kazerneNaam": "Giessen",
-        "adres": "Handelssstraat 7, 4283JK, Giessen"
+        "adres": "Handelstraat 7, 4283JK, Giessen"
     },
     {
         "regio": "20",
@@ -3306,12 +3343,22 @@
     },
     {
         "regio": "20",
+        "kazerneNaam": "Putte",
+        "adres": "Antwerpsestraat 127, 4645BD, Putte"
+    },
+    {
+        "regio": "20",
         "kazerneNaam": "Raamsdonksveer",
         "adres": "Julianalaan 103, 4941JC, Raamsdonksveer"
     },
     {
         "regio": "20",
         "kazerneNaam": "Regionaal"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Riel",
+        "adres": "Veertels 9, 5133NL, Riel"
     },
     {
         "regio": "20",
@@ -3330,8 +3377,33 @@
     },
     {
         "regio": "20",
+        "kazerneNaam": "Rucphen",
+        "adres": "Expeditieweg 3a, 4715RM, Rucphen"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Sleeuwijk",
+        "adres": "K. van de Sandeplein 21, 4254AA, Sleeuwijk"
+    },
+    {
+        "regio": "20",
         "kazerneNaam": "Sprang-Capelle",
         "adres": "Julianalaan 88, 5161BC, Sprang-Capelle"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Standdaarbuiten",
+        "adres": "Molendijk 1, 4758SB, Standdaarbuiten"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Steenbergen",
+        "adres": "Molenweg 50, 4651CM, Steenbergen"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Terheijden",
+        "adres": "Zeggelaan 131, 4844SE, Terheijden"
     },
     {
         "regio": "20",
@@ -3370,6 +3442,36 @@
     },
     {
         "regio": "20",
+        "kazerneNaam": "Werkendam",
+        "adres": "Raadhuislaan 17, 4251VS, Werkendam"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Wijk en Aalburg",
+        "adres": "Bergstraat 50a, 4261BR, Wijk en Aalburg"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Willemstad",
+        "adres": "Landpoortstraat 47, 4797AM, Willemstad"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Woudrichem",
+        "adres": "Almkerkseweg 2, 4285WZ, Woudrichem"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Wouw",
+        "adres": "Donkenweg 1, 4724SN, Wouw"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Zevenbergen",
+        "adres": "Kristallaan 2, 4761ZD, Zevenbergen"
+    },
+    {
+        "regio": "20",
         "kazerneNaam": "Zundert",
         "adres": "Wernhoutseweg 36, 4884AW, Zundert"
     },
@@ -3382,11 +3484,6 @@
         "regio": "21",
         "kazerneNaam": "Berghem",
         "adres": "Kloosterstraat 30, 5351ER, Berghem"
-    },
-    {
-        "regio": "21",
-        "kazerneNaam": "Berkel-Enschot",
-        "adres": "Burgemeester Panislaan 21, 5056AD, Berkel-Enschot"
     },
     {
         "regio": "21",

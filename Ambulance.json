@@ -637,7 +637,8 @@
         "regio": "02",
         "roepnummer": "02-132",
         "kenteken": "PJ-477-X",
-        "omschrijving": "Ambulance"
+        "omschrijving": "Ambulance",
+        "merk": "Volkswagen Transporter"
     },
     {
         "regio": "02",
@@ -1073,6 +1074,13 @@
         "regio": "09",
         "roepnummer": "09-146",
         "kenteken": "7-TZG-33",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz E-Klasse"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-148",
+        "kenteken": "9-TZG-68",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz E-Klasse"
     },
