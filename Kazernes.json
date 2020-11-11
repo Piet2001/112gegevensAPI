@@ -121,10 +121,6 @@
     },
     {
         "regio": "01",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "01",
         "kazerneNaam": "Scheemda",
         "adres": "Zwaagsterweg 2e, 9679BH, Scheemda"
     },
@@ -440,10 +436,6 @@
     },
     {
         "regio": "02",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "02",
         "kazerneNaam": "Scherpenzeel",
         "adres": "Grindweg 135, 8483JL, Scherpenzeel"
     },
@@ -634,10 +626,6 @@
     },
     {
         "regio": "03",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "03",
         "kazerneNaam": "Meppel",
         "adres": "Paradijsweg 1, 7942HB, Meppel"
     },
@@ -650,10 +638,6 @@
         "regio": "03",
         "kazerneNaam": "Peize",
         "adres": "De Aanleg 4, 9321DD, Peize"
-    },
-    {
-        "regio": "03",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "03",
@@ -872,10 +856,6 @@
     },
     {
         "regio": "04",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "04",
         "kazerneNaam": "Slagharen",
         "adres": "Coevorderweg-Noord 36a, 7776AC, Slagharen"
     },
@@ -1038,10 +1018,6 @@
         "regio": "05",
         "kazerneNaam": "Ootmarsum",
         "adres": "Laagsestraat 4, 7631AM, Ootmarsum"
-    },
-    {
-        "regio": "05",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "05",
@@ -1230,10 +1206,6 @@
     },
     {
         "regio": "06",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "06",
         "kazerneNaam": "Lichtenvoorde",
         "adres": "Vragenderweg 5, 7131NS, Lichtenvoorde"
     },
@@ -1281,10 +1253,6 @@
         "regio": "06",
         "kazerneNaam": "Putten",
         "adres": "Kelnarijstraat 10a, 3881CB, Putten"
-    },
-    {
-        "regio": "06",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "06",
@@ -1498,10 +1466,6 @@
     },
     {
         "regio": "07",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "07",
         "kazerneNaam": "Lobith",
         "adres": "Industrieweg 1a, 6915SH, Lobith"
     },
@@ -1522,10 +1486,6 @@
     },
     {
         "regio": "07",
-        "kazerneNaam": "Oefenen & Opleiden"
-    },
-    {
-        "regio": "07",
         "kazerneNaam": "Oosterbeek",
         "adres": "Steijnweg 5, 6861DD, Oosterbeek"
     },
@@ -1543,10 +1503,6 @@
         "regio": "07",
         "kazerneNaam": "Pannerden",
         "adres": "Renbaan 1c, 6911KH, Pannerden"
-    },
-    {
-        "regio": "07",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "07",
@@ -1710,14 +1666,6 @@
     },
     {
         "regio": "08",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "08",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "08",
         "kazerneNaam": "Lent",
         "adres": "Spoorstraat 31, 6663AE, Lent"
     },
@@ -1768,10 +1716,6 @@
     },
     {
         "regio": "08",
-        "kazerneNaam": "Oefenen & Opleiden"
-    },
-    {
-        "regio": "08",
         "kazerneNaam": "Opheusden",
         "adres": "Hamsestraat 24, 4043LH, Opheusden"
     },
@@ -1784,10 +1728,6 @@
         "regio": "08",
         "kazerneNaam": "Recticel kerksteren",
         "adres": "Spoorstraat 69, 4041CL, Kesteren"
-    },
-    {
-        "regio": "08",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "08",
@@ -1971,10 +1911,6 @@
     },
     {
         "regio": "09",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "09",
         "kazerneNaam": "Leusden",
         "adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
     },
@@ -2057,10 +1993,6 @@
         "regio": "09",
         "kazerneNaam": "Oudewater",
         "adres": "Biezenwal 3, 3421BE, Oudewater"
-    },
-    {
-        "regio": "09",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "09",
@@ -2374,10 +2306,6 @@
     },
     {
         "regio": "10",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "10",
         "kazerneNaam": "Schagen",
         "adres": "Hofstraat 15, 1741CD, Schagen"
     },
@@ -2518,10 +2446,6 @@
     },
     {
         "regio": "11",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "11",
         "kazerneNaam": "Spijkerboor",
         "adres": "Starnmeerdijk 22, 1458PM, Spijkerboor"
     },
@@ -2617,16 +2541,8 @@
     },
     {
         "regio": "12",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "12",
         "kazerneNaam": "Nieuw-Vennep",
         "adres": "Luzernestraat 5, 2153GM, Nieuw-Vennep"
-    },
-    {
-        "regio": "12",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "12",
@@ -2699,10 +2615,6 @@
         "adres": "Groene Gerritsweg 2, 1251JL, Laren"
     },
     {
-        "regio": "14",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
         "regio": "15",
         "kazerneNaam": "`s-Gravenzande",
         "adres": "Fultonstraat 2, 2691HA, 's-Gravenzande"
@@ -2736,10 +2648,6 @@
         "regio": "15",
         "kazerneNaam": "Naaldwijk",
         "adres": "`s-Gravenzandseweg 40, 2671JP, Naaldwijk"
-    },
-    {
-        "regio": "15",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "15",
@@ -2790,10 +2698,6 @@
         "regio": "16",
         "kazerneNaam": "Nieuwerkerk aan den Ijssel",
         "adres": "Prins Alexanderlaan 2, 2912AL, Nieuwerkerk aan den IJssel"
-    },
-    {
-        "regio": "16",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "17",
@@ -2852,14 +2756,6 @@
     },
     {
         "regio": "17",
-        "kazerneNaam": "Gez. BRW Hoofdkantoor Executieve Ondersteuning "
-    },
-    {
-        "regio": "17",
-        "kazerneNaam": "Gezamelijke Brandweer Rotterdam"
-    },
-    {
-        "regio": "17",
         "kazerneNaam": "Groene Tuin",
         "adres": "Groene Tuin 321, 3078KG, Rotterdam"
     },
@@ -2875,14 +2771,6 @@
     },
     {
         "regio": "17",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "17",
-        "kazerneNaam": "Logistiek & Ondersteuning"
-    },
-    {
-        "regio": "17",
         "kazerneNaam": "Maassluis",
         "adres": "Elektraweg 3, 3144CB, Maassluis"
     },
@@ -2895,10 +2783,6 @@
         "regio": "17",
         "kazerneNaam": "Prinses Maximaweg",
         "adres": "Prinses Maximaweg 960, 3199KG, Rotterdam"
-    },
-    {
-        "regio": "17",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "17",
@@ -2947,10 +2831,6 @@
     },
     {
         "regio": "18",
-        "kazerneNaam": "Coördinatie"
-    },
-    {
-        "regio": "18",
         "kazerneNaam": "Gorinchem",
         "adres": "Arkelsedijk 22, 4206AC, Gorinchem"
     },
@@ -2963,10 +2843,6 @@
         "regio": "18",
         "kazerneNaam": "Klaaswaal",
         "adres": "Berkenlaan 2, 3286XC, Klaaswaal"
-    },
-    {
-        "regio": "18",
-        "kazerneNaam": "Logistiek & Ondersteuning TD"
     },
     {
         "regio": "18",
@@ -2987,10 +2863,6 @@
         "regio": "18",
         "kazerneNaam": "Papendrecht",
         "adres": "Poldermolen 8, 3352TH, Papendrecht"
-    },
-    {
-        "regio": "18",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "18",
@@ -3076,10 +2948,6 @@
         "regio": "19",
         "kazerneNaam": "Oosterland",
         "adres": "Wilgenstraat 4, 4307DA, Oosterland"
-    },
-    {
-        "regio": "19",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "19",
@@ -3353,10 +3221,6 @@
     },
     {
         "regio": "20",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "20",
         "kazerneNaam": "Riel",
         "adres": "Veertels 9, 5133NL, Riel"
     },
@@ -3507,10 +3371,6 @@
     },
     {
         "regio": "21",
-        "kazerneNaam": "Leiding & Coördinatie "
-    },
-    {
-        "regio": "21",
         "kazerneNaam": "Oeffelt",
         "adres": "Schoolstraat 4, 5441AM, Oeffelt"
     },
@@ -3518,10 +3378,6 @@
         "regio": "21",
         "kazerneNaam": "Oss",
         "adres": "Wethouder Van Eschstraat 260, 5342AV, Oss"
-    },
-    {
-        "regio": "21",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "21",
@@ -3700,10 +3556,6 @@
     },
     {
         "regio": "22",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "22",
         "kazerneNaam": "Reusel",
         "adres": "Kruisstraat 3a, 5541CH, Reusel"
     },
@@ -3851,10 +3703,6 @@
         "regio": "23",
         "kazerneNaam": "Panningen",
         "adres": "John F. Kennedylaan 212, 5981WX, Panningen"
-    },
-    {
-        "regio": "23",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "23",
@@ -4008,10 +3856,6 @@
     },
     {
         "regio": "24",
-        "kazerneNaam": "Regionaal"
-    },
-    {
-        "regio": "24",
         "kazerneNaam": "Schinnen",
         "adres": "Burg. Pijlsstraat 3, 6365CG, Schinnen"
     },
@@ -4114,10 +3958,6 @@
         "regio": "25",
         "kazerneNaam": "Nagele",
         "adres": "Eggestraat 4, 8308AB, Nagele"
-    },
-    {
-        "regio": "25",
-        "kazerneNaam": "Regionaal"
     },
     {
         "regio": "25",
