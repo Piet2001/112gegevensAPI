@@ -6386,8 +6386,7 @@
         "roepnummer": "03-9293",
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie",
-        "adres": "Kazerne NOT FOUND"
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "03",
@@ -9866,7 +9865,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "merkType": "Toyota",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -10167,7 +10166,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Veluwe West",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -10475,7 +10474,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "EVA",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -10891,7 +10890,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Ijsselstreek",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -11217,7 +11216,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Achterhoek West",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -11225,7 +11224,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Achterhoek West Reserve",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -11641,7 +11640,7 @@
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Achterhoek Oost",
         "merkType": "Toyota",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12359,7 +12358,7 @@
         "type": "DB-TBO",
         "omschrijving": "Dienstbus -Team Brandonderzoek",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12400,21 +12399,21 @@
         "roepnummer": "06-9901",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
         "roepnummer": "06-9902",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
         "roepnummer": "06-9903",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12429,7 +12428,7 @@
         "roepnummer": "06-9921",
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12437,7 +12436,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
         "toevoeging": "West",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12445,7 +12444,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
         "toevoeging": "Oost",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12454,7 +12453,7 @@
         "type": "DA-HSB",
         "omschrijving": "Dienstauto - Hoofd Sectie Brandweer",
         "merkType": "Volkswagen Touran",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
@@ -12464,14 +12463,14 @@
         "omschrijving": "Dienstauto",
         "toevoeging": "Piket Centralist",
         "merkType": "Volkswagen Polo",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "06",
         "roepnummer": "06-9998",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -12652,8 +12651,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "merkType": "Mercedes Benz Vito",
-        "kazerne": "Cluster Noord",
-        "adres": "Kazerne NOT FOUND"
+        "kazerne": "Cluster Noord"
     },
     {
         "regio": "07",
@@ -12670,7 +12668,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "Noord",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -12678,7 +12676,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "Noord",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13013,7 +13011,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "West",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13021,7 +13019,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "West",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13285,7 +13283,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "Midden",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13293,7 +13291,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "Midden",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13632,7 +13630,7 @@
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
         "toevoeging": "Zuid",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13640,7 +13638,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Zuid",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13983,7 +13981,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Oost",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -13991,7 +13989,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Oost",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14530,7 +14528,7 @@
         "roepnummer": "07-9129",
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14553,21 +14551,21 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Leider COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
         "roepnummer": "07-9198",
         "type": "VC-2",
         "omschrijving": "Verbindings-/Commandowagen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
         "roepnummer": "07-9199",
         "type": "CO-MU",
         "omschrijving": "Multi Commando Unit",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14640,7 +14638,7 @@
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
         "toevoeging": "Vallei",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14648,7 +14646,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
         "toevoeging": "Vallei",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14720,7 +14718,7 @@
         "roepnummer": "07-9391",
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14728,7 +14726,7 @@
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
         "toevoeging": "Rivieren",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "07",
@@ -14961,7 +14959,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
         "toevoeging": "& AGS",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
@@ -14969,14 +14967,14 @@
         "type": "DV-PCC",
         "omschrijving": "Dienstvoertuig - Plaatsvervangend Compagniescommandant",
         "toevoeging": "Oost",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
         "roepnummer": "08-0651",
         "type": "DV-CA",
         "omschrijving": "Dienstvoertuig - Calamiteiten Coördinator",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
@@ -16228,7 +16226,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Reserve",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
@@ -16259,7 +16257,7 @@
         "roepnummer": "08-9291",
         "type": "DV-HOD",
         "omschrijving": "Dienstvoertuig - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
@@ -16291,7 +16289,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
         "toevoeging": "& AGS",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "08",
@@ -18581,7 +18579,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Reserve",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18589,7 +18587,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Reserve",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18644,7 +18642,7 @@
         "roepnummer": "09-8191",
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18687,7 +18685,7 @@
         "roepnummer": "09-8291",
         "type": "DB-OVD",
         "omschrijving": "Dienstbus - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18710,7 +18708,7 @@
         "roepnummer": "09-8391",
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18751,7 +18749,7 @@
         "roepnummer": "09-8494",
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18794,7 +18792,7 @@
         "roepnummer": "09-8591",
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18828,14 +18826,14 @@
         "roepnummer": "09-8694",
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
         "roepnummer": "09-8794",
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18850,7 +18848,7 @@
         "roepnummer": "09-8894",
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18873,7 +18871,7 @@
         "roepnummer": "09-8994",
         "type": "DAT-OVD",
         "omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18883,7 +18881,7 @@
         "omschrijving": "Dienstauto",
         "toevoeging": "Alarmcentrale",
         "merkType": "Volkswagen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18949,14 +18947,14 @@
         "roepnummer": "09-9089",
         "type": "DV-PCL",
         "omschrijving": "Dienstvoertuig  Pelotonscommandant Logistiek",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
         "roepnummer": "09-9091",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -18972,7 +18970,7 @@
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
         "toevoeging": "COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -19021,14 +19019,14 @@
         "roepnummer": "09-9191",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
         "roepnummer": "09-9192",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -19078,14 +19076,14 @@
         "roepnummer": "09-9291",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
         "roepnummer": "09-9292",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "09",
@@ -22221,7 +22219,7 @@
         "roepnummer": "12-1201",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22229,7 +22227,7 @@
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
         "toevoeging": "COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22237,7 +22235,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Logistiek (F-LOG)",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22252,7 +22250,7 @@
         "roepnummer": "12-1224",
         "type": "DB-GS",
         "omschrijving": "Dienstbus - Gevaarlijke Stoffen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22261,7 +22259,7 @@
         "omschrijving": "Personeel/Materieelvoertuig",
         "toevoeging": "Cobra Cutter",
         "kazerne": "Halfweg-Zwanenburg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Beatrixstraat 2, 1165GK, Halfweg"
     },
     {
         "regio": "12",
@@ -22335,7 +22333,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Noord",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22343,7 +22341,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Midden",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22351,14 +22349,14 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Zuid",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
         "roepnummer": "12-1294",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22366,7 +22364,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Operationeel leider",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22374,14 +22372,14 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Hoofd stafsectie",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
         "roepnummer": "12-1297",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -22389,7 +22387,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Leider COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "12",
@@ -24350,7 +24348,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Cluster Noord",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
@@ -24562,7 +24560,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Cluster Zuid",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
@@ -25165,7 +25163,7 @@
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
         "toevoeging": "COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
@@ -25286,49 +25284,49 @@
         "type": "DA-GMK",
         "omschrijving": "Dienstauto - GMK (Centralisten)",
         "merkType": "Volkswagen Golf",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9082",
         "type": "DA-TBO",
         "omschrijving": "Dienstauto - Team incidenten & Brand Onderzoek",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9090",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9091",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9092",
         "type": "DA-MPL",
         "omschrijving": "Dienstauto - Meetplanleider",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9093",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
         "roepnummer": "14-9094",
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "14",
@@ -30076,7 +30074,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Afdeling Water en Scheepvaart",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30123,7 +30121,7 @@
         "roepnummer": "17-9001",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30131,28 +30129,28 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "Stage OVD",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9003",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9004",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9005",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30160,7 +30158,7 @@
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
         "toevoeging": "1e piket",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30169,7 +30167,7 @@
         "type": "DB-AGS",
         "omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30179,7 +30177,7 @@
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
         "toevoeging": "2e piket",
         "merkType": "Volkswagen Tiguan 2,0TDi",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30189,7 +30187,7 @@
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
         "toevoeging": "1e piket",
         "merkType": "Volkswagen Touran",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30239,14 +30237,14 @@
         "type": "DV-TBO",
         "omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9082",
         "type": "DA-FLO",
         "omschrijving": "Dienstauto - Fire Liaison Officer",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30297,70 +30295,70 @@
         "roepnummer": "17-9098",
         "type": "DV-PCL",
         "omschrijving": "Dienstvoertuig  Pelotonscommandant Logistiek",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9101",
         "type": "DA-PR",
         "omschrijving": "Dienstauto - Preventie",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9102",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9103",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9104",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9105",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9106",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9107",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9108",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9109",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30788,7 +30786,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Crisisbeheersing",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30796,35 +30794,35 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Piket Centralist",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9902",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9903",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9904",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9905",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30842,21 +30840,21 @@
         "roepnummer": "17-9981",
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9982",
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
         "roepnummer": "17-9983",
         "type": "DA-VL",
         "omschrijving": "Dienstauto - Voorlichter",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30864,7 +30862,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Meldkamer",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30872,7 +30870,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Leider COPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30880,7 +30878,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "Regionaal operationeel leider",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30888,7 +30886,7 @@
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
         "toevoeging": "CoPI",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30896,7 +30894,7 @@
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
         "toevoeging": "ROT",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -30904,7 +30902,7 @@
         "type": "DA-IM",
         "omschrijving": "Dienstauto - Informatie Manager",
         "toevoeging": "Geo Informatie Medewerker (Plotter ROT)",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "17",
@@ -37925,7 +37923,7 @@
         "roepnummer": "21-0021",
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38108,7 +38106,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "District 1",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38116,7 +38114,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "District 2",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38124,7 +38122,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "District 3",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38132,7 +38130,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "District 4",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38140,14 +38138,14 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "toevoeging": "District 5",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
         "roepnummer": "21-0097",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officieer van Dienst",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
@@ -38155,7 +38153,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "toevoeging": "OIV",
-        "kazerne": "Leiding & Coördinatie "
+        "kazerne": "Leiding & Coördinatie"
     },
     {
         "regio": "21",
