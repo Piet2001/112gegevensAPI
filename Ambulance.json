@@ -637,8 +637,7 @@
         "regio": "02",
         "roepnummer": "02-132",
         "kenteken": "PJ-477-X",
-        "omschrijving": "Ambulance",
-        "merk": "Volkswagen Transporter"
+        "omschrijving": "Ambulance"
     },
     {
         "regio": "02",
@@ -667,6 +666,22 @@
     },
     {
         "regio": "03",
+        "roepnummer": "03-103",
+        "kenteken": "6-TRK-15",
+        "omschrijving": "Ambulance",
+        "merk": "Volkswagen Transporter",
+        "locatieIndienVast": "Assen"
+    },
+    {
+        "regio": "03",
+        "roepnummer": "03-107",
+        "kenteken": "ZN-943-P",
+        "omschrijving": "Ambulance",
+        "merk": "Volkswagen Transporter",
+        "locatieIndienVast": "Assen"
+    },
+    {
+        "regio": "03",
         "roepnummer": "03-134",
         "kenteken": "25-956-K",
         "omschrijving": "Ambulance",
@@ -674,10 +689,42 @@
     },
     {
         "regio": "03",
+        "roepnummer": "03-136",
+        "kenteken": "SH-043-B",
+        "omschrijving": "Ambulance",
+        "merk": "Volvo XC90",
+        "locatieIndienVast": "Emmen"
+    },
+    {
+        "regio": "03",
+        "roepnummer": "03-172",
+        "kenteken": "GD-415-P",
+        "omschrijving": "Reserve ambulance",
+        "merk": "Volkswagen Transporter",
+        "locatieIndienVast": "Regionaal"
+    },
+    {
+        "regio": "03",
         "roepnummer": "03-224",
         "kenteken": "02-SXN-7",
         "omschrijving": "Piketauto",
         "merk": "Volkswagen Polo"
+    },
+    {
+        "regio": "03",
+        "roepnummer": "03-413",
+        "kenteken": "2-XLZ-65",
+        "omschrijving": "Zorgambulance",
+        "merk": "Volkswagen Transporter",
+        "locatieIndienVast": "Barneveld"
+    },
+    {
+        "regio": "03",
+        "roepnummer": "03-551",
+        "kenteken": "BB-BH-50",
+        "omschrijving": "Haakarmvoertuig Logistiek",
+        "merk": "DAF",
+        "locatieIndienVast": "Tynaarlo"
     },
     {
         "regio": "03",
@@ -692,6 +739,13 @@
         "kenteken": "ZB-364-B",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "04",
+        "roepnummer": "04-301",
+        "kenteken": "6-STL-87",
+        "omschrijving": "Mobiele Intensive Care Unit",
+        "merk": "Mercedes Benz"
     },
     {
         "regio": "04",
@@ -770,6 +824,13 @@
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Voorst"
+    },
+    {
+        "regio": "06",
+        "roepnummer": "06-129",
+        "kenteken": "J-327-PG",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "06",
@@ -1249,6 +1310,13 @@
     },
     {
         "regio": "12",
+        "roepnummer": "12-151",
+        "kenteken": "H-096-TV",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "12",
         "roepnummer": "12-158",
         "kenteken": "93-XKG-9",
         "omschrijving": "Ambulance",
@@ -1605,6 +1673,11 @@
     },
     {
         "regio": "16",
+        "roepnummer": "16-310",
+        "omschrijving": "Mobiele Intensive Care Unit"
+    },
+    {
+        "regio": "16",
         "roepnummer": "16-428",
         "kenteken": "G-940-GV",
         "omschrijving": "Zorgambulance",
@@ -1659,6 +1732,13 @@
     },
     {
         "regio": "17",
+        "roepnummer": "17-131",
+        "kenteken": "J-364-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
         "roepnummer": "17-132",
         "kenteken": "RF-829-K",
         "omschrijving": "Ambulance",
@@ -1678,8 +1758,71 @@
     },
     {
         "regio": "17",
+        "roepnummer": "17-138",
+        "kenteken": "J-365-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
         "roepnummer": "17-139",
         "kenteken": "RF-714-K",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-140",
+        "kenteken": "J-3657-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-141",
+        "kenteken": "J-610-FN",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-143",
+        "kenteken": "J-360-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-146",
+        "kenteken": "J-361-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-153",
+        "kenteken": "J-350-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-154",
+        "kenteken": "J-368-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-155",
+        "kenteken": "J-608-FN",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-156",
+        "kenteken": "J-369-HR",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
     },
@@ -1689,6 +1832,13 @@
         "kenteken": "ZH-127-F",
         "omschrijving": "Ambulance",
         "merk": "Volkswagen Crafter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-158",
+        "kenteken": "J-612-FN",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "17",
@@ -1721,8 +1871,29 @@
     },
     {
         "regio": "17",
+        "roepnummer": "17-168",
+        "kenteken": "J-356-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-169",
+        "kenteken": "J-357-HR",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
         "roepnummer": "17-170",
         "omschrijving": "Ambulance"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-301",
+        "kenteken": "H-522-HJ",
+        "omschrijving": "Piketauto",
+        "merk": "Mercedes Benz GLE"
     },
     {
         "regio": "17",
@@ -1740,6 +1911,13 @@
     },
     {
         "regio": "17",
+        "roepnummer": "17-351",
+        "kenteken": "J-109-SH",
+        "omschrijving": "Rapid Responder",
+        "merk": "Volvo XC40"
+    },
+    {
+        "regio": "17",
         "roepnummer": "17-401",
         "omschrijving": "Zorgambulance"
     },
@@ -1750,8 +1928,50 @@
     },
     {
         "regio": "17",
+        "roepnummer": "17-408",
+        "kenteken": "J-358-HR",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-410",
+        "kenteken": "J-370-HR",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
         "roepnummer": "17-411",
         "omschrijving": "Zorgambulance"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-412",
+        "kenteken": "J-359-HR",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-413",
+        "kenteken": "J-609-FN",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-414",
+        "kenteken": "J-362-HR",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-415",
+        "kenteken": "J-363-HR",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "17",
@@ -2525,7 +2745,7 @@
         "kenteken": "G-202-VH",
         "omschrijving": "Zorgambulance",
         "merk": "Mercedes Benz Sprinter",
-        "locatieIndienVast": "Helmond"
+        "locatieIndienVast": "Eindhoven-Zuid"
     },
     {
         "regio": "22",

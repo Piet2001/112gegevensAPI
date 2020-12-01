@@ -426,7 +426,7 @@
     },
     {
         "regio": "02",
-        "kazerneNaam": "Oudega",
+        "kazerneNaam": "Oudega (tijdelijk)",
         "adres": "Aldegeasterdyk 2, 9216VN, Oudega (Tijdelijk)"
     },
     {
@@ -732,7 +732,7 @@
     {
         "regio": "04",
         "kazerneNaam": "Bathmen",
-        "adres": "Koekendijk 9, 7437CJ, Bathem"
+        "adres": "Koekendijk 9, 7437CJ, Bathmen"
     },
     {
         "regio": "04",
@@ -2436,6 +2436,11 @@
     },
     {
         "regio": "11",
+        "kazerneNaam": "Oosthuizen",
+        "adres": "Hoornse Jaagweg 2, 1474HM, Oosthuizen"
+    },
+    {
+        "regio": "11",
         "kazerneNaam": "Oostzaan",
         "adres": "Kerkstraat 211, 1511EE, Oostzaan"
     },
@@ -2526,6 +2531,11 @@
     },
     {
         "regio": "12",
+        "kazerneNaam": "Halfweg-Zwanenburg",
+        "adres": "Beatrixstraat 2, 1165GK, Halfweg"
+    },
+    {
+        "regio": "12",
         "kazerneNaam": "Heemskerk",
         "adres": "Cornelis Groenlandstraat 48, 1962TG, Heemskerk"
     },
@@ -2548,6 +2558,11 @@
         "regio": "12",
         "kazerneNaam": "TATA-Steel",
         "adres": "Wenkebachstraat 1, 1951JZ, Velsen-Noord"
+    },
+    {
+        "regio": "12",
+        "kazerneNaam": "Uitgeest",
+        "adres": "Molenwerf 25, 1911DB, Uitgeest"
     },
     {
         "regio": "12",
@@ -2611,8 +2626,23 @@
     },
     {
         "regio": "14",
+        "kazerneNaam": "Hilversum",
+        "adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Huizen",
+        "adres": "Eemlandweg 30, 1271KS, Huizen"
+    },
+    {
+        "regio": "14",
         "kazerneNaam": "Laren",
         "adres": "Groene Gerritsweg 2, 1251JL, Laren"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Weesp",
+        "adres": "Aetsveldselaan 65, 1381CZ, Weesp"
     },
     {
         "regio": "15",
@@ -2736,6 +2766,11 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Botlekweg",
+        "adres": "Botlekweg 119, 3197KA, Rotterdam"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Coloradoweg",
         "adres": "Coloradoweg 20, 3199LA, Rotterdam"
     },
@@ -2778,6 +2813,11 @@
         "regio": "17",
         "kazerneNaam": "Mijnsherenlaan",
         "adres": "Mijnsherenlaan 180, 3081CM, Rotterdam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Olympiakazerne",
+        "adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
     },
     {
         "regio": "17",
@@ -2831,8 +2871,43 @@
     },
     {
         "regio": "18",
+        "kazerneNaam": "Boven-Hardinxveld",
+        "adres": "Rivierdijk 422, 3372BV, Hardinxveld"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Brandwijk",
+        "adres": "Kerkweg 8, 2974LH, Brandwijk"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Dordrecht-Leerpark",
+        "adres": "Prof. Kohnstammlaan 10, 3312KL, Dordrecht"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Dordrecht-Noordendijk",
+        "adres": "Noordendijk 252, 3311DN, Dordrecht"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Giessenburg",
+        "adres": "Sportplein 2a, 3381LL, Giessenburg"
+    },
+    {
+        "regio": "18",
         "kazerneNaam": "Gorinchem",
         "adres": "Arkelsedijk 22, 4206AC, Gorinchem"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Goudriaan",
+        "adres": "Zuidzijde 147, 2977AM, Goudriaan"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Goudswaard",
+        "adres": "De Stiel 1, 3267CA, Goudswaard"
     },
     {
         "regio": "18",
@@ -2841,8 +2916,38 @@
     },
     {
         "regio": "18",
+        "kazerneNaam": "Hardinxveld-Giessendam",
+        "adres": "Rijnstraat 1c, 3371ST, Giessendam"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Heerjansdam",
+        "adres": "Nijverheidsstraat 2a, 2995AP, Heerjansdam"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Heinenoord",
+        "adres": "Julianastraat 1a, 3274AG, Heinenoord"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Hendrik-Ido-Ambacht",
+        "adres": "Krommeweg 1, 3343LB, Hendrik-Ido-Ambacht"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Hoornaar",
+        "adres": "De Vort 3, 4225SH, Noordeloos"
+    },
+    {
+        "regio": "18",
         "kazerneNaam": "Klaaswaal",
         "adres": "Berkenlaan 2, 3286XC, Klaaswaal"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Langerak",
+        "adres": "Julianastraat 28a, 2967EE, Langerak"
     },
     {
         "regio": "18",
@@ -2851,8 +2956,23 @@
     },
     {
         "regio": "18",
+        "kazerneNaam": "Mijnsheerenland",
+        "adres": "Laan van Westmolen 92, 3271BK, Mijnsheerenland"
+    },
+    {
+        "regio": "18",
         "kazerneNaam": "Nieuw-Beijerland",
         "adres": "Handelstraat 13, 3264XZ, Nieuw-Beijerland"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Nieuw-Lekkerland",
+        "adres": "Planetenlaan 78, 2957SN, Nieuw-Lekkerland"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Numansdorp",
+        "adres": "Wethouder Van der Veldenweg 4, 3281AN, Numansdorp"
     },
     {
         "regio": "18",
@@ -2866,8 +2986,18 @@
     },
     {
         "regio": "18",
+        "kazerneNaam": "Sliedrecht",
+        "adres": "Middeldiepstraat 44, 3361VT, Sliedrecht"
+    },
+    {
+        "regio": "18",
         "kazerneNaam": "Strijen",
         "adres": "Nijverheidstraat 2b, 3291CH, Strijen"
+    },
+    {
+        "regio": "18",
+        "kazerneNaam": "Zuid-Beijerland",
+        "adres": "Jan van der Heydenstraat 2, 3284WB, Zuid-Beijerland"
     },
     {
         "regio": "18",
@@ -3356,6 +3486,11 @@
     },
     {
         "regio": "21",
+        "kazerneNaam": "Boxtel",
+        "adres": "Brederodeweg 25, 5283HA, Boxtel"
+    },
+    {
+        "regio": "21",
         "kazerneNaam": "Drunen",
         "adres": "Wilhelminastraat 9, 5151BW, Drunen"
     },
@@ -3363,6 +3498,11 @@
         "regio": "21",
         "kazerneNaam": "Erp",
         "adres": "Ottenstraat 2, 5469CZ, Erp"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Grave",
+        "adres": "Stoofweg 5, 5361HZ, Grave"
     },
     {
         "regio": "21",
