@@ -2606,6 +2606,11 @@
     },
     {
         "regio": "13",
+        "kazerneNaam": "Pier Afrika Logistiek / Wagen Park",
+        "adres": "Pier Afrika 8, 1013BK, Amsterdam"
+    },
+    {
+        "regio": "13",
         "kazerneNaam": "Teunis",
         "adres": "Vredenhofweg 3, 1051LM, Amsterdam"
     },
@@ -2663,6 +2668,21 @@
         "regio": "15",
         "kazerneNaam": "Den Haag-Centrum",
         "adres": "Zamenhofstraat 10, 2518PB, Den Haag"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Den Haag-Laak",
+        "adres": "Waldorpstraat 555, 2521CK, Den Haag"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Den Haag-Leidschenveen",
+        "adres": "Donau 140, 2491BC, Den Haag"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Den Haag-Loosduinen",
+        "adres": "Dedemsvaartweg 1, 2545AP, Den Haag"
     },
     {
         "regio": "15",
@@ -2736,6 +2756,11 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Albrandswaard",
+        "adres": "Schroeder van der Kolklaan 77a, 3172VJ, Poortugaal"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Baan",
         "adres": "Ketelaarsstraat 15, 3011CM, Rotterdam"
     },
@@ -2771,6 +2796,11 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Brielle",
+        "adres": "Krammer 2, 3232HE, Brielle"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Coloradoweg",
         "adres": "Coloradoweg 20, 3199LA, Rotterdam"
     },
@@ -2781,8 +2811,18 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Dirksland",
+        "adres": "Philipshoofjesweg 57a, 3247XR, Dirksland"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Don Berghuijs",
         "adres": "Butaanweg 251, 3196KC, Rotterdam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Elbeweg",
+        "adres": "Elbeweg 4, 3198LC, Rotterdam"
     },
     {
         "regio": "17",
@@ -2791,8 +2831,38 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Goedereede",
+        "adres": "Provincialeweg 18a, 3252LR, Goedereede"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Groene Tuin",
         "adres": "Groene Tuin 321, 3078KG, Rotterdam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Heenvliet",
+        "adres": "Polyanderweg 1, 3218XT, Heenvliet"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Hellevoetsluis",
+        "adres": "Tolweg 45a, 3223CD, Hellevoetsluis"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Herkingen",
+        "adres": "Februariweg 2, 3249BK, Herkingen"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Hoek van Holland",
+        "adres": "Planciushof 80, 3151GC, Hoek van Holland"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Hoogvliet",
+        "adres": "Kouwenaardseweg 100, 3191TN, Hoogvliet"
     },
     {
         "regio": "17",
@@ -2806,8 +2876,23 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Krimpen aan den IJssel",
+        "adres": "Nieuwe Tiendweg 19, 2922EN, Krimpen aan den IJssel"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Maassluis",
         "adres": "Elektraweg 3, 3144CB, Maassluis"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Melissant",
+        "adres": "Kerkhofweg 2, 3248AP, Melissant"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Merseyweg",
+        "adres": "Merseyweg 14, 3197KG, Rotterdam"
     },
     {
         "regio": "17",
@@ -2816,12 +2901,42 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Nieuwe-Tonge",
+        "adres": "Zuidelijke Achterweg 20, 3244AX, Nieuwe-Tonge"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Olympiakazerne",
         "adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
     },
     {
         "regio": "17",
-        "kazerneNaam": "Prinses Maximaweg",
+        "kazerneNaam": "Ooltgensplaat",
+        "adres": "Langeweg 31, 3257KC, Ooltgensplaat"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Oostvoorne",
+        "adres": "Voorweg 65, 3233SJ, Oostvoorne"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Ouddorp",
+        "adres": "Hofdijksweg 27, 3253KC, Ouddorp"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Oude Tonge",
+        "adres": "Tramweg 3, 3255MB, Oude Tonge"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Oudenhoorn",
+        "adres": "Leuneweg 10a, 3227AP, Oudenhoorn"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Prinses Maximakazerne",
         "adres": "Prinses Maximaweg 960, 3199KG, Rotterdam"
     },
     {
@@ -2831,13 +2946,28 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Rockanje",
+        "adres": "Kerkweg 10, 3235XL, Rockanje"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Rotterdam-Airport",
+        "adres": "Brandenburgbaan 1, 3045 AK Rotterdam"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Rozenburg",
         "adres": "Laan van Nieuw Blankenburg 10, 3191DA, Rozenburg"
     },
     {
         "regio": "17",
         "kazerneNaam": "Schiedam",
-        "adres": "`s-Gravenlandseweg 551, 3119XT, Schiedam"
+        "adres": "`s-Gravelandseweg 551, 3119XT, Schiedam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Slotlaan",
+        "adres": "Slotlaan 121, 2902AL, Capelle aan den IJssel"
     },
     {
         "regio": "17",
@@ -2846,8 +2976,28 @@
     },
     {
         "regio": "17",
+        "kazerneNaam": "Stad aan 't Haringvliet",
+        "adres": "Nieuwstraat 34, 3243AN, Stad aan 't Haringvliet"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Stellendam",
+        "adres": "Deltastraat 1, 3251AC, Stellendam"
+    },
+    {
+        "regio": "17",
         "kazerneNaam": "Vlaardingen",
         "adres": "Hoogstad 501, 3131KX, Vlaardingen"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Zuidland",
+        "adres": "Kerkweg 27, 3214VC, Zuidland"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Zwartewaal",
+        "adres": "Henry Fordstraat 44, 3238BE, Zwartewaal"
     },
     {
         "regio": "18",
@@ -3086,6 +3236,11 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Sluis",
+        "adres": "Groote Markt 15, 4524CD, Sluis"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Sluiskil",
         "adres": "Bosjesweg 1, 4541AM, Sluiskil"
     },
@@ -3093,6 +3248,11 @@
         "regio": "19",
         "kazerneNaam": "Stavenisse",
         "adres": "Julianastraat 7, 4696BH, Stavenisse"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Terneuzen Zuidlandstraat",
+        "adres": "Da Costastraat 1a, 4532CP, Terneuzen"
     },
     {
         "regio": "19",
@@ -3223,6 +3383,11 @@
         "regio": "20",
         "kazerneNaam": "Goirle",
         "adres": "Kerkstraat 14, 5051LB, Goirle"
+    },
+    {
+        "regio": "20",
+        "kazerneNaam": "Haaren",
+        "adres": "Helvoirtseweg 6b, 5076PK, Haaren"
     },
     {
         "regio": "20",
@@ -3503,6 +3668,11 @@
         "regio": "21",
         "kazerneNaam": "Grave",
         "adres": "Stoofweg 5, 5361HZ, Grave"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Haps",
+        "adres": "Oeffeltseweg 9, 5443PJ, Haps"
     },
     {
         "regio": "21",

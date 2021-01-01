@@ -1147,6 +1147,13 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-302",
+        "kenteken": "J-927-TK",
+        "omschrijving": "Mobiele Intensive Care Unit",
+        "merk": "Mercedes Benz"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-343",
         "kenteken": "TJ-448-H",
         "omschrijving": "Rapid Responder",
@@ -1232,6 +1239,13 @@
         "kenteken": "JZ-236-N",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "10",
+        "roepnummer": "10-340",
+        "kenteken": "ZJ-922-X",
+        "omschrijving": "Rapid Responder",
+        "merk": "Volkswagen Touran"
     },
     {
         "regio": "10",
@@ -1451,6 +1465,13 @@
     },
     {
         "regio": "13",
+        "roepnummer": "13-344",
+        "kenteken": "J-155-HP",
+        "omschrijving": "Rapid Responder",
+        "merk": "Mercedes Benz Vito"
+    },
+    {
+        "regio": "13",
         "roepnummer": "13-401",
         "kenteken": "G-683-XL",
         "omschrijving": "Zorgambulance",
@@ -1536,6 +1557,13 @@
     },
     {
         "regio": "15",
+        "roepnummer": "15-103",
+        "kenteken": "RK-668-J",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "15",
         "roepnummer": "15-106",
         "omschrijving": "Ambulance",
         "locatieIndienVast": "Den Haag"
@@ -1604,6 +1632,13 @@
         "regio": "15",
         "roepnummer": "15-342",
         "omschrijving": "Rapid Responder"
+    },
+    {
+        "regio": "15",
+        "roepnummer": "15-802",
+        "kenteken": "NB-857-K",
+        "omschrijving": "Officier van Dienst Geneeskunde",
+        "merk": "Volkswagen Tiguan"
     },
     {
         "regio": "16",
@@ -3665,9 +3700,9 @@
     {
         "regio": "24",
         "roepnummer": "24-711",
-        "kenteken": "GK-856-D",
+        "kenteken": "J-816-RL",
         "omschrijving": "Huisartsenpostvoertuig",
-        "merk": "Mercedes Benz GLK",
+        "merk": "Volvo XC40",
         "locatieIndienVast": "HAP Zuijderlandziekenhuis Geleen"
     },
     {
@@ -3767,5 +3802,12 @@
         "kenteken": "2-TTK-46",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "25",
+        "roepnummer": "25-702",
+        "kenteken": "G-081-DK",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC60"
     }
 ]
