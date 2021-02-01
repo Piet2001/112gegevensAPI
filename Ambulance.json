@@ -204,7 +204,8 @@
         "roepnummer": "01-156",
         "kenteken": "G-511-BG",
         "omschrijving": "Ambulance",
-        "merk": "Mercedes Benz Sprinter"
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Stadskanaal"
     },
     {
         "regio": "01",
@@ -367,6 +368,14 @@
     },
     {
         "regio": "01",
+        "roepnummer": "01-303",
+        "kenteken": "SK-481-J",
+        "omschrijving": "Psycholance",
+        "merk": "Ford Transit Custom",
+        "locatieIndienVast": "Groningen"
+    },
+    {
+        "regio": "01",
         "roepnummer": "01-321",
         "kenteken": "24-MH-TH",
         "omschrijving": "Motorlance",
@@ -401,7 +410,8 @@
         "roepnummer": "01-382",
         "kenteken": "G-953-RL",
         "omschrijving": "Rapid Responder",
-        "merk": "Volkswagen T-ROC"
+        "merk": "Volkswagen T-ROC",
+        "locatieIndienVast": "Groningen"
     },
     {
         "regio": "01",
@@ -457,10 +467,9 @@
     {
         "regio": "01",
         "roepnummer": "01-403",
-        "kenteken": "98-ZXS-8",
+        "kenteken": "K-519-JH",
         "omschrijving": "Zorgambulance",
-        "merk": "Mercedes Benz Sprinter",
-        "locatieIndienVast": "Stadskanaal"
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "01",
@@ -521,9 +530,8 @@
     {
         "regio": "01",
         "roepnummer": "01-705",
-        "kenteken": "HB-995-L",
         "omschrijving": "Huisartsenpostvoertuig",
-        "merk": "Mercedes Benz Sprinter",
+        "merk": "Mercedes Benz V-Klasse",
         "locatieIndienVast": "Groningen"
     },
     {
@@ -637,7 +645,8 @@
         "regio": "02",
         "roepnummer": "02-132",
         "kenteken": "PJ-477-X",
-        "omschrijving": "Ambulance"
+        "omschrijving": "Ambulance",
+        "merk": "Volkswagen Transporter"
     },
     {
         "regio": "02",
@@ -734,6 +743,22 @@
         "merk": "Volkswagen Touran"
     },
     {
+        "regio": "03",
+        "roepnummer": "03-801",
+        "kenteken": "10-TXP-3",
+        "omschrijving": "Officier van Dienst Geneeskunde",
+        "merk": "Mitsubishi Outlander",
+        "locatieIndienVast": "Assen"
+    },
+    {
+        "regio": "03",
+        "roepnummer": "03-802",
+        "kenteken": "77-ZB-JK",
+        "omschrijving": "Officier van Dienst Geneeskunde",
+        "merk": "Volkswagen Touran",
+        "locatieIndienVast": "Assen"
+    },
+    {
         "regio": "04",
         "roepnummer": "04-130",
         "kenteken": "ZB-364-B",
@@ -786,8 +811,35 @@
     },
     {
         "regio": "05",
+        "roepnummer": "05-102",
+        "kenteken": "J-805-NB",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
+        "roepnummer": "05-114",
+        "kenteken": "J-799-NB",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
         "roepnummer": "05-118",
         "kenteken": "H-466-JP",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
+        "roepnummer": "05-153",
+        "kenteken": "J-807-NB",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
+        "roepnummer": "05-156",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
     },
@@ -1051,6 +1103,13 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-111",
+        "kenteken": "K-056-DH",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-112",
         "kenteken": "73-XZL-8",
         "omschrijving": "Ambulance",
@@ -1058,10 +1117,30 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-115",
+        "kenteken": "K-074-HG",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-117",
+        "kenteken": "J-813-NB",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-124",
         "kenteken": "27-TGL-5",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz E-Klasse"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-125",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "09",
@@ -1077,6 +1156,13 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-131",
+        "kenteken": "J-809-NB",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-132",
         "kenteken": "ZD-764-L",
         "omschrijving": "Ambulance",
@@ -1085,9 +1171,14 @@
     {
         "regio": "09",
         "roepnummer": "09-136",
-        "kenteken": "6-KTP-58",
         "omschrijving": "Ambulance",
-        "merk": "Mercedes Benz E-Klasse"
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-137",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "09",
@@ -1106,9 +1197,14 @@
     {
         "regio": "09",
         "roepnummer": "09-140",
-        "kenteken": "51-TGN-8",
         "omschrijving": "Ambulance",
-        "merk": "Mercedes Benz E-Klasse"
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-141",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "09",
@@ -1165,6 +1261,26 @@
         "kenteken": "TL-157-Z",
         "omschrijving": "Rapid Responder",
         "merk": "Volkswagen Touran"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-403",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-408",
+        "kenteken": "J-928-TK",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
+        "roepnummer": "09-410",
+        "kenteken": "J-017-ZK",
+        "omschrijving": "Zorgambulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "09",
@@ -1345,6 +1461,13 @@
     },
     {
         "regio": "12",
+        "roepnummer": "12-527",
+        "kenteken": "PD-717-R",
+        "omschrijving": "OpleidingsAmbulance",
+        "merk": "Ford Transit"
+    },
+    {
+        "regio": "12",
         "roepnummer": "12-634",
         "kenteken": "RK-729-B",
         "omschrijving": "Ambulance (op oproepbasis)",
@@ -1356,6 +1479,13 @@
         "kenteken": "RK-305-B",
         "omschrijving": "Ambulance (op oproepbasis)",
         "merk": "Fort Transit"
+    },
+    {
+        "regio": "12",
+        "roepnummer": "12-644",
+        "kenteken": "J-074-HD",
+        "omschrijving": "OpleidingsAmbulance",
+        "merk": "Mercedes Benz Sprinter"
     },
     {
         "regio": "13",
@@ -1884,7 +2014,7 @@
         "regio": "17",
         "roepnummer": "17-162",
         "kenteken": "TZ-241-J",
-        "omschrijving": "Ambulance",
+        "omschrijving": "Kinderambulance",
         "merk": "Mercedes Benz Sprinter"
     },
     {
@@ -1943,6 +2073,18 @@
         "kenteken": "20-KNK-6",
         "omschrijving": "Rapid Responder",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-349",
+        "omschrijving": "Rapid Responder",
+        "merk": "Volvo"
+    },
+    {
+        "regio": "17",
+        "roepnummer": "17-350",
+        "omschrijving": "Rapid Responder",
+        "merk": "Volvo"
     },
     {
         "regio": "17",
@@ -3532,7 +3674,7 @@
     {
         "regio": "24",
         "roepnummer": "24-135",
-        "kenteken": "4-XVR-96",
+        "kenteken": "H-873-XH",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Maastricht"

@@ -611,6 +611,11 @@
     },
     {
         "regio": "03",
+        "kazerneNaam": "Groningen Airport Eelde",
+        "adres": "Machlaan 38, 9761TK, Eelde"
+    },
+    {
+        "regio": "03",
         "kazerneNaam": "Havelte",
         "adres": "Molenweg 3a, 7971BJ, Havelte"
     },
@@ -2570,6 +2575,11 @@
         "adres": "`s-Gravenlust 35, 1981AE, Velsen-Zuid"
     },
     {
+        "regio": "12",
+        "kazerneNaam": "Zandvoort-Noord",
+        "adres": "Linnaeusstraat 2, 2041BR, Zandvoort"
+    },
+    {
         "regio": "13",
         "kazerneNaam": "Aalsmeer",
         "adres": "Zwarteweg 77, 1431VJ, Aalsmeer"
@@ -2661,6 +2671,11 @@
     },
     {
         "regio": "15",
+        "kazerneNaam": "Delft",
+        "adres": "Krakeelpolderweg 51, 2613NW, Delft"
+    },
+    {
+        "regio": "15",
         "kazerneNaam": "Den Haag-Archipel",
         "adres": "Burg. Van Karnebeeklaan 1a, 2585BA, Den Haag"
     },
@@ -2686,8 +2701,33 @@
     },
     {
         "regio": "15",
+        "kazerneNaam": "Den Hoorn",
+        "adres": "Woudseweg 7, 2635CG, Den Hoorn"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Flora Holland",
+        "adres": "Dijkweg 68, 2675AE, Honselersdijk"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Honselersdijk",
+        "adres": "Dijkweg 68, 2675AE, Honselersdijk"
+    },
+    {
+        "regio": "15",
         "kazerneNaam": "Leidschendam-Voorburg",
         "adres": "Via Donizetti 1, 2272VK, Voorburg"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Maasdijk",
+        "adres": "De derde hoeve 11, 2676CR, Maasdijk"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Maasland",
+        "adres": "Slot de Houvelaan 7, 3155VP, Maasland"
     },
     {
         "regio": "15",
@@ -2701,6 +2741,11 @@
     },
     {
         "regio": "15",
+        "kazerneNaam": "Pijnacker-Nootdorp",
+        "adres": "Nootdorpseweg 4, 2641BJ, Pijnacker"
+    },
+    {
+        "regio": "15",
         "kazerneNaam": "Rijswijk",
         "adres": "Burgemeester Elsenlaan 315, 2282NH, Rijswijk"
     },
@@ -2711,8 +2756,28 @@
     },
     {
         "regio": "15",
+        "kazerneNaam": "Schipluiden",
+        "adres": "Anna van Raesfeltstraat 35, 2636HX, Schipluiden"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Wassenaar",
+        "adres": "Johan de Wittstraat 39, 2242LV, Wassenaar"
+    },
+    {
+        "regio": "15",
         "kazerneNaam": "Wateringen",
         "adres": "Dorpskade 34, 2291HR, Wateringen"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Zoetermeer-Oosterheem",
+        "adres": "Olof Palmelaan 1, 2729NA, Zoetermeer"
+    },
+    {
+        "regio": "15",
+        "kazerneNaam": "Zoetermeer-Stadshart",
+        "adres": "Brusselstraat 4, 2711AJ, Zoetermeer"
     },
     {
         "regio": "16",
@@ -2736,6 +2801,21 @@
     },
     {
         "regio": "16",
+        "kazerneNaam": "Bodegraven",
+        "adres": "Portugalweg 6, 2411PR, Bodegraven"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Boskoop",
+        "adres": "Torenpad 29, 2771EP, Boskoop"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Driebruggen",
+        "adres": "De Groendijck 20, 3465JB, Driebruggen"
+    },
+    {
+        "regio": "16",
         "kazerneNaam": "Gouda",
         "adres": "Keerkring 12, 2801DG, Gouda"
     },
@@ -2746,8 +2826,28 @@
     },
     {
         "regio": "16",
-        "kazerneNaam": "Nieuwerkerk aan den Ijssel",
+        "kazerneNaam": "Leiden-Noord",
+        "adres": "Gooimeerlaan 25, 2317JZ, Leiden"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Leiden-Zuid",
+        "adres": "Rooseveltstraat 4a, 2321BM, Leiden"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Moordrecht",
+        "adres": "Ambachtweg 28a, 2841LZ, Moordrecht"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Nieuwerkerk aan den IJssel",
         "adres": "Prins Alexanderlaan 2, 2912AL, Nieuwerkerk aan den IJssel"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Zevenhuizen",
+        "adres": "De Opril 1, 2761VP, Zevenhuizen"
     },
     {
         "regio": "17",
@@ -3188,6 +3288,11 @@
         "regio": "19",
         "kazerneNaam": "Biervliet",
         "adres": "Weststraat 34, 4521AA, Biervliet"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Borssele",
+        "adres": "Quistenburg 3, 4454PZ, Borssele"
     },
     {
         "regio": "19",
@@ -3648,6 +3753,11 @@
         "regio": "21",
         "kazerneNaam": "Berlicum",
         "adres": "Runweg 25, 5258BK, Berlicum"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Boekel",
+        "adres": "De Vlonder 64, 5427DE, Boekel"
     },
     {
         "regio": "21",
