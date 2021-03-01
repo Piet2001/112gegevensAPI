@@ -2576,6 +2576,11 @@
     },
     {
         "regio": "12",
+        "kazerneNaam": "Zandvoort-Centrum",
+        "adres": "Duinstraat 5, 2042HC, Zandvoort"
+    },
+    {
+        "regio": "12",
         "kazerneNaam": "Zandvoort-Noord",
         "adres": "Linnaeusstraat 2, 2041BR, Zandvoort"
     },
@@ -2826,6 +2831,41 @@
     },
     {
         "regio": "16",
+        "kazerneNaam": "Haastrecht",
+        "adres": "Provincialeweg 29, 2851EA, Haastrecht"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Hazerswoude",
+        "adres": "Klaproos 1, 2391EL, Hazerswoude-Dorp"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Hillegom",
+        "adres": "Weerlaan 20, 2181HH, Hillegom"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Kaag",
+        "adres": "Julianalaan 3, 2159LA, Kaag"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Katwijk",
+        "adres": "Prins Hendrikkade 12, 2225TZ, Katwijk"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Koudekerk aan den Rijn",
+        "adres": "Hoogewaard 5, 2396AA, Koudekerk aan den Rijn"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Krimpen aan de Lek",
+        "adres": "Tiendweg 5, 2931LC, Krimpen aan de Lek"
+    },
+    {
+        "regio": "16",
         "kazerneNaam": "Leiden-Noord",
         "adres": "Gooimeerlaan 25, 2317JZ, Leiden"
     },
@@ -2836,8 +2876,33 @@
     },
     {
         "regio": "16",
+        "kazerneNaam": "Leiderdorp",
+        "adres": "Simon Smitweg 11, 2353GA, Leiderdorp"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Leimuiden",
+        "adres": "Dokter Stapenséastraat 35, 2451AD, Leimuiden"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Lekkerkerk",
+        "adres": "Twijnstraweg 19, 2941BW, Lekkerkerk"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Lisse",
+        "adres": "Oranjelaan 77, 2161KC, Lisse"
+    },
+    {
+        "regio": "16",
         "kazerneNaam": "Moordrecht",
         "adres": "Ambachtweg 28a, 2841LZ, Moordrecht"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Nieuwerbrug",
+        "adres": "Graaf Albrechtstraat 5, 2415AW, Nieuwerbrug aan den Rijn"
     },
     {
         "regio": "16",
@@ -2846,8 +2911,113 @@
     },
     {
         "regio": "16",
+        "kazerneNaam": "Nieuwkoop",
+        "adres": "Achterweg 5, 2421EB, Nieuwkoop"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Nieuwveen",
+        "adres": "Hogendijk 2a, 2441CK, Nieuwveen"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Noordwijk",
+        "adres": "Duinwetering 102, 2203HM, Noordwijk"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Noordwijkerhout",
+        "adres": "Herenweg 96, 2211CD, Noordwijkerhout"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Oegstgeest",
+        "adres": "Dorpsstraat 64, 2343BB, Oegstgeest"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Ouderkerk aan den IJssel",
+        "adres": "Abelenlaan 2, 2935SB, Ouderkerk aan den IJssel"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Reeuwijk",
+        "adres": "Raadhuisweg 47, 2811HT, Reeuwijk"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Rijnsburg",
+        "adres": "Noordeinde 4, 2231LK, Rijnsburg"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Rijpwetering",
+        "adres": "Oud Adeselaan 36b, 2375XB, Rijpwetering"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Roelofarendsveen",
+        "adres": "Wilgenstraat 40, 2371XJ, Roelofarendsveen"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Sassenheim",
+        "adres": "Parklaan 176, 2171EK, Sassenheim"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Schoonhoven",
+        "adres": "Het Bastion 7, 2871EV, Schoonhoven"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Stolwijk",
+        "adres": "Bovenkerkseweg 19, 2821XS, Stolwijk"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Ter Aar",
+        "adres": "Middelweg 1, 2461CB, Ter Aar"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Valkenburg",
+        "adres": "Torenvlietslaan 12, 2235SM, Valkenburg"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Voorhout",
+        "adres": "Nijverheidsweg 32a, 2215MH, Voorhout"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Voorschoten",
+        "adres": "Burgemeester Van der Haarplein 1, 2251CT, Voorschoten"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Waddinxveen",
+        "adres": "Noordkade 48, 2741EW, Waddinxveen"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Warmond",
+        "adres": "Van den Woudestraat 1b, 2361VN, Warmond"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Woubrugge",
+        "adres": "Vrouwgeestweg 1a, 2481KM, Woubrugge"
+    },
+    {
+        "regio": "16",
         "kazerneNaam": "Zevenhuizen",
         "adres": "De Opril 1, 2761VP, Zevenhuizen"
+    },
+    {
+        "regio": "16",
+        "kazerneNaam": "Zwammerdam",
+        "adres": "Spoorlaan 21, 2471PB, Zwammerdam"
     },
     {
         "regio": "17",
@@ -2998,6 +3168,11 @@
         "regio": "17",
         "kazerneNaam": "Mijnsherenlaan",
         "adres": "Mijnsherenlaan 180, 3081CM, Rotterdam"
+    },
+    {
+        "regio": "17",
+        "kazerneNaam": "Moezelweg",
+        "adres": "Moezelweg 150, 3198LS, Rotterdam"
     },
     {
         "regio": "17",
@@ -3761,8 +3936,23 @@
     },
     {
         "regio": "21",
+        "kazerneNaam": "Boxmeer",
+        "adres": "Frans Halsstraat 2, 5831CA, Boxmeer"
+    },
+    {
+        "regio": "21",
         "kazerneNaam": "Boxtel",
         "adres": "Brederodeweg 25, 5283HA, Boxtel"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Cromvoirt",
+        "adres": "Sint Lambertusstraat 27, 5266AC, Cromvoirt"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Cuijk",
+        "adres": "Gildekamp 11, 5431SP, Cuijk"
     },
     {
         "regio": "21",
@@ -3776,6 +3966,11 @@
     },
     {
         "regio": "21",
+        "kazerneNaam": "Geffen",
+        "adres": "Groenstraat 19, 5386KW, Geffen"
+    },
+    {
+        "regio": "21",
         "kazerneNaam": "Grave",
         "adres": "Stoofweg 5, 5361HZ, Grave"
     },
@@ -3786,8 +3981,48 @@
     },
     {
         "regio": "21",
+        "kazerneNaam": "Heesch",
+        "adres": "De La Sallestraat 1, 5384NK, Heesch"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Heeswijk-Dinther",
+        "adres": "Jonker Speelmanstraat 2-8, 5473CB, Heeswijk-Dinther"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Helvoirt",
+        "adres": "Stationsweg 2, 5268BD, Helvoirt"
+    },
+    {
+        "regio": "21",
         "kazerneNaam": "Heusden",
         "adres": "Garnizoenstraat 2, 5256EK, Heusden"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Liempde",
+        "adres": "Oude Postbaan 10, 5298AT, Liempde"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Lith",
+        "adres": "Wiegersmastraat 11a, 5397BH, Lith"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Megen",
+        "adres": "Torenstraat 4, 5366BK, Megen"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Mill",
+        "adres": "Jochemsweg 2, 5451HW, Mill"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Nistelrode",
+        "adres": "Heescheweg 37, 5388RG, Nistelrode"
     },
     {
         "regio": "21",
@@ -3798,6 +4033,41 @@
         "regio": "21",
         "kazerneNaam": "Oss",
         "adres": "Wethouder Van Eschstraat 260, 5342AV, Oss"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Ravenstein",
+        "adres": "Veersingel 2, 5371EA, Ravenstein"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Rosmalen",
+        "adres": "Burg. Mazairaclaan 131, 5241NE, Rosmalen"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Schaijk",
+        "adres": "Schutsboomstraat 94, 5374CD, Schaijk"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Schijndel",
+        "adres": "Kerkendijk 57, 5482KG, Schijndel"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Sint Anthonis",
+        "adres": "Breestraat 1a, 5845AX, Sint Anthonis"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Sint-Michielsgestel",
+        "adres": "Schijndelseweg 38b, 5271SB, Sint-Michielsgestel"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Sint-Oedenrode",
+        "adres": "Van Rijckevorsel van Kessellaan 1, 5491GD, Sint-Oedenrode"
     },
     {
         "regio": "21",
@@ -3823,6 +4093,16 @@
         "regio": "21",
         "kazerneNaam": "Vught",
         "adres": "Kettingweg 7a, 5261LG, Vught"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Wanroij",
+        "adres": "Peelstraat 2c, 5446PJ, Wanroij"
+    },
+    {
+        "regio": "21",
+        "kazerneNaam": "Zeeland",
+        "adres": "Langenboomseweg 71b, 5411AT, Zeeland"
     },
     {
         "regio": "22",
