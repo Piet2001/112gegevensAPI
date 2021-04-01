@@ -150,10 +150,10 @@
     {
         "regio": "01",
         "roepnummer": "01-0191",
-        "kenteken": "1-SPD-88",
+        "kenteken": "J-485-VN",
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-        "merkType": "Volkswagen Transporter",
+        "merkType": "Mercedes Benz Vito",
         "kazerne": "Groningen Sontweg",
         "adres": "Sontweg 10, 9723AT, Groningen"
     },
@@ -335,7 +335,7 @@
         "regio": "01",
         "roepnummer": "01-1225",
         "type": "GSH-LOG",
-        "omschrijving": "Gevaarlijke Stoffenhaakarmbak-Logistiek",
+        "omschrijving": "Gevaarlijke Stoffenhaakarmbak - Logistiek",
         "kazerne": "Grootegast",
         "adres": "Rondweg 15, 9861GK, Grootegast"
     },
@@ -393,7 +393,7 @@
         "regio": "01",
         "roepnummer": "01-1322",
         "type": "GSH‐DCN",
-        "omschrijving": "Gevaarlijke Stoffenhaakarmbak Haakrambak Decontaminatie NBC steunp.",
+        "omschrijving": "Gevaarlijke Stoffenhaakarmbak - Decontaminatie NBC steunp.",
         "kazerne": "Grijpskerk",
         "adres": "Bouwhuisstraat 20, 9843BC, Grijpskerk"
     },
@@ -410,10 +410,10 @@
     {
         "regio": "01",
         "roepnummer": "01-1332",
-        "kenteken": "BH-RH-89",
+        "kenteken": "21-BPZ-6",
         "type": "TS-9",
         "omschrijving": "Tankautospuit 9 mans bezetting",
-        "merkType": "Scania P94D",
+        "merkType": "DAF",
         "kazerne": "Oldehove",
         "adres": "Englumstraat 6, 9883PE, Oldehove"
     },
@@ -2818,8 +2818,10 @@
     {
         "regio": "02",
         "roepnummer": "02-4431",
+        "kenteken": "84-BLZ-3",
         "type": "TS-7",
         "omschrijving": "Tankautospuit 7 mans bezetting",
+        "merkType": "Volvo",
         "kazerne": "Kollum",
         "adres": "Tochmalaan 3, 9291BV, Kollum"
     },
@@ -5066,7 +5068,7 @@
         "regio": "02",
         "roepnummer": "26-7171",
         "type": "BMH-THU-RE",
-        "omschrijving": "Bijzonder materieel - Technische HulpverleningsUnit Redding",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit Redding",
         "kazerne": "Drachten",
         "adres": "Loswal 1, 9206AH, Drachten"
     },
@@ -5082,7 +5084,7 @@
         "regio": "02",
         "roepnummer": "26-8172",
         "type": "BMH-THU",
-        "omschrijving": "STH Bijzonder materieel Technische HulpverleningsUnit container",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit",
         "kazerne": "Drachten",
         "adres": "Loswal 1, 9206AH, Drachten"
     },
@@ -5836,8 +5838,10 @@
     {
         "regio": "03",
         "roepnummer": "03-8673",
-        "type": "MSA",
-        "omschrijving": "Motorspuitaanhanger",
+        "kenteken": "V-238-HN",
+        "type": "PM",
+        "omschrijving": "Personeel/Materieelvoertuig",
+        "merkType": "Volkswagen Amarok",
         "kazerne": "Emmen",
         "adres": "Nijbracht 43a, 7821CB, Emmen"
     },
@@ -5860,8 +5864,10 @@
     {
         "regio": "03",
         "roepnummer": "03-8687",
-        "type": "WTH",
-        "omschrijving": "Watertankhaakarmbak",
+        "kenteken": "35-BNP-4",
+        "type": "VW-AH",
+        "omschrijving": "Vrachtwagen - Arbeidshygiëne",
+        "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Emmen",
         "adres": "Nijbracht 43a, 7821CB, Emmen"
     },
@@ -5933,7 +5939,7 @@
         "regio": "03",
         "roepnummer": "03-8760",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Emmen",
         "adres": "Nijbracht 43a, 7821CB, Emmen"
     },
@@ -6957,7 +6963,7 @@
         "regio": "04",
         "roepnummer": "04-1181",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Oefenen",
         "kazerne": "Deventer",
         "adres": "Schonenvaardersstraat 5, 7418CC, Deventer"
@@ -7787,6 +7793,14 @@
     },
     {
         "regio": "04",
+        "roepnummer": "04-2277",
+        "type": "VIA",
+        "omschrijving": "Veetakelinstallatie aanhanger",
+        "kazerne": "Ommen",
+        "adres": "Schurinkstraat 44a, 7731GE, Ommen"
+    },
+    {
+        "regio": "04",
         "roepnummer": "04-2280",
         "type": "DB",
         "omschrijving": "Dienstbus",
@@ -7900,6 +7914,16 @@
         "omschrijving": "Tankautospuit",
         "kazerne": "Gramsbergen",
         "adres": "Oldenhof 4a, 7431AB, Gramsbergen"
+    },
+    {
+        "regio": "04",
+        "roepnummer": "04-2334",
+        "kenteken": "50-BPV-5",
+        "type": "TS",
+        "omschrijving": "Tankautospuit",
+        "merkType": "MAN",
+        "kazerne": "Bergentheim",
+        "adres": "Kanaalweg West 65a, 7691BV, Bergentheim"
     },
     {
         "regio": "04",
@@ -8072,6 +8096,14 @@
         "type": "WT",
         "omschrijving": "Watertankwagen",
         "merkType": "Mercedes Benz Actros",
+        "kazerne": "Wijhe",
+        "adres": "Industrieweg 6, 8131VZ, Wijhe"
+    },
+    {
+        "regio": "04",
+        "roepnummer": "04-2578",
+        "type": "VIA",
+        "omschrijving": "Veetakelinstallatie aanhanger",
         "kazerne": "Wijhe",
         "adres": "Industrieweg 6, 8131VZ, Wijhe"
     },
@@ -8807,7 +8839,7 @@
         "regio": "05",
         "roepnummer": "05-2071",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Oldenzaal",
         "adres": "Ossenmaatstraat 1, 7572BT, Oldenzaal"
     },
@@ -9745,6 +9777,13 @@
     },
     {
         "regio": "05",
+        "roepnummer": "05-9000",
+        "type": "DA-CVD",
+        "omschrijving": "Dienstauto - Commandant Van Dienst",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "05",
         "roepnummer": "05-9001",
         "kenteken": "VL-064-L",
         "type": "PM",
@@ -10459,7 +10498,7 @@
         "regio": "06",
         "roepnummer": "06-7081",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Harderwijk",
         "adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
     },
@@ -10652,8 +10691,10 @@
     {
         "regio": "06",
         "roepnummer": "06-7303",
+        "kenteken": "VS-520-P",
         "type": "PM",
         "omschrijving": "Personeel/Materieelvoertuig",
+        "merkType": "Volkswagen Transporter",
         "kazerne": "Ermelo",
         "adres": "Oude Telgterweg 181, 3851EC, Ermelo"
     },
@@ -12410,6 +12451,15 @@
     },
     {
         "regio": "06",
+        "roepnummer": "06-9651",
+        "kenteken": "BN-FV-12",
+        "type": "HW-RES",
+        "omschrijving": "Hoogwerker - Reserve",
+        "merkType": "DAF",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "06",
         "roepnummer": "06-9661",
         "type": "DPH",
         "omschrijving": "Dompelpomphaakarmbak",
@@ -12618,7 +12668,7 @@
         "regio": "06",
         "roepnummer": "06-9781",
         "type": "HRU",
-        "omschrijving": "Horse Recovery Unit",
+        "omschrijving": "Hose Recovery Unit",
         "kazerne": "Lichtenvoorde",
         "adres": "Vragenderweg 5, 7131NS, Lichtenvoorde"
     },
@@ -13284,7 +13334,7 @@
         "regio": "07",
         "roepnummer": "07-17SPEL",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Barneveld",
         "adres": "Nijkerkerweg 119, 3771LA, Barneveld"
     },
@@ -13429,16 +13479,20 @@
     {
         "regio": "07",
         "roepnummer": "07-2441",
+        "kenteken": "70-BDT-1",
         "type": "TST-8NB",
         "omschrijving": "Tankautospuit-Terreinvaardig 8 mans bezetting Natuurbrand Bestrijding",
+        "merkType": "MAN",
         "kazerne": "Lunteren",
         "adres": "Zilvervoslaan 29, 6741BE, Lunteren"
     },
     {
         "regio": "07",
         "roepnummer": "07-2480",
+        "kenteken": "V-260-NN",
         "type": "PM-FRB",
         "omschrijving": "Personeel/Materieelvoertuig - First Responder Brandweer",
+        "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Lunteren",
         "adres": "Zilvervoslaan 29, 6741BE, Lunteren"
     },
@@ -14999,7 +15053,7 @@
         "regio": "07",
         "roepnummer": "07-9286",
         "type": "HRU",
-        "omschrijving": "Horse Recovery Unit",
+        "omschrijving": "Hose Recovery Unit",
         "kazerne": "Barneveld",
         "adres": "Nijkerkerweg 119, 3771LA, Barneveld"
     },
@@ -16375,8 +16429,10 @@
     {
         "regio": "08",
         "roepnummer": "08-8331",
+        "kenteken": "17-BKN-5",
         "type": "TS",
         "omschrijving": "Tankautospuit",
+        "merkType": "MAN",
         "kazerne": "Ochten",
         "adres": "Cuneraweg 4, 4051CE, Ochten"
     },
@@ -16391,16 +16447,21 @@
     {
         "regio": "08",
         "roepnummer": "08-8431",
+        "kenteken": "50-BKL-9",
         "type": "TS",
         "omschrijving": "Tankautospuit",
+        "merkType": "MAN",
         "kazerne": "Opheusden",
         "adres": "Hamsestraat 24, 4043LH, Opheusden"
     },
     {
         "regio": "08",
         "roepnummer": "08-8481",
+        "kenteken": "82-BS-TP",
         "type": "GM",
         "omschrijving": "Gereedschap/Materieelwagen",
+        "toevoeging": "+ VIA",
+        "merkType": "Volkswagen",
         "kazerne": "Opheusden",
         "adres": "Hamsestraat 24, 4043LH, Opheusden"
     },
@@ -16830,16 +16891,20 @@
     {
         "regio": "08",
         "roepnummer": "08-9586",
+        "kenteken": "BX-SR-92",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "merkType": "Volvo",
         "kazerne": "Ochten",
         "adres": "Cuneraweg 4, 4051CE, Ochten"
     },
     {
         "regio": "08",
         "roepnummer": "08-9587",
+        "kenteken": "BX-LB-22",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "merkType": "Volvo",
         "kazerne": "Beesd",
         "adres": "Veerweg 5, 4153AS, Beesd"
     },
@@ -16890,7 +16955,7 @@
         "regio": "08",
         "roepnummer": "08-9667",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Hydropomphaakarmbak t.b.v. het spoor",
         "kazerne": "Nijmegen-West",
         "adres": "Nieuwe Dukenburgseweg 23, 6534AD, Nijmegen"
@@ -16971,7 +17036,7 @@
         "regio": "08",
         "roepnummer": "26-7175",
         "type": "BMH-THU-RE",
-        "omschrijving": "Bijzonder materieel - Technische HulpverleningsUnit Redding",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit Redding",
         "kazerne": "Beusichem",
         "adres": "Speulmanweg 2, 4112NA, Beusichem"
     },
@@ -17336,8 +17401,10 @@
     {
         "regio": "09",
         "roepnummer": "09-1311",
+        "kenteken": "71-BRD-9",
         "type": "WO",
         "omschrijving": "Waterongevallenvoertuig",
+        "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Mijdrecht",
         "adres": "Industrieweg 2, 3641RM, Mijdrecht"
     },
@@ -17647,6 +17714,17 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-2411",
+        "kenteken": "98-VKL-5",
+        "type": "PM",
+        "omschrijving": "Personeel/Materieelvoertuig",
+        "toevoeging": "Logistiek (f-log)",
+        "merkType": "Mitsubishi",
+        "kazerne": "Veenendaal",
+        "adres": "Industrielaan 18, 3903AC, Veenendaal"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-2431",
         "kenteken": "05-BKX-9",
         "type": "TS",
@@ -17696,8 +17774,10 @@
     {
         "regio": "09",
         "roepnummer": "09-2631",
+        "kenteken": "21-BPH-1",
         "type": "TS",
         "omschrijving": "Tankautospuit",
+        "merkType": "Mercedes Benz",
         "kazerne": "Montfoort",
         "adres": "Anne Franklaan 16, 3417GE, Montfoort"
     },
@@ -18024,8 +18104,10 @@
     {
         "regio": "09",
         "roepnummer": "09-3911",
+        "kenteken": "73-BRD-9",
         "type": "WO",
         "omschrijving": "Waterongevallenvoertuig",
+        "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Maarssen",
         "adres": "Dorpsstraat 19, 3626AC, Nieuwer ter Aa"
     },
@@ -18598,8 +18680,10 @@
     {
         "regio": "09",
         "roepnummer": "09-5911",
+        "kenteken": "72-BRD-9",
         "type": "WO",
         "omschrijving": "Waterongevallenvoertuig",
+        "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Wijk bij Duurstede",
         "adres": "Hordenweg 4, 3961KC, Wijk bij Duurstede"
     },
@@ -18822,8 +18906,10 @@
     {
         "regio": "09",
         "roepnummer": "09-6486",
+        "kenteken": "BX-VB-42",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "merkType": "Scania",
         "kazerne": "Woudenberg",
         "adres": "Europaweg 4, 3931NJ, Woudenberg"
     },
@@ -19513,8 +19599,8 @@
         "roepnummer": "09-9158",
         "type": "DB-HRT",
         "omschrijving": "Personeel/Materieelvoertuig - Hoogte Reddings Team",
-        "kazerne": "Utrecht-Leidsche Rijn",
-        "adres": "Belcampostraat 10, 3544NG, Utrecht"
+        "kazerne": "Vleuten",
+        "adres": "Gouden Koetslaan 97, 3451WE, Vleuten"
     },
     {
         "regio": "09",
@@ -21490,7 +21576,7 @@
         "regio": "10",
         "roepnummer": "10-6985",
         "type": "BMH-THU",
-        "omschrijving": "STH Bijzonder materieel Technische HulpverleningsUnit container",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit",
         "kazerne": "Regionaal"
     },
     {
@@ -21913,7 +21999,7 @@
         "regio": "11",
         "roepnummer": "11-0521",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Wormerveer",
         "adres": "Industrieweg 1c, 1521NA, Wormerveer"
     },
@@ -23141,6 +23227,16 @@
     },
     {
         "regio": "12",
+        "roepnummer": "12-1699",
+        "kenteken": "17-XB-HT",
+        "type": "DA-CVD",
+        "omschrijving": "Dienstauto - Commandant Van Dienst",
+        "merkType": "Opel",
+        "kazerne": "Haarlem-West",
+        "adres": "Zijlweg 200, 2015CK, Haarlem"
+    },
+    {
+        "regio": "12",
         "roepnummer": "12-2001",
         "type": "DB",
         "omschrijving": "Dienstbus",
@@ -24318,6 +24414,15 @@
         "omschrijving": "Autoladder",
         "kazerne": "Willem",
         "adres": "Kazerne NOT FOUND"
+    },
+    {
+        "regio": "13",
+        "roepnummer": "13-3563",
+        "kenteken": "WR-PN-15",
+        "type": "SBA",
+        "omschrijving": "Schuimblusaanhanger",
+        "kazerne": "Aalsmeer",
+        "adres": "Zwarteweg 77, 1431VJ, Aalsmeer"
     },
     {
         "regio": "13",
@@ -25668,14 +25773,6 @@
     },
     {
         "regio": "14",
-        "roepnummer": "14-3103",
-        "type": "PM",
-        "omschrijving": "Personeel/Materieelvoertuig",
-        "kazerne": "Oefencentrum Crailo",
-        "adres": "Kazerne NOT FOUND"
-    },
-    {
-        "regio": "14",
         "roepnummer": "14-3184",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
@@ -25768,6 +25865,16 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "merkType": "Mercedes Benz Vito",
+        "kazerne": "Hilversum",
+        "adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
+    },
+    {
+        "regio": "14",
+        "roepnummer": "14-7006",
+        "kenteken": "VB-428-G",
+        "type": "PM-TBO",
+        "omschrijving": "Personeel/Materieelvoertuig - Team incidenten & Brand Onderzoek",
+        "merkType": "Volkswagen Caddy",
         "kazerne": "Hilversum",
         "adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
     },
@@ -25875,7 +25982,7 @@
         "regio": "14",
         "roepnummer": "14-7063",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Bos/Heide blusunit",
         "kazerne": "Bussum",
         "adres": "Brinklaan 140, 1404GW, Bussum"
@@ -26389,7 +26496,7 @@
         "regio": "15",
         "roepnummer": "15-5666",
         "type": "BMH‐BRB",
-        "omschrijving": "Bijzonder materieel haakarmbak - Blusrobot",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Blusrobot",
         "kazerne": "Rijswijk",
         "adres": "Burgemeester Elsenlaan 315, 2282NH, Rijswijk"
     },
@@ -26827,7 +26934,7 @@
         "regio": "15",
         "roepnummer": "15-7487",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "tbv kraan",
         "kazerne": "Den Haag-Leidschenveen",
         "adres": "Donau 140, 2491BC, Den Haag"
@@ -26972,8 +27079,7 @@
         "roepnummer": "15-9020",
         "type": "DB-AGS",
         "omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
-        "kazerne": "Haaglanden / Hollands Midden",
-        "adres": "Kazerne NOT FOUND"
+        "kazerne": "Haaglanden / Hollands Midden"
     },
     {
         "regio": "15",
@@ -27218,8 +27324,10 @@
     {
         "regio": "15",
         "roepnummer": "15-9661",
+        "kenteken": "97-MH-SX",
         "type": "BMM",
         "omschrijving": "Bijzonder materieel - Motor",
+        "merkType": "BMW R- 1200 RT",
         "kazerne": "Den Haag-Laak",
         "adres": "Waldorpstraat 555, 2521CK, Den Haag"
     },
@@ -28492,7 +28600,7 @@
         "regio": "16",
         "roepnummer": "16-4180",
         "type": "HA-K",
-        "omschrijving": "Haakarmvoertuig-Klein",
+        "omschrijving": "Haakarmvoertuig - Klein",
         "kazerne": "Leiden-Noord",
         "adres": "Gooimeerlaan 25, 2317JZ, Leiden"
     },
@@ -28926,7 +29034,7 @@
         "regio": "16",
         "roepnummer": "26-7174",
         "type": "BMH-THU-RE",
-        "omschrijving": "Bijzonder materieel - Technische HulpverleningsUnit Redding",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit Redding",
         "kazerne": "Alphen aan den Rijn",
         "adres": "Havenstraat 5, 2405BV, Alphen aan den Rijn"
     },
@@ -28934,7 +29042,7 @@
         "regio": "16",
         "roepnummer": "26-7184",
         "type": "BMH-THU-LO",
-        "omschrijving": "Bijzonder materieel - Technische HulpverleningsUnit Logistiek",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit Logistiek",
         "kazerne": "Alphen aan den Rijn",
         "adres": "Havenstraat 5, 2405BV, Alphen aan den Rijn"
     },
@@ -30092,7 +30200,7 @@
         "regio": "17",
         "roepnummer": "17-2182",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Don Berghuijs",
         "adres": "Butaanweg 251, 3196KC, Rotterdam"
     },
@@ -30600,7 +30708,7 @@
         "regio": "17",
         "roepnummer": "17-4581",
         "type": "HA-CBRN",
-        "omschrijving": "Haakarm Chemische, Biologische of Radiologische/Nucleaire stoffen",
+        "omschrijving": "Haakarm - Chemische, Biologische of Radiologische/Nucleaire stoffen",
         "kazerne": "Olympiakazerne",
         "adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
     },
@@ -30608,7 +30716,7 @@
         "regio": "17",
         "roepnummer": "17-4582",
         "type": "HA-CBRN",
-        "omschrijving": "Haakarm Chemische, Biologische of Radiologische/Nucleaire stoffen",
+        "omschrijving": "Haakarm - Chemische, Biologische of Radiologische/Nucleaire stoffen",
         "kazerne": "Olympiakazerne",
         "adres": "Olympiaweg 38, 3245DL, Sommelsdijk"
     },
@@ -32070,7 +32178,7 @@
         "regio": "18",
         "roepnummer": "18-5471",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Oud Beijerland",
         "adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
     },
@@ -32520,7 +32628,7 @@
     {
         "regio": "18",
         "roepnummer": "18-6501",
-        "kenteken": "83-ZK-TR",
+        "kenteken": "ZB-834-Z",
         "type": "DB",
         "omschrijving": "Dienstbus",
         "merkType": "Mercedes Benz Sprinter",
@@ -32558,8 +32666,8 @@
     {
         "regio": "18",
         "roepnummer": "18-6511",
-        "type": "BRV",
-        "omschrijving": "Brandweervaartuig",
+        "type": "WOA",
+        "omschrijving": "Waterongevallenaanhanger met boot",
         "kazerne": "Dordrecht-Noordendijk",
         "adres": "Noordendijk 252, 3311DN, Dordrecht"
     },
@@ -32700,7 +32808,7 @@
         "regio": "18",
         "roepnummer": "18-6663",
         "type": "HRU",
-        "omschrijving": "Horse Recovery Unit",
+        "omschrijving": "Hose Recovery Unit",
         "kazerne": "Dordrecht-Leerpark",
         "adres": "Prof. Kohnstammlaan 10, 3312KL, Dordrecht"
     },
@@ -33643,6 +33751,27 @@
     },
     {
         "regio": "18",
+        "roepnummer": "18-9488",
+        "kenteken": "29-BRD-1",
+        "type": "VW-LO",
+        "omschrijving": "Vrachtwagen Logistiek en Ondersteuning",
+        "toevoeging": "Arbeidshygiëne",
+        "merkType": "MAN",
+        "kazerne": "Zwijndrecht",
+        "adres": "Develsingel 17, 3333LD, Zwijndrecht"
+    },
+    {
+        "regio": "18",
+        "roepnummer": "18-9489",
+        "kenteken": "30-BRD-1",
+        "type": "VW-LO",
+        "omschrijving": "Vrachtwagen Logistiek en Ondersteuning",
+        "toevoeging": "Arbeidshygiëne",
+        "merkType": "MAN",
+        "kazerne": "Regionaal"
+    },
+    {
+        "regio": "18",
         "roepnummer": "18-9491",
         "type": "DB-OVD",
         "omschrijving": "Dienstbus - Officier van Dienst",
@@ -34257,7 +34386,7 @@
         "regio": "19",
         "roepnummer": "19-4379",
         "type": "HRU",
-        "omschrijving": "Horse Recovery Unit",
+        "omschrijving": "Hose Recovery Unit",
         "kazerne": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
     },
@@ -34464,7 +34593,7 @@
         "regio": "19",
         "roepnummer": "19-4570",
         "type": "HA-K",
-        "omschrijving": "Haakarmvoertuig-Klein",
+        "omschrijving": "Haakarmvoertuig - Klein",
         "toevoeging": "+ VC",
         "kazerne": "Middelburg-Stromenweg",
         "adres": "Stromenweg 7, 4335JR, Middelburg"
@@ -35937,8 +36066,9 @@
     {
         "regio": "19",
         "roepnummer": "19-8681",
-        "type": "VW-BM",
-        "omschrijving": "Trekker tbv. vervoer twee opleggers met watertank en SVM",
+        "type": "VW",
+        "omschrijving": "Vrachtwagen",
+        "toevoeging": "tbv. vervoer twee opleggers met watertank en SVM",
         "kazerne": "Terneuzen-Koegors",
         "adres": "Kazerne NOT FOUND"
     },
@@ -35963,7 +36093,7 @@
         "roepnummer": "19-8686",
         "kenteken": "BN-XL-51",
         "type": "HA-G",
-        "omschrijving": "Haakarmvoertuig (terreinvaardig) Groot",
+        "omschrijving": "Haakarmvoertuig (terreinvaardig) - Groot",
         "merkType": "Mercedes Benz",
         "kazerne": "Axel",
         "adres": "Nieuwendijk 19, 4571LG, Axel"
@@ -36030,7 +36160,7 @@
         "regio": "19",
         "roepnummer": "19-8883",
         "type": "HA-G",
-        "omschrijving": "Haakarmvoertuig (terreinvaardig) Groot",
+        "omschrijving": "Haakarmvoertuig (terreinvaardig) - Groot",
         "kazerne": "Oosterland",
         "adres": "Wilgenstraat 4, 4307DA, Oosterland"
     },
@@ -36062,7 +36192,7 @@
         "regio": "19",
         "roepnummer": "19-8903",
         "type": "BMH-TBO",
-        "omschrijving": "Bijzonder materieelhaakarmbak Team Brandonderzoek",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Team Brandonderzoek",
         "kazerne": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
     },
@@ -36110,7 +36240,7 @@
         "regio": "19",
         "roepnummer": "19-8981",
         "type": "HA-G",
-        "omschrijving": "Haakarmvoertuig (terreinvaardig) Groot",
+        "omschrijving": "Haakarmvoertuig (terreinvaardig) - Groot",
         "kazerne": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
     },
@@ -36118,7 +36248,7 @@
         "regio": "19",
         "roepnummer": "19-8982",
         "type": "HA-G",
-        "omschrijving": "Haakarmvoertuig (terreinvaardig) Groot",
+        "omschrijving": "Haakarmvoertuig (terreinvaardig) - Groot",
         "kazerne": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
     },
@@ -36405,7 +36535,7 @@
         "regio": "20",
         "roepnummer": "20-0089",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "tbv VL",
         "kazerne": "Breda",
         "adres": "Tramsingel 71, 4814AC, Breda"
@@ -36631,6 +36761,16 @@
         "omschrijving": "Dienstauto",
         "kazerne": "Roosendaal",
         "adres": "Laan van Brabant 16, 4701BK, Roosendaal"
+    },
+    {
+        "regio": "20",
+        "roepnummer": "20-1007",
+        "kenteken": "7-SHP-81",
+        "type": "DA",
+        "omschrijving": "Dienstauto",
+        "merkType": "Volkswagen Up",
+        "kazerne": "Bergen op Zoom",
+        "adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
     },
     {
         "regio": "20",
@@ -37100,20 +37240,22 @@
     {
         "regio": "20",
         "roepnummer": "20-1461",
-        "kenteken": "51-BBJ-5",
+        "kenteken": "23-BRJ-1",
         "type": "WT",
         "omschrijving": "Watertankwagen",
-        "merkType": "MAN",
+        "merkType": "DAF",
         "kazerne": "Hoogerheide",
         "adres": "Jan van der Heijdenstraat 6, 4631NH, Hoogerheide"
     },
     {
         "regio": "20",
         "roepnummer": "20-1481",
+        "kenteken": "BZ-JF-45",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
-        "kazerne": "Hoogerheide",
-        "adres": "Jan van der Heijdenstraat 6, 4631NH, Hoogerheide"
+        "merkType": "Volvo",
+        "kazerne": "Diessen",
+        "adres": "Heuvelstraat 32, 5087AB, Diessen"
     },
     {
         "regio": "20",
@@ -37258,6 +37400,15 @@
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
         "merkType": "Volvo",
+        "kazerne": "Bergen op Zoom",
+        "adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
+    },
+    {
+        "regio": "20",
+        "roepnummer": "20-15BM",
+        "kenteken": "91-WH-KP",
+        "type": "GMA",
+        "omschrijving": "Gereedschaps/Materiaalaanhanger",
         "kazerne": "Bergen op Zoom",
         "adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
     },
@@ -37583,7 +37734,7 @@
         "regio": "20",
         "roepnummer": "20-3181",
         "type": "HA-K",
-        "omschrijving": "Haakarmvoertuig-Klein",
+        "omschrijving": "Haakarmvoertuig - Klein",
         "kazerne": "Breda",
         "adres": "Tramsingel 71, 4814AC, Breda"
     },
@@ -38267,6 +38418,14 @@
     },
     {
         "regio": "20",
+        "roepnummer": "20-7063",
+        "type": "WTH",
+        "omschrijving": "Watertankhaakarmbak",
+        "kazerne": "Rijen",
+        "adres": "Rembrandtlaan 52, 5121WL, Rijen"
+    },
+    {
+        "regio": "20",
         "roepnummer": "20-7081",
         "kenteken": "V-309-KB",
         "type": "GM-LO",
@@ -38560,17 +38719,11 @@
     },
     {
         "regio": "20",
-        "roepnummer": "20-7461",
-        "type": "WTH",
-        "omschrijving": "Watertankhaakarmbak",
-        "kazerne": "Rijen",
-        "adres": "Rembrandtlaan 52, 5121WL, Rijen"
-    },
-    {
-        "regio": "20",
         "roepnummer": "20-7481",
+        "kenteken": "96-BBL-8",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "merkType": "Volvo",
         "kazerne": "Rijen",
         "adres": "Rembrandtlaan 52, 5121WL, Rijen"
     },
@@ -38876,6 +39029,14 @@
     },
     {
         "regio": "20",
+        "roepnummer": "20-9261",
+        "type": "WTH-NWS",
+        "omschrijving": "Watertankhaakarmbak - Natuur Waterschermsysteem",
+        "kazerne": "Diessen",
+        "adres": "Heuvelstraat 32, 5087AB, Diessen"
+    },
+    {
+        "regio": "20",
         "roepnummer": "20-9301",
         "type": "DB",
         "omschrijving": "Dienstbus",
@@ -39124,7 +39285,7 @@
         "regio": "20",
         "roepnummer": "26-7173",
         "type": "BMH-THU-RE",
-        "omschrijving": "Bijzonder materieel - Technische HulpverleningsUnit Redding",
+        "omschrijving": "Bijzonder materieelhaakarmbak - Technische HulpverleningsUnit Redding",
         "kazerne": "Tilburg-Centrum",
         "adres": "Fabriekstraat 34, 5038EN, Tilburg"
     },
@@ -41360,7 +41521,7 @@
         "omschrijving": "Dienstauto",
         "merkType": "Volkswagen Polo",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -41370,7 +41531,7 @@
         "omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
         "merkType": "DAF",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -41380,7 +41541,7 @@
         "omschrijving": "Hoogwerker",
         "merkType": "Mercedes Benz",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -41390,17 +41551,7 @@
         "omschrijving": "Dienstbus",
         "merkType": "Ford Transit 330M-Tourneo",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
-    },
-    {
-        "regio": "22",
-        "roepnummer": "22-44VW",
-        "kenteken": "BP-TT-40",
-        "type": "VW-LO",
-        "omschrijving": "Vrachtwagen Logistiek en Ondersteuning",
-        "merkType": "DAF",
-        "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -41738,7 +41889,7 @@
         "omschrijving": "Dienstauto-Terreinvaardig - Verkenningseenheid Brandweer",
         "merkType": "Renault Kangoo",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -41861,6 +42012,14 @@
         "omschrijving": "Dompelpomphaakarmbak",
         "kazerne": "Best",
         "adres": "Willem de Zwijgerweg 1a, 5684SB, Best"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-5063",
+        "type": "DPH",
+        "omschrijving": "Dompelpomphaakarmbak",
+        "kazerne": "Deurne",
+        "adres": "Antoon Coolenlaan 2, 5751XM, Deurne"
     },
     {
         "regio": "22",
@@ -42017,10 +42176,12 @@
     {
         "regio": "22",
         "roepnummer": "22-5102",
+        "kenteken": "13-ZDS-6",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Eindhoven-Centrum",
-        "adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
+        "merkType": "Volkswagen Polo",
+        "kazerne": "Eindhoven-Woensel",
+        "adres": "Avinonlaan 7, 5627GA, Eindhoven"
     },
     {
         "regio": "22",
@@ -42090,8 +42251,8 @@
         "regio": "22",
         "roepnummer": "22-5125",
         "kenteken": "VG-978-D",
-        "type": "GS-SI",
-        "omschrijving": "Gevaarlijke Stoffen-Snel Interventie voertuig",
+        "type": "PM-AGS",
+        "omschrijving": "Personeel/Materieelvoertuig - Adviseur Gevaarlijke Stoffen",
         "merkType": "Volkswagen Crafter",
         "kazerne": "Eindhoven-Centrum",
         "adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
@@ -42170,7 +42331,7 @@
         "omschrijving": "Slangenwagen",
         "merkType": "DAF",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -42338,7 +42499,7 @@
         "omschrijving": "Vrachtwagen Logistiek en Ondersteuning",
         "merkType": "DAF",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -42346,7 +42507,7 @@
         "type": "GMH",
         "omschrijving": "Gereedschap/Materieelhaakarmbak",
         "kazerne": "Valkenswaard",
-        "adres": "Maastrichterweg 51a, 5554GE, Valkenswaard"
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -42365,6 +42526,16 @@
         "omschrijving": "Veetakel",
         "kazerne": "Vessem",
         "adres": "Wilhelminalaan 44, 5512BK, Vessem"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-5289",
+        "kenteken": "BP-TT-40",
+        "type": "VW-LO",
+        "omschrijving": "Vrachtwagen Logistiek en Ondersteuning",
+        "merkType": "DAF",
+        "kazerne": "Valkenswaard",
+        "adres": "Maastrichterweg 51, 5554GE, Valkenswaard"
     },
     {
         "regio": "22",
@@ -42420,7 +42591,7 @@
         "regio": "22",
         "roepnummer": "22-5381",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Wrakken",
         "kazerne": "ROC Waalre",
         "adres": "Engelse Tuin 1, 5583CT, Waalre"
@@ -42453,7 +42624,7 @@
         "regio": "22",
         "roepnummer": "22-5385",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Instructie Unit",
         "kazerne": "Eindhoven-Woensel",
         "adres": "Avinonlaan 7, 5627GA, Eindhoven"
@@ -42478,7 +42649,7 @@
         "regio": "22",
         "roepnummer": "22-5487",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Oefenen",
         "kazerne": "ROC Waalre",
         "adres": "Engelse Tuin 1, 5583CT, Waalre"
@@ -42514,7 +42685,7 @@
         "regio": "22",
         "roepnummer": "22-5581",
         "type": "HRU",
-        "omschrijving": "Horse Recovery Unit",
+        "omschrijving": "Hose Recovery Unit",
         "kazerne": "Mierlo",
         "adres": "Bijenkorf 15, 5731ST, Mierlo"
     },
@@ -44683,7 +44854,7 @@
         "regio": "24",
         "roepnummer": "24-2565",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "Boosterpomp",
         "kazerne": "Sitech / Chemelot",
         "adres": "Kerenshofweg, 6167AE, Geleen"
@@ -44716,7 +44887,7 @@
         "regio": "24",
         "roepnummer": "24-2570",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Sitech / Chemelot",
         "adres": "Kerenshofweg, 6167AE, Geleen"
     },
@@ -44724,7 +44895,7 @@
         "regio": "24",
         "roepnummer": "24-2571",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Sitech / Chemelot",
         "adres": "Kerenshofweg, 6167AE, Geleen"
     },
@@ -44740,7 +44911,7 @@
         "regio": "24",
         "roepnummer": "24-2573",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "toevoeging": "EHBO C",
         "kazerne": "Sitech / Chemelot",
         "adres": "Kerenshofweg, 6167AE, Geleen"
@@ -44749,7 +44920,7 @@
         "regio": "24",
         "roepnummer": "24-2574",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Sitech / Chemelot",
         "adres": "Kerenshofweg, 6167AE, Geleen"
     },
@@ -44891,7 +45062,7 @@
         "roepnummer": "24-3021",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officier van Dienst",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -44965,7 +45136,7 @@
         "roepnummer": "24-3091",
         "type": "DA-CVD",
         "omschrijving": "Dienstauto - Commandant Van Dienst",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45007,14 +45178,14 @@
         "type": "DA-VEB",
         "omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
         "merkType": "Volkswagen Touran",
-        "kazerne": "Sittard",
+        "kazerne": "Sittard-Oost",
         "adres": "Swentiboldstraat 10, 6137AE, Sittard"
     },
     {
         "regio": "24",
         "roepnummer": "24-3122",
         "type": "BMH",
-        "omschrijving": "Bijzondere Materiaal Haakarmbak",
+        "omschrijving": "Bijzonder Materieel Haakarmbak",
         "kazerne": "Born",
         "adres": "Havenweg 141, 6122EN, Buchten"
     },
@@ -45025,7 +45196,7 @@
         "type": "TS-7",
         "omschrijving": "Tankautospuit 7 mans bezetting",
         "merkType": "Mercedes Benz Atego",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45085,7 +45256,7 @@
         "roepnummer": "24-3201",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45204,7 +45375,7 @@
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officier van Dienst",
         "merkType": "Volkswagen",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45212,7 +45383,7 @@
         "roepnummer": "24-3301",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45248,7 +45419,7 @@
         "type": "HW",
         "omschrijving": "Hoogwerker",
         "merkType": "Mercedes Benz Econic",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45291,7 +45462,7 @@
         "roepnummer": "24-3391",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officier van Dienst",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45299,7 +45470,7 @@
         "roepnummer": "24-3401",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45427,7 +45598,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "merkType": "Volkswagen Transporter T5-Kombi 2,0TDi",
-        "kazerne": "Sittard",
+        "kazerne": "Sittard-Oost",
         "adres": "Swentiboldstraat 10, 6137AE, Sittard"
     },
     {
@@ -45451,7 +45622,7 @@
         "roepnummer": "24-3621",
         "type": "DA-AGS",
         "omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45493,7 +45664,7 @@
         "roepnummer": "24-3691",
         "type": "DA-HOD",
         "omschrijving": "Dienstauto - Hoofd Officier van Dienst",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45555,7 +45726,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45597,7 +45768,7 @@
         "type": "DA-OVD",
         "omschrijving": "Dienstauto - Officier van Dienst",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Sittard",
+        "kazerne": "Sittard-Oost",
         "adres": "Swentiboldstraat 10, 6137AE, Sittard"
     },
     {
@@ -45781,7 +45952,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "merkType": "MAN",
-        "kazerne": "Sittard",
+        "kazerne": "Sittard-Oost",
         "adres": "Swentiboldstraat 10, 6137AE, Sittard"
     },
     {
@@ -45796,7 +45967,7 @@
         "roepnummer": "24-4501",
         "type": "DA",
         "omschrijving": "Dienstauto",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45816,7 +45987,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "merkType": "Volkswagen Polo",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -45824,7 +45995,7 @@
         "roepnummer": "24-4631",
         "type": "TS-8",
         "omschrijving": "Tankautospuit 8 mans bezetting",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -46031,7 +46202,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "merkType": "Volkswagen Transporter",
-        "kazerne": "Sittard",
+        "kazerne": "Sittard-Oost",
         "adres": "Swentiboldstraat 10, 6137AE, Sittard"
     },
     {
@@ -46083,7 +46254,7 @@
         "roepnummer": "24-9101",
         "type": "GM",
         "omschrijving": "Gereedschap/Materieelwagen",
-        "kazerne": "Sittard Middenweg",
+        "kazerne": "Sittard-West",
         "adres": "Zurichstraat 10, 6135LP, Sittard"
     },
     {
@@ -46706,8 +46877,10 @@
     {
         "regio": "25",
         "roepnummer": "25-8062",
+        "kenteken": "58-BBZ-4",
         "type": "SB",
         "omschrijving": "Schuimblusvoertuig",
+        "merkType": "MAN",
         "kazerne": "Lelystad",
         "adres": "Gordiaandreef 101, 8233AB, Lelystad"
     },
@@ -46746,8 +46919,11 @@
     {
         "regio": "25",
         "roepnummer": "25-8091",
+        "kenteken": "GH-688-B",
         "type": "DB-OVD",
         "omschrijving": "Dienstbus - Officier van Dienst",
+        "toevoeging": "Reserve",
+        "merkType": "Volkswagen Transporter",
         "kazerne": "Lelystad",
         "adres": "Gordiaandreef 101, 8233AB, Lelystad"
     },
@@ -46801,8 +46977,10 @@
     {
         "regio": "25",
         "roepnummer": "25-8184",
+        "kenteken": "95-BKF-9",
         "type": "HA",
         "omschrijving": "Haakarmvoertuig",
+        "merkType": "Mercedes Benz",
         "kazerne": "Almere-Buiten",
         "adres": "Makassarweg 61, 1335HW, Almere"
     },
