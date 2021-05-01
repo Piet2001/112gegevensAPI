@@ -2606,8 +2606,23 @@
     },
     {
         "regio": "13",
+        "kazerneNaam": "Dirk",
+        "adres": "Honthorststraat 27, 1071DC, Amsterdam"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Driemond",
+        "adres": "Lentestraat 30, 1109AT, Driemond"
+    },
+    {
+        "regio": "13",
         "kazerneNaam": "Duivendrecht",
         "adres": "Rijksstraatweg 58, 1115AT, Duivendrecht"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Hendrik",
+        "adres": "Marnixstraat 170, 1016TG, Amsterdam"
     },
     {
         "regio": "13",
@@ -2621,13 +2636,43 @@
     },
     {
         "regio": "13",
+        "kazerneNaam": "Osdorp",
+        "adres": "Ookmeerweg 2, 1068ZX, Amsterdam"
+    },
+    {
+        "regio": "13",
         "kazerneNaam": "Pier Afrika Logistiek / Wagen Park",
         "adres": "Pier Afrika 8, 1013BK, Amsterdam"
     },
     {
         "regio": "13",
+        "kazerneNaam": "Pieter",
+        "adres": "Poeldijkstraat 20, 1059VM, Amsterdam"
+    },
+    {
+        "regio": "13",
         "kazerneNaam": "Teunis",
         "adres": "Vredenhofweg 3, 1051LM, Amsterdam"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Uithoorn",
+        "adres": "Zijdelweg 1, 1421TB, Uithoorn"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Victor",
+        "adres": "Dapperstraat 325, 1093BS, Amsterdam"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Willem",
+        "adres": "Ringdijk 98, 1097AH, Amsterdam"
+    },
+    {
+        "regio": "13",
+        "kazerneNaam": "Zebra",
+        "adres": "IJdoornlaan 60, 1024KV, Amsterdam"
     },
     {
         "regio": "14",

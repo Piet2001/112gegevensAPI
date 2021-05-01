@@ -1475,6 +1475,29 @@
     },
     {
         "regio": "11",
+        "roepnummer": "11-128",
+        "kenteken": "RF-775-Z",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Zaandam"
+    },
+    {
+        "regio": "11",
+        "roepnummer": "11-129",
+        "kenteken": "G-122-ZJ",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "11",
+        "roepnummer": "11-131",
+        "kenteken": "HH-389-T",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Zaandam"
+    },
+    {
+        "regio": "11",
         "roepnummer": "11-133",
         "kenteken": "J-104-XP",
         "omschrijving": "Ambulance",
@@ -1590,6 +1613,7 @@
     {
         "regio": "13",
         "roepnummer": "13-120",
+        "kenteken": "GP-521-H",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
     },
@@ -1598,7 +1622,8 @@
         "roepnummer": "13-154",
         "kenteken": "PB-564-P",
         "omschrijving": "Ambulance",
-        "merk": "Mercedes Benz Sprinter"
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Duivendrecht"
     },
     {
         "regio": "13",
@@ -1610,6 +1635,7 @@
     {
         "regio": "13",
         "roepnummer": "13-175",
+        "kenteken": "PL-557-T",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Amstelveen"
@@ -1625,6 +1651,7 @@
     {
         "regio": "13",
         "roepnummer": "13-177",
+        "kenteken": "08-TGN-10",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Amstelveen"
@@ -1632,6 +1659,7 @@
     {
         "regio": "13",
         "roepnummer": "13-178",
+        "kenteken": "22-TSP-7",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Amstelveen"
@@ -1639,6 +1667,7 @@
     {
         "regio": "13",
         "roepnummer": "13-179",
+        "kenteken": "47-TSV-1",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Amstelveen"
@@ -2095,6 +2124,14 @@
         "kenteken": "2-TKJ-76",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "16",
+        "roepnummer": "16-164",
+        "kenteken": "G-199-SP",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Alphen aan den Rijn"
     },
     {
         "regio": "16",
@@ -4313,7 +4350,7 @@
     {
         "regio": "24",
         "roepnummer": "24-138",
-        "kenteken": "5-XXN-82",
+        "kenteken": "H-372-XH",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Maastricht"
