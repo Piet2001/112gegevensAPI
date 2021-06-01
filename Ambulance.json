@@ -1185,6 +1185,13 @@
     },
     {
         "regio": "09",
+        "roepnummer": "09-122",
+        "kenteken": "H-601-LZ",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "09",
         "roepnummer": "09-124",
         "kenteken": "27-TGL-5",
         "omschrijving": "Ambulance",
@@ -1682,6 +1689,13 @@
     },
     {
         "regio": "13",
+        "roepnummer": "13-203",
+        "kenteken": "G-733-XT",
+        "omschrijving": "Middencomplexe Ambulance",
+        "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "13",
         "roepnummer": "13-301",
         "kenteken": "27-PBV-5",
         "omschrijving": "Mobiele Intensive Care Unit",
@@ -1786,6 +1800,20 @@
         "kenteken": "2-KBX-97",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "14",
+        "roepnummer": "14-501",
+        "kenteken": "H-540-LX",
+        "omschrijving": "Piketauto",
+        "merk": "Volkswagen Polo"
+    },
+    {
+        "regio": "14",
+        "roepnummer": "14-502",
+        "kenteken": "8-KNN-06",
+        "omschrijving": "Piketauto",
+        "merk": "Volkswagen Touran"
     },
     {
         "regio": "15",

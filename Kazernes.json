@@ -1947,7 +1947,7 @@
     {
         "regio": "09",
         "kazerneNaam": "Maarssen",
-        "adres": "Dorpsstraat 19, 3626AC, Nieuwer ter Aa"
+        "adres": "Binnenweg 2, 3604AC, Maarssen"
     },
     {
         "regio": "09",
@@ -2556,8 +2556,28 @@
     },
     {
         "regio": "12",
+        "kazerneNaam": "Ijmuiden",
+        "adres": "Eenhoornstraat 2b, 1973XT, IJmuiden"
+    },
+    {
+        "regio": "12",
+        "kazerneNaam": "Lisserbroek",
+        "adres": "Veenwortelstraat 3, 2165XT, Lisserbroek"
+    },
+    {
+        "regio": "12",
         "kazerneNaam": "Nieuw-Vennep",
         "adres": "Luzernestraat 5, 2153GM, Nieuw-Vennep"
+    },
+    {
+        "regio": "12",
+        "kazerneNaam": "Rijsenhout",
+        "adres": "Schouwstraat 11, 1435KL, Rijsenhout"
+    },
+    {
+        "regio": "12",
+        "kazerneNaam": "Spaarndam",
+        "adres": "Ringweg 40, 2064KK, Spaarndam"
     },
     {
         "regio": "12",
@@ -3452,7 +3472,7 @@
     {
         "regio": "18",
         "kazerneNaam": "Papendrecht",
-        "adres": "Poldermolen 8, 3352TH, Papendrecht"
+        "adres": "Willem Dreeslaan 2, 3354AW Papendrecht"
     },
     {
         "regio": "18",
