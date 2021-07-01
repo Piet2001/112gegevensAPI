@@ -2615,6 +2615,16 @@
     },
     {
         "regio": "18",
+        "roepnummer": "18-271",
+        "omschrijving": "Middencomplexe Ambulance"
+    },
+    {
+        "regio": "18",
+        "roepnummer": "18-272",
+        "omschrijving": "Middencomplexe Ambulance"
+    },
+    {
+        "regio": "18",
         "roepnummer": "18-801",
         "kenteken": "4-TVP-91",
         "omschrijving": "Officier van Dienst Geneeskunde",
