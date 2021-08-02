@@ -8263,7 +8263,7 @@
         "omschrijving": "Personeel/Materieelvoertuig",
         "merkType": "Mercedes Benz Sprinter",
         "kazerne": "Heeten",
-        "adres": "Ijzerweg 23, 8111CW, Heerten"
+        "adres": "Ijzerweg 23, 8111CW, Heeten"
     },
     {
         "regio": "04",
@@ -8297,7 +8297,7 @@
         "omschrijving": "Tankautospuit",
         "merkType": "Iveco",
         "kazerne": "Heeten",
-        "adres": "Ijzerweg 23, 8111CW, Heerten"
+        "adres": "Ijzerweg 23, 8111CW, Heeten"
     },
     {
         "regio": "04",
@@ -12467,7 +12467,7 @@
         "omschrijving": "Dienstbus - First Responder Brandweer",
         "merkType": "Volkwagen",
         "kazerne": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -12487,7 +12487,7 @@
         "omschrijving": "Tankautospuit",
         "merkType": "MAN",
         "kazerne": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -12495,7 +12495,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -12525,7 +12525,7 @@
         "omschrijving": "Gereedschap/Materieel - Slangenwagen",
         "merkType": "MAN",
         "kazerne": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -12535,7 +12535,7 @@
         "omschrijving": "Watertankwagen",
         "merkType": "DAF",
         "kazerne": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -25598,7 +25598,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Muiden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Weesperweg 2b, 1398XD, Muiden"
     },
     {
         "regio": "14",
@@ -25606,7 +25606,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "kazerne": "Muiden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Weesperweg 2b, 1398XD, Muiden"
     },
     {
         "regio": "14",
@@ -25614,7 +25614,7 @@
         "type": "WOA",
         "omschrijving": "Waterongevallenaanhanger met boot",
         "kazerne": "Muiden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Weesperweg 2b, 1398XD, Muiden"
     },
     {
         "regio": "14",
@@ -25622,7 +25622,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Muiden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Weesperweg 2b, 1398XD, Muiden"
     },
     {
         "regio": "14",
@@ -25630,7 +25630,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Muiderberg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Echolaan 1, 1399GZ, Muiderberg"
     },
     {
         "regio": "14",
@@ -25638,7 +25638,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Muiderberg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Echolaan 1, 1399GZ, Muiderberg"
     },
     {
         "regio": "14",
@@ -25646,7 +25646,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Naarden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Energiestraat 15a, 1411AP, Naarden"
     },
     {
         "regio": "14",
@@ -25654,7 +25654,7 @@
         "type": "WOA",
         "omschrijving": "Waterongevallenaanhanger met boot",
         "kazerne": "Naarden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Energiestraat 15a, 1411AP, Naarden"
     },
     {
         "regio": "14",
@@ -25662,7 +25662,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Naarden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Energiestraat 15a, 1411AP, Naarden"
     },
     {
         "regio": "14",
@@ -25881,7 +25881,7 @@
         "omschrijving": "Dienstauto",
         "toevoeging": "voor Wijdemeren (Nederhorst den Berg, 's Graveland en Loosdrecht)",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25921,7 +25921,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Loosdrecht",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oud-Loosdrechtsedijk 4, 1231NA, Loosdrecht"
     },
     {
         "regio": "14",
@@ -25929,7 +25929,7 @@
         "type": "BRV",
         "omschrijving": "Brandweervaartuig",
         "kazerne": "Loosdrecht",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oud-Loosdrechtsedijk 4, 1231NA, Loosdrecht"
     },
     {
         "regio": "14",
@@ -25937,7 +25937,7 @@
         "type": "TS-6",
         "omschrijving": "Tankautospuit 6 mans bezetting",
         "kazerne": "Loosdrecht",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oud-Loosdrechtsedijk 4, 1231NA, Loosdrecht"
     },
     {
         "regio": "14",
@@ -25945,7 +25945,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25953,7 +25953,7 @@
         "type": "WO",
         "omschrijving": "Waterongevallenvoertuig",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25961,7 +25961,7 @@
         "type": "WOV",
         "omschrijving": "Waterongevallen Vaartuig",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25969,7 +25969,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25977,7 +25977,7 @@
         "type": "MSA",
         "omschrijving": "Motorspuitaanhanger",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -25985,7 +25985,7 @@
         "type": "DA-FRB",
         "omschrijving": "Dienstauto - First Responder Brandweer",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -26038,7 +26038,7 @@
         "omschrijving": "Tankautospuit-Reserve",
         "merkType": "DAF",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -26120,7 +26120,7 @@
         "type": "TS-RES",
         "omschrijving": "Tankautospuit-Reserve",
         "kazerne": "Naarden",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Energiestraat 15a, 1411AP, Naarden"
     },
     {
         "regio": "14",
@@ -26128,7 +26128,7 @@
         "type": "TS-RES",
         "omschrijving": "Tankautospuit-Reserve",
         "kazerne": "Nederhorst den Berg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
@@ -38950,6 +38950,15 @@
         "merkType": "Volvo",
         "kazerne": "Rijen",
         "adres": "Rembrandtlaan 52, 5121WL, Rijen"
+    },
+    {
+        "regio": "20",
+        "roepnummer": "20-7482",
+        "kenteken": "13-BRT-4",
+        "type": "HA",
+        "omschrijving": "Haakarmvoertuig",
+        "merkType": "DAF",
+        "kazerne": "Regionaal"
     },
     {
         "regio": "20",
