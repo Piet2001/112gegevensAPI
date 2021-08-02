@@ -797,7 +797,7 @@
     {
         "regio": "04",
         "kazerneNaam": "Heeten",
-        "adres": "Ijzerweg 23, 8111CW, Heerten"
+        "adres": "Ijzerweg 23, 8111CW, Heeten"
     },
     {
         "regio": "04",
@@ -1057,7 +1057,7 @@
     {
         "regio": "06",
         "kazerneNaam": "Aalten",
-        "adres": "Tramstraat, 7121DD, Aalten"
+        "adres": "Tramstraat 1, 7121DD, Aalten"
     },
     {
         "regio": "06",
@@ -2723,6 +2723,31 @@
         "regio": "14",
         "kazerneNaam": "Laren",
         "adres": "Groene Gerritsweg 2, 1251JL, Laren"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Loosdrecht",
+        "adres": "Oud-Loosdrechtsedijk 4, 1231NA, Loosdrecht"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Muiden",
+        "adres": "Weesperweg 2b, 1398XD, Muiden"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Muiderberg",
+        "adres": "Echolaan 1, 1399GZ, Muiderberg"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Naarden",
+        "adres": "Energiestraat 15a, 1411AP, Naarden"
+    },
+    {
+        "regio": "14",
+        "kazerneNaam": "Nederhorst den Berg",
+        "adres": "Blijklaan 1a, 1394KA, Nederhorst den Berg"
     },
     {
         "regio": "14",
