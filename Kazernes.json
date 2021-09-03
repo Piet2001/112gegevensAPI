@@ -217,7 +217,7 @@
     {
         "regio": "02",
         "kazerneNaam": "Appelscha",
-        "adres": "Industrieweg 8c, 8426AA, Apelscha"
+        "adres": "Industrieweg 8c, 8426AA Appelscha"
     },
     {
         "regio": "02",
@@ -817,7 +817,7 @@
     {
         "regio": "04",
         "kazerneNaam": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -827,7 +827,7 @@
     {
         "regio": "04",
         "kazerneNaam": "Lemelerveld",
-        "adres": "Nijverheidsstraat 8, 8152AJ, Lemelerveld"
+        "adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
     },
     {
         "regio": "04",
@@ -902,7 +902,7 @@
     {
         "regio": "04",
         "kazerneNaam": "Zwolle-Noord",
-        "adres": "Middenweg 235, 8021CN, Zwolle"
+        "adres": "Middelweg 235, 8021CN, Zwolle"
     },
     {
         "regio": "04",
@@ -3566,6 +3566,11 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Domburg",
+        "adres": "Roosjesweg 1, 4357ED, Domburg"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
     },
@@ -3641,6 +3646,11 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Westkapelle",
+        "adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Yerseke",
         "adres": "Burenpolderweg 1, 4401KW, Yerseke"
     },
@@ -3648,6 +3658,11 @@
         "regio": "19",
         "kazerneNaam": "Zierikzee",
         "adres": "Regenboogstraat 17, 4301BR, Zierikzee"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Zoutelande",
+        "adres": "Langendam 61, 4374AB, Zoutelande"
     },
     {
         "regio": "20",

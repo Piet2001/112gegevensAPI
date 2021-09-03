@@ -4437,7 +4437,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Appelscha",
-        "adres": "Industrieweg 8c, 8426AA, Apelscha"
+        "adres": "Industrieweg 8c, 8426AA Appelscha"
     },
     {
         "regio": "02",
@@ -4453,7 +4453,7 @@
         "type": "DB-VEB",
         "omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
         "kazerne": "Appelscha",
-        "adres": "Industrieweg 8c, 8426AA, Apelscha"
+        "adres": "Industrieweg 8c, 8426AA Appelscha"
     },
     {
         "regio": "02",
@@ -4488,7 +4488,7 @@
         "type": "TST",
         "omschrijving": "Tankautospuit-Terreinvaardig",
         "kazerne": "Appelscha",
-        "adres": "Industrieweg 8c, 8426AA, Apelscha"
+        "adres": "Industrieweg 8c, 8426AA Appelscha"
     },
     {
         "regio": "02",
@@ -7264,7 +7264,7 @@
         "type": "DA",
         "omschrijving": "Dienstauto",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7272,7 +7272,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7280,7 +7280,7 @@
         "type": "BRV",
         "omschrijving": "Brandweervaartuig",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7288,7 +7288,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7296,7 +7296,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7312,7 +7312,7 @@
         "type": "HW",
         "omschrijving": "Hoogwerker",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7320,7 +7320,7 @@
         "type": "SB",
         "omschrijving": "Schuimblusvoertuig",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7344,7 +7344,7 @@
         "type": "HV",
         "omschrijving": "Hulpverleningsvoertuig",
         "kazerne": "Kampen",
-        "adres": "Jan Lighthartstraat 9, 8265CJ, Kampen"
+        "adres": "Jan Ligthartstraat 9, 8265CJ, Kampen"
     },
     {
         "regio": "04",
@@ -7418,7 +7418,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Zwolle-Noord",
-        "adres": "Middenweg 235, 8021CN, Zwolle"
+        "adres": "Middelweg 235, 8021CN, Zwolle"
     },
     {
         "regio": "04",
@@ -7468,7 +7468,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Zwolle-Noord",
-        "adres": "Middenweg 235, 8021CN, Zwolle"
+        "adres": "Middelweg 235, 8021CN, Zwolle"
     },
     {
         "regio": "04",
@@ -7476,7 +7476,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Zwolle-Noord",
-        "adres": "Middenweg 235, 8021CN, Zwolle"
+        "adres": "Middelweg 235, 8021CN, Zwolle"
     },
     {
         "regio": "04",
@@ -7484,7 +7484,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Zwolle-Noord",
-        "adres": "Middenweg 235, 8021CN, Zwolle"
+        "adres": "Middelweg 235, 8021CN, Zwolle"
     },
     {
         "regio": "04",
@@ -7702,7 +7702,7 @@
         "omschrijving": "Tankautospuit",
         "merkType": "DAF",
         "kazerne": "Lemelerveld",
-        "adres": "Nijverheidsstraat 8, 8152AJ, Lemelerveld"
+        "adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
     },
     {
         "regio": "04",
@@ -7723,7 +7723,7 @@
         "toevoeging": "500",
         "merkType": "Scania",
         "kazerne": "Lemelerveld",
-        "adres": "Nijverheidsstraat 8, 8152AJ, Lemelerveld"
+        "adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
     },
     {
         "regio": "04",
@@ -7747,7 +7747,7 @@
         "type": "MSA",
         "omschrijving": "Motorspuitaanhanger",
         "kazerne": "Lemelerveld",
-        "adres": "Nijverheidsstraat 8, 8152AJ, Lemelerveld"
+        "adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
     },
     {
         "regio": "04",
@@ -7773,7 +7773,7 @@
         "type": "VT",
         "omschrijving": "Veetakel",
         "kazerne": "Lemelerveld",
-        "adres": "Nijverheidsstraat 8, 8152AJ, Lemelerveld"
+        "adres": "Nijverheidstraat 8, 8152AJ, Lemelerveld"
     },
     {
         "regio": "04",
@@ -34844,7 +34844,7 @@
         "type": "DB",
         "omschrijving": "Dienstbus",
         "kazerne": "Zoutelande",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Langendam 61, 4374AB, Zoutelande"
     },
     {
         "regio": "19",
@@ -34868,7 +34868,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Domburg",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Roosjesweg 1, 4357ED, Domburg"
     },
     {
         "regio": "19",
@@ -34876,7 +34876,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Zoutelande",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Langendam 61, 4374AB, Zoutelande"
     },
     {
         "regio": "19",
@@ -34884,7 +34884,7 @@
         "type": "TS",
         "omschrijving": "Tankautospuit",
         "kazerne": "Westkapelle",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
     },
     {
         "regio": "19",
@@ -35794,7 +35794,7 @@
         "omschrijving": "Reddingboot",
         "toevoeging": "Uly",
         "kazerne": "Westkapelle",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
     },
     {
         "regio": "19",
@@ -35802,7 +35802,7 @@
         "type": "KHV",
         "omschrijving": "Kusthulpverleningsvoertuig",
         "kazerne": "Westkapelle",
-        "adres": "Kazerne NOT FOUND"
+        "adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
     },
     {
         "regio": "19",
