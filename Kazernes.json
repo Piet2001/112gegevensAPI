@@ -377,7 +377,7 @@
     {
         "regio": "02",
         "kazerneNaam": "Lemmer",
-        "adres": "Albert Koopmansstraat 1, 8531HC, Lemmer"
+        "adres": "Albert Koopmanstraat 1, 8531HC, Lemmer"
     },
     {
         "regio": "02",
@@ -426,8 +426,8 @@
     },
     {
         "regio": "02",
-        "kazerneNaam": "Oudega (tijdelijk)",
-        "adres": "Aldegeasterdyk 2, 9216VN, Oudega (Tijdelijk)"
+        "kazerneNaam": "Oudega (tijdelijk2)",
+        "adres": "Gariperwei 30, 9216VK, Oudega (tijdelijk2)"
     },
     {
         "regio": "02",
@@ -522,7 +522,7 @@
     {
         "regio": "02",
         "kazerneNaam": "Wolvega",
-        "adres": "Grafietstraat 1, 5472EB, Wolvega"
+        "adres": "Grafietstraat 1, 8472EB, Wolvega"
     },
     {
         "regio": "02",
@@ -3522,7 +3522,7 @@
     {
         "regio": "19",
         "kazerneNaam": "`s-Gravenpolder",
-        "adres": "Goessestraatweg 30, 4431CD, `s-Gravenpolder"
+        "adres": "Goesestraatweg 30, 4431CD, `s-Gravenpolder"
     },
     {
         "regio": "19",
@@ -3561,8 +3561,28 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Breskens",
+        "adres": "Weijkmanlaan 15, 4511CS, Breskens"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Brouwershaven",
+        "adres": "Slingerbos 1, 4318AK, Brouwershaven"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Bruinisse",
+        "adres": "Dorpsweg 32a, 4311RL, Bruinisse"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Cadzand",
         "adres": "Nieuwleusenerstraat 18, 4506AB, Cadzand"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Colijnsplaat",
+        "adres": "Colijnsplaatseweg 2b, 4486AX, Colijnsplaat"
     },
     {
         "regio": "19",
@@ -3571,8 +3591,28 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Dreischor",
+        "adres": "Daniël Ockersestraat 7, 4315AR, Dreischor"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Goes-Oranjeweg",
         "adres": "Oranjeweg 100, 4461LR, Goes"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Goes-Troelstralaan",
+        "adres": "Troelstralaan 1, 4463BS, Goes"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Haamstede",
+        "adres": "Scheepswerfstraat 24, 4328BC, Haamstede"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Heinkenszand",
+        "adres": "Stenevate 6, 4451KB, Heinkenszand"
     },
     {
         "regio": "19",
@@ -3583,6 +3623,21 @@
         "regio": "19",
         "kazerneNaam": "Hulst",
         "adres": "Globe 2, 4561PK, Hulst"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "IJzendijke",
+        "adres": "Oktoberplein 4, 4515CP, IJzendijke"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Kamperland",
+        "adres": "Het Rip 2, 4493RL, Kamperland"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Kapelle",
+        "adres": "Mauritsstraat 1a, 4421CJ, Kapelle"
     },
     {
         "regio": "19",
