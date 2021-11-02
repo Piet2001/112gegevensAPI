@@ -3641,13 +3641,58 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Kerkwerve",
+        "adres": "Ring 6, 4321AJ, Kerkwerve"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Kloosterzande",
+        "adres": "Hof te Zandeplein 4, 4587CK, Kloosterzande"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Koewacht",
+        "adres": "Vlasstraat 8, 4576BB, Koewacht"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Kortgene",
+        "adres": "Torendijk 45, 4484AT, Kortgene"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Koudekerke",
+        "adres": "Badhuisstraat 1, 4371EL, Koudekerke"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Krabbendijke",
         "adres": "Westweg 42, 4413EG, Krabbendijke"
     },
     {
         "regio": "19",
+        "kazerneNaam": "Kruiningen",
+        "adres": "Blauwhoefseweg 6, 4416RC, Kruiningen"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Middelburg-Rooseveltlaan",
+        "adres": "President Rooseveltlaan 11, 4333SC, Middelburg"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Middelburg-Stromenweg",
         "adres": "Stromenweg 7, 4335JR, Middelburg"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Middelburg-Torenweg",
+        "adres": "Torenweg 1, 4337GK, Middelburg"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Nieuwdorp",
+        "adres": "Hertenweg 65, 4455TK, Nieuwdorp"
     },
     {
         "regio": "19",
@@ -3661,8 +3706,53 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Oostkapelle",
+        "adres": "Domburgseweg 68d, 4356NB, Oostkapelle"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Ovezande",
+        "adres": "Burgemeester Andriessenstraat 8, 4441AP, Ovezande"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Renesse",
+        "adres": "Hogezoom 141b, 4325CH, Renesse"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Rilland",
+        "adres": "Valckenisseweg 13, 4411BN, Rilland"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Sas van Gent",
+        "adres": "Kerkhoflaan 5, 4551AZ, Sas van Gent"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Scharendijke",
+        "adres": "Boutlaan 1, 4322DC, Scharendijke"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Serooskerke",
+        "adres": "Vrouwenpolderseweg 53c, 4353BC, Serooskerke"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Sint Annaland",
+        "adres": "Veilingweg 22, 4697RR, Sint Annaland"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Sint Philipsland",
         "adres": "Schoolstraat 3, 4675BL, Sint Philipsland"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Sint-Maartensdijk",
+        "adres": "Oostsingel 80, 4695BN, Sint-Maartensdijk"
     },
     {
         "regio": "19",
@@ -3686,8 +3776,18 @@
     },
     {
         "regio": "19",
-        "kazerneNaam": "Terneuzen-Zuidland",
-        "adres": "Kerkweg 27, 3214VC, Zuidland"
+        "kazerneNaam": "Terneuzen-Koegors",
+        "adres": "Koegorsstraat 4, 4538PK, Terneuzen"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Tholen",
+        "adres": "Grindweg 51, 4691ES, Tholen"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Veere",
+        "adres": "Veerseweg 23, 4351RC, Veere"
     },
     {
         "regio": "19",
@@ -3701,13 +3801,38 @@
     },
     {
         "regio": "19",
+        "kazerneNaam": "Vogelwaarde",
+        "adres": "Bossestraat 30, 4581BE, Vogelwaarde"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Wemeldinge",
+        "adres": "Noordelijke Achterweg 55, 4424ED, Wemeldinge"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Westdorpe",
+        "adres": "Molenstraat 54, 4554CH, Westdorpe"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Westkapelle",
         "adres": "Oude Zandweg 11a, 4361SK, Westkapelle"
     },
     {
         "regio": "19",
+        "kazerneNaam": "Wolphaartsdijk",
+        "adres": "Villa-Novastraat 1a, 4471AM, Wolphaartsdijk"
+    },
+    {
+        "regio": "19",
         "kazerneNaam": "Yerseke",
         "adres": "Burenpolderweg 1, 4401KW, Yerseke"
+    },
+    {
+        "regio": "19",
+        "kazerneNaam": "Zaamslag",
+        "adres": "Bedrijvenstraat 11a, 4543NZ, Zaamslag"
     },
     {
         "regio": "19",
@@ -4507,7 +4632,7 @@
     {
         "regio": "23",
         "kazerneNaam": "Horst",
-        "adres": "Americaanseweg 43a, 5961PC, Horst"
+        "adres": "Westsingel 201, 5961DD, Horst"
     },
     {
         "regio": "23",

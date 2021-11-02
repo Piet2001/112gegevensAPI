@@ -825,10 +825,24 @@
     },
     {
         "regio": "05",
+        "roepnummer": "05-101",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Hengelo"
+    },
+    {
+        "regio": "05",
         "roepnummer": "05-102",
         "kenteken": "J-805-NB",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
+        "roepnummer": "05-113",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Enschede"
     },
     {
         "regio": "05",
@@ -843,6 +857,14 @@
         "kenteken": "H-466-JP",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter"
+    },
+    {
+        "regio": "05",
+        "roepnummer": "05-151",
+        "kenteken": "N-920-BL",
+        "omschrijving": "Ambulance",
+        "merk": "Mercedes Benz Sprinter",
+        "locatieIndienVast": "Almelo"
     },
     {
         "regio": "05",
@@ -3256,6 +3278,29 @@
     },
     {
         "regio": "21",
+        "roepnummer": "21-701",
+        "kenteken": "N-929-FX",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC40 (Hybride)"
+    },
+    {
+        "regio": "21",
+        "roepnummer": "21-702",
+        "kenteken": "L-265-HV",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC40 (Hybride)",
+        "locatieIndienVast": "HAP Den Bosch"
+    },
+    {
+        "regio": "21",
+        "roepnummer": "21-703",
+        "kenteken": "L-266-HV",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC40 (Hybride)",
+        "locatieIndienVast": "HAP Oss"
+    },
+    {
+        "regio": "21",
         "roepnummer": "21-801",
         "kenteken": "J-560-GP",
         "omschrijving": "Officier van Dienst Geneeskunde",
@@ -3349,7 +3394,7 @@
     {
         "regio": "22",
         "roepnummer": "22-106",
-        "kenteken": "7-XZX-96",
+        "kenteken": "L-860-XF",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Eindhoven-Noord"
@@ -3485,7 +3530,7 @@
     {
         "regio": "22",
         "roepnummer": "22-124",
-        "kenteken": "7-ZBV-67",
+        "kenteken": "L-745-VX",
         "omschrijving": "Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Helmond"
@@ -3542,7 +3587,7 @@
         "regio": "22",
         "roepnummer": "22-201",
         "kenteken": "50-XDS-5",
-        "omschrijving": "Zorgambulance",
+        "omschrijving": "Middencomplexe Ambulance",
         "merk": "Mercedes Benz Sprinter",
         "locatieIndienVast": "Eindhoven-Zuid"
     },
@@ -3616,6 +3661,28 @@
     },
     {
         "regio": "22",
+        "roepnummer": "22-501",
+        "kenteken": "H-963-SP",
+        "omschrijving": "Dienstauto",
+        "merk": "Kia Picanto",
+        "locatieIndienVast": "Helmond"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-503",
+        "kenteken": "H-965-SP",
+        "omschrijving": "Dienstauto",
+        "merk": "Kia Picanto"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-504",
+        "kenteken": "H-966-SP",
+        "omschrijving": "Dienstauto",
+        "merk": "Kia Picanto"
+    },
+    {
+        "regio": "22",
         "roepnummer": "22-510",
         "omschrijving": "OpleidingsAmbulance",
         "locatieIndienVast": "Helmond"
@@ -3640,7 +3707,7 @@
         "kenteken": "38-TJZ-3",
         "omschrijving": "Huisartsenpostvoertuig",
         "merk": "Volkswagen Touran",
-        "locatieIndienVast": "St. Annaziekenhuis Geldrop"
+        "locatieIndienVast": "Anna Ziekenhuis Geldrop"
     },
     {
         "regio": "22",
@@ -3665,6 +3732,21 @@
         "omschrijving": "Huisartsenpostvoertuig",
         "merk": "Mitsubishi Outlander electr.",
         "locatieIndienVast": "MMC Veldhoven"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-708",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC40 (Hybride)",
+        "locatieIndienVast": "HAP Eindhoven"
+    },
+    {
+        "regio": "22",
+        "roepnummer": "22-710",
+        "kenteken": "L-268-HV",
+        "omschrijving": "Huisartsenpostvoertuig",
+        "merk": "Volvo XC40 (Hybride)",
+        "locatieIndienVast": "HAP Geldrop"
     },
     {
         "regio": "22",
