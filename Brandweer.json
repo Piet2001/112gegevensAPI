@@ -1,5 +1,12 @@
 [
   {
+    "Roepnummer": "01-1276",
+    "Kenteken": "69-WT-HJ",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
+    "Kazerne": "Grootegast"
+  },
+  {
     "Regio": "01",
     "Roepnummer": "01-0101",
     "Kenteken": "42-LTD-5",
@@ -78,6 +85,15 @@
     "Merk (& Type)": "Mercedes Benz Vito",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
+  },
+  {
+    "Regio": "01",
+    "Roepnummer": "01-0126",
+    "Kenteken": "J-485-VN",
+    "Type": "DB-AGS",
+    "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "01",
@@ -2293,8 +2309,7 @@
     "Omschrijving": "Dienstauto",
     "Toevoeging": "BVO Team Chemiepark Brandveilig Ondernemen",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Eemshaven",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Eemshaven"
   },
   {
     "Regio": "01",
@@ -2304,8 +2319,7 @@
     "Omschrijving": "Dienstauto",
     "Toevoeging": "BVO Team Chemiepark Brandveilig Ondernemen",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Eemshaven",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Eemshaven"
   },
   {
     "Regio": "01",
@@ -4665,8 +4679,7 @@
     "Roepnummer": "02-7007",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Oudega (tijdelijk)",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oudega (tijdelijk)"
   },
   {
     "Regio": "02",
@@ -4692,8 +4705,7 @@
     "Kenteken": "BJ-TB-14",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Kazerne": "Oudega (tijdelijk)",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oudega (tijdelijk)"
   },
   {
     "Regio": "02",
@@ -6670,8 +6682,7 @@
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
     "Merk (& Type)": "DAF",
-    "Kazerne": "Fokker Aircraft Hoogeveen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Fokker Aircraft Hoogeveen"
   },
   {
     "Regio": "03",
@@ -7987,8 +7998,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2306",
+    "Kenteken": "K-402-VZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Dedemsvaart",
     "Adres": "Hoofdvaart 55a, 7701GW, Dedemsvaart"
   },
@@ -8391,8 +8404,10 @@
   {
     "Regio": "04",
     "Roepnummer": "04-2680",
+    "Kenteken": "TP-742-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Raalte",
     "Adres": "Aakstraat 2, 8102HH, Raalte"
   },
@@ -8555,8 +8570,7 @@
     "Roepnummer": "04-2866",
     "Type": "SLH",
     "Omschrijving": "Slangenhaakarmbak",
-    "Kazerne": "Denventer",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Denventer"
   },
   {
     "Regio": "04",
@@ -9311,8 +9325,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-3401",
+    "Kenteken": "R-167-NX",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Den Ham",
     "Adres": "Dorpsstraat 49, 7683BH, Den Ham"
   },
@@ -9343,8 +9359,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-3481",
+    "Kenteken": "39-NSV-4",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Den Ham",
     "Adres": "Dorpsstraat 49, 7683BH, Den Ham"
   },
@@ -9779,10 +9797,12 @@
   {
     "Regio": "05",
     "Roepnummer": "05-5401",
-    "Type": "DA",
-    "Omschrijving": "Dienstauto",
-    "Kazerne": "Hellendoorn",
-    "Adres": "Ninaberlaan 80, 7447AH, Hellendoorn"
+    "Kenteken": "RS-235-F",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Nijverdal",
+    "Adres": "Kerkstraat 138B, 7442EH, Nijverdal"
   },
   {
     "Regio": "05",
@@ -9829,8 +9849,10 @@
   {
     "Regio": "05",
     "Roepnummer": "05-5482",
+    "Kenteken": "7-VTP-47",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
+    "Merk (& Type)": "Opel",
     "Kazerne": "Nijverdal",
     "Adres": "Kerkstraat 138B, 7442EH, Nijverdal"
   },
@@ -9899,24 +9921,21 @@
     "Roepnummer": "05-7231",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Nordhorn",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Nordhorn"
   },
   {
     "Regio": "05",
     "Roepnummer": "05-7251",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Kazerne": "Nordhorn",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Nordhorn"
   },
   {
     "Regio": "05",
     "Roepnummer": "05-7551",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Kazerne": "Gronau",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Gronau"
   },
   {
     "Regio": "05",
@@ -10044,6 +10063,7 @@
     "Roepnummer": "05-9064",
     "Type": "NBBC",
     "Omschrijving": "Natuur Brand Bestrijdings Container",
+    "Toevoeging": "Handcrew + quad",
     "Kazerne": "Nijverdal",
     "Adres": "Kerkstraat 138B, 7442EH, Nijverdal"
   },
@@ -15559,6 +15579,16 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "28-2261",
+    "Kenteken": "DM-606-N",
+    "Type": "WTG",
+    "Omschrijving": "Water Transport Voertuig Groot",
+    "Merk (& Type)": "Tatra",
+    "Kazerne": "ISK Harskamp",
+    "Adres": "Otterloseweg, 6732BS, Harskamp"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "28-2281",
     "Kenteken": "KR-00-59",
     "Type": "HA-KR",
@@ -15669,8 +15699,7 @@
     "Roepnummer": "08-1431",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Rindern",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Rindern"
   },
   {
     "Regio": "08",
@@ -16834,16 +16863,14 @@
     "Roepnummer": "08-9061",
     "Type": "BRV",
     "Omschrijving": "Brandweervaartuig",
-    "Kazerne": "Nijmegen-Haven",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Nijmegen-Haven"
   },
   {
     "Regio": "08",
     "Roepnummer": "08-9062",
     "Type": "BRV",
     "Omschrijving": "Brandweervaartuig",
-    "Kazerne": "Tiel-Haven",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tiel-Haven"
   },
   {
     "Regio": "08",
@@ -20017,8 +20044,7 @@
     "Type": "DA-QRT",
     "Omschrijving": "Dienstauto - Quick Response Team",
     "Merk (& Type)": "Volkswagen Polo",
-    "Kazerne": "Leiding & Coördenatie",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Leiding & Coördenatie"
   },
   {
     "Regio": "09",
@@ -21242,8 +21268,7 @@
     "Roepnummer": "10-5933",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Vliegveld Texel",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Vliegveld Texel"
   },
   {
     "Regio": "10",
@@ -21258,8 +21283,7 @@
     "Roepnummer": "10-5961",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Vliegveld Texel",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Vliegveld Texel"
   },
   {
     "Regio": "10",
@@ -21310,24 +21334,21 @@
     "Roepnummer": "10-6302",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Petten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Petten"
   },
   {
     "Regio": "10",
     "Roepnummer": "10-6331",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Petten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Petten"
   },
   {
     "Regio": "10",
     "Roepnummer": "10-6332",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Petten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Petten"
   },
   {
     "Regio": "10",
@@ -21474,8 +21495,7 @@
     "Roepnummer": "10-6561",
     "Type": "WTS",
     "Omschrijving": "Watertransportsysteem",
-    "Kazerne": "Texel",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Texel"
   },
   {
     "Regio": "10",
@@ -21649,8 +21669,7 @@
     "Roepnummer": "10-6681",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
-    "Kazerne": "Texel",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Texel"
   },
   {
     "Regio": "10",
@@ -22022,8 +22041,7 @@
     "Roepnummer": "10W008   ",
     "Type": "DA-VEB",
     "Omschrijving": "Dienstauto - Verkenningseenheid Brandweer",
-    "Kazerne": "Koggenland",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Koggenland"
   },
   {
     "Regio": "10",
@@ -22187,8 +22205,7 @@
     "Roepnummer": "PTN110",
     "Type": "PM-4WD",
     "Omschrijving": "Personeel/Materieelvoertuig met 4 Wheel Drive",
-    "Kazerne": "Petten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Petten"
   },
   {
     "Regio": "10",
@@ -22948,8 +22965,7 @@
     "Roepnummer": "11-7531",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Olam Cocoa - Koog a/d Zaan",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Olam Cocoa - Koog a/d Zaan"
   },
   {
     "Regio": "11",
@@ -23101,8 +23117,7 @@
     "Roepnummer": "11-8039",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Zaanstad Post Noord",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Zaanstad Post Noord"
   },
   {
     "Regio": "11",
@@ -23207,24 +23222,21 @@
     "Roepnummer": "11-8531",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Bedrijfsbrandweer Olam Cacoa",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bedrijfsbrandweer Olam Cacoa"
   },
   {
     "Regio": "11",
     "Roepnummer": "11-8631",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Bedrijfsbrandweer Forbo Kromenie",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bedrijfsbrandweer Forbo Kromenie"
   },
   {
     "Regio": "11",
     "Roepnummer": "11-8671",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Kazerne": "Zaanstad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Zaanstad"
   },
   {
     "Regio": "11",
@@ -24533,16 +24545,14 @@
     "Roepnummer": "12-9130",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Schiphol-Rijk",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Schiphol-Rijk"
   },
   {
     "Regio": "12",
     "Roepnummer": "12-9230",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Schiphol-Sloten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Schiphol-Sloten"
   },
   {
     "Regio": "12",
@@ -24565,8 +24575,7 @@
     "Roepnummer": "12-W003",
     "Type": "VEB",
     "Omschrijving": "Verkenningseenheid Brandweer (Meetploeg)",
-    "Kazerne": "Beverwijk",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Beverwijk"
   },
   {
     "Regio": "12",
@@ -24597,8 +24606,7 @@
     "Roepnummer": "13-0000",
     "Type": "TS-OPL",
     "Omschrijving": "Tankautospuit-Opleiding",
-    "Kazerne": "BOCAS",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "BOCAS"
   },
   {
     "Regio": "13",
@@ -24631,16 +24639,14 @@
     "Roepnummer": "13-2331",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Landelijk Noord Ransdorp",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Landelijk Noord Ransdorp"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-2363",
     "Type": "BRV",
     "Omschrijving": "Brandweervaartuig",
-    "Kazerne": "Landelijk Noord Ransdorp",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Landelijk Noord Ransdorp"
   },
   {
     "Regio": "13",
@@ -24952,8 +24958,7 @@
     "Roepnummer": "13-4531",
     "Type": "TS-6",
     "Omschrijving": "Tankautospuit 6 mans bezetting",
-    "Kazerne": "Weesp",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Weesp"
   },
   {
     "Regio": "13",
@@ -25125,104 +25130,91 @@
     "Roepnummer": "13-8131",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Flora Holland",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Flora Holland"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-8831",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Sloterdijk",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Sloterdijk"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-8861",
     "Type": "AS-IB",
     "Omschrijving": "Autospuit Industiële Brandbestrijding",
-    "Kazerne": "Sloterdijk",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Sloterdijk"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9001",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9002",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9003",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9004",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9005",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9006",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9007",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9008",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9009",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9021",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
@@ -25230,16 +25222,14 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Toevoeging": "LFO",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9085",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Kazerne": "Galwin Logistiek",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Galwin Logistiek"
   },
   {
     "Regio": "13",
@@ -25256,8 +25246,7 @@
     "Roepnummer": "13-9091",
     "Type": "DA-HOD",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
@@ -25265,32 +25254,28 @@
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
     "Toevoeging": "Meldkamer",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9093",
     "Type": "DA-VL",
     "Omschrijving": "Dienstauto - Voorlichter",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9095",
     "Type": "DA-CVD",
     "Omschrijving": "Dienstauto - Commandant Van Dienst",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9096",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Hoofdkantoor",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hoofdkantoor"
   },
   {
     "Regio": "13",
@@ -25642,8 +25627,7 @@
     "Roepnummer": "13-9432",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Kazerne": "Bocas",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bocas"
   },
   {
     "Regio": "13",
@@ -25652,24 +25636,21 @@
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
     "Merk (& Type)": "Mercedes Benz Atego",
-    "Kazerne": "Bocas",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bocas"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9451",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Kazerne": "Bocas",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bocas"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-9488",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Kazerne": "Bocas",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bocas"
   },
   {
     "Regio": "13",
@@ -26007,8 +25988,7 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "MAN",
-    "Kazerne": "Hilversum-Nevenpost",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hilversum-Nevenpost"
   },
   {
     "Regio": "14",
@@ -26206,32 +26186,28 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Mercedes Benz Citan",
-    "Kazerne": "Oefencentrum Crailo",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oefencentrum Crailo"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-3184",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Kazerne": "Oefencentrum Crailo",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oefencentrum Crailo"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-3188",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Oefencentrum Crailo",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oefencentrum Crailo"
   },
   {
     "Regio": "14",
     "Roepnummer": "14-3288",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Oefencentrum Crailo",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oefencentrum Crailo"
   },
   {
     "Regio": "14",
@@ -26239,8 +26215,7 @@
     "Type": "BM",
     "Omschrijving": "Bijzonder materieel",
     "Toevoeging": "Verrijker",
-    "Kazerne": "Oefencentrum Crailo",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Oefencentrum Crailo"
   },
   {
     "Regio": "14",
@@ -29392,72 +29367,63 @@
     "Roepnummer": "16-9390",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9391",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9392",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9393",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9394",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9395",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9396",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9397",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
     "Roepnummer": "16-9398",
     "Type": "DA-CC",
     "Omschrijving": "Dienstauto - Cluster Commandant",
-    "Kazerne": "Cluster Commandant",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Cluster Commandant"
   },
   {
     "Regio": "16",
@@ -29828,8 +29794,7 @@
     "Roepnummer": "17-1031",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "PAP / Metaalhof",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "PAP / Metaalhof"
   },
   {
     "Regio": "17",
@@ -29838,32 +29803,28 @@
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
     "Merk (& Type)": "Mercedes Benz",
-    "Kazerne": "PAP / Metaalhof",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "PAP / Metaalhof"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1081",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Strandwacht Nesselande",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Strandwacht Nesselande"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1082",
     "Type": "RB",
     "Omschrijving": "Reddingboot",
-    "Kazerne": "Strandwacht Nesselande",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Strandwacht Nesselande"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1092",
     "Type": "RB",
     "Omschrijving": "Reddingboot",
-    "Kazerne": "Strandwacht Nesselande",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Strandwacht Nesselande"
   },
   {
     "Regio": "17",
@@ -30674,7 +30635,7 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Kazerne": "Hoogvliet",
-    "Adres": "Kouwenaardseweg 100, 3191TN, Hoogvliet"
+    "Adres": "Rietbroek 35, 3191HA, Hoogvliet"
   },
   {
     "Regio": "17",
@@ -30682,7 +30643,7 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Kazerne": "Hoogvliet",
-    "Adres": "Kouwenaardseweg 100, 3191TN, Hoogvliet"
+    "Adres": "Rietbroek 35, 3191HA, Hoogvliet"
   },
   {
     "Regio": "17",
@@ -31213,8 +31174,7 @@
     "Roepnummer": "17-4731",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Stad aan 't Haringvliet",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Stad aan 't Haringvliet"
   },
   {
     "Regio": "17",
@@ -31259,24 +31219,21 @@
     "Roepnummer": "17-8721",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8722",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8723",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31284,8 +31241,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA10",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31293,8 +31249,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA11",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31302,8 +31257,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA12",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31311,8 +31265,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA13",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31320,8 +31273,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA14",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31329,8 +31281,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA15",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31338,8 +31289,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA16",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31347,8 +31297,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA20",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31356,8 +31305,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA 1",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31365,8 +31313,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA 2",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31374,8 +31321,7 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA 3",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31383,56 +31329,49 @@
     "Type": "RPA",
     "Omschrijving": "Rotterdam Port Authority",
     "Toevoeging": "RPA 8",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8790",
     "Type": "DA-OVDHM",
     "Omschrijving": "Dienstauto - Officier van Dienst-Haven Meester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8791",
     "Type": "DA-OVDHM",
     "Omschrijving": "Dienstauto - Officier van Dienst-Haven Meester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8792",
     "Type": "DA-OVDHM",
     "Omschrijving": "Dienstauto - Officier van Dienst-Haven Meester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8793",
     "Type": "DA-OVDHM",
     "Omschrijving": "Dienstauto - Officier van Dienst-Haven Meester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8794",
     "Type": "DA-HODHM",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst - Havenmeester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8795",
     "Type": "DA-HODHM",
     "Omschrijving": "Dienstauto - Hoofd Officier van Dienst - Havenmeester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31440,8 +31379,7 @@
     "Type": "DA-CVD",
     "Omschrijving": "Dienstauto - Commandant Van Dienst",
     "Toevoeging": "Havenmeester",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31449,8 +31387,7 @@
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
     "Toevoeging": "HCC",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31458,8 +31395,7 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Toevoeging": "Operationeel Manager (HCC)",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
@@ -31467,48 +31403,42 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Toevoeging": "Duty Officer Haven Coördinatie Centrum (HCC)",
-    "Kazerne": "Havendienst",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Havendienst"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8891",
     "Type": "DA-OVDPRI",
     "Omschrijving": "Dienstauto - Officier van Dienst-Pro Rail Incidentbestrijding",
-    "Kazerne": "Butaanweg-Prorail",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Butaanweg-Prorail"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8892",
     "Type": "DA-OVDPRI",
     "Omschrijving": "Dienstauto - Officier van Dienst-Pro Rail Incidentbestrijding",
-    "Kazerne": "Butaanweg-Prorail",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Butaanweg-Prorail"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8893",
     "Type": "DA-OVDPRI",
     "Omschrijving": "Dienstauto - Officier van Dienst-Pro Rail Incidentbestrijding",
-    "Kazerne": "Butaanweg-Prorail",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Butaanweg-Prorail"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8894",
     "Type": "DA-OVDPRI",
     "Omschrijving": "Dienstauto - Officier van Dienst-Pro Rail Incidentbestrijding",
-    "Kazerne": "Butaanweg-Prorail",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Butaanweg-Prorail"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-8895",
     "Type": "DA-OVDPRI",
     "Omschrijving": "Dienstauto - Officier van Dienst-Pro Rail Incidentbestrijding",
-    "Kazerne": "Butaanweg-Prorail",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Butaanweg-Prorail"
   },
   {
     "Regio": "17",
@@ -31706,8 +31636,7 @@
     "Roepnummer": "17-9083",
     "Type": "DA-OVD",
     "Omschrijving": "Dienstauto - Officier van Dienst",
-    "Kazerne": "Landelijk Expertisecentrum (LEC) Brandweer BRZO",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Landelijk Expertisecentrum (LEC) Brandweer BRZO"
   },
   {
     "Regio": "17",
@@ -31984,16 +31913,14 @@
     "Roepnummer": "17-9191",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Waterweg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Waterweg"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-9192",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Noord",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Noord"
   },
   {
     "Regio": "17",
@@ -32008,8 +31935,7 @@
     "Roepnummer": "17-9194",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Zuid",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Zuid"
   },
   {
     "Regio": "17",
@@ -32023,16 +31949,14 @@
     "Roepnummer": "17-9196",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Voorne-Putten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Voorne-Putten"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-9197",
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
-    "Kazerne": "Goeree Overflakkee",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Goeree Overflakkee"
   },
   {
     "Regio": "17",
@@ -32233,8 +32157,7 @@
     "Roepnummer": "17-9288",
     "Type": "SBH",
     "Omschrijving": "Schuimblushaakarmbak",
-    "Kazerne": "Haven Coloradoweg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Haven Coloradoweg"
   },
   {
     "Regio": "17",
@@ -32796,8 +32719,7 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Merk (& Type)": "Ford Transit",
-    "Kazerne": "Maasdam / Puttershoek",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Maasdam / Puttershoek"
   },
   {
     "Regio": "18",
@@ -32812,8 +32734,7 @@
     "Roepnummer": "18-6031",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Maasdam / Puttershoek",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Maasdam / Puttershoek"
   },
   {
     "Regio": "18",
@@ -32979,8 +32900,7 @@
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
     "Merk (& Type)": "Volvo",
-    "Kazerne": "Bedrijfsbrandweer Kijfhoek",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Bedrijfsbrandweer Kijfhoek"
   },
   {
     "Regio": "18",
@@ -33507,8 +33427,7 @@
     "Roepnummer": "18-6938",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Fokker VWF Papendrecht",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Fokker VWF Papendrecht"
   },
   {
     "Regio": "18",
@@ -34543,8 +34462,7 @@
     "Roepnummer": "19-2200",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
@@ -34559,8 +34477,7 @@
     "Roepnummer": "19-2202",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
@@ -34568,16 +34485,14 @@
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
     "Toevoeging": "Duikploeg",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-2211",
     "Type": "WOV-K",
     "Omschrijving": "Waterongevallenvaartuig - Klein",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
@@ -34585,8 +34500,7 @@
     "Type": "WOV-M",
     "Omschrijving": "Waterongevallenvaartuig - Middel",
     "Toevoeging": "Reddingsboot Eendracht",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
@@ -34601,8 +34515,7 @@
     "Roepnummer": "19-2230",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Tholen Stad",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Tholen Stad"
   },
   {
     "Regio": "19",
@@ -34670,8 +34583,7 @@
     "Roepnummer": "19-2800",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Kazerne": "Burgh-Haamstede",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Burgh-Haamstede"
   },
   {
     "Regio": "19",
@@ -34694,8 +34606,7 @@
     "Roepnummer": "19-2807",
     "Type": "DV-PA",
     "Omschrijving": "Dienstvoertuig - Patiënten vervoer",
-    "Kazerne": "Burgh-Haamstede",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Burgh-Haamstede"
   },
   {
     "Regio": "19",
@@ -34897,16 +34808,14 @@
     "Roepnummer": "19-4333",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-4336",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -35154,8 +35063,7 @@
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Midden-West",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -35390,8 +35298,7 @@
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Midden-Oost",
-    "Kazerne": "Goes",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Goes"
   },
   {
     "Regio": "19",
@@ -36139,8 +36046,7 @@
     "Type": "RB",
     "Omschrijving": "Reddingboot",
     "Toevoeging": "Koopmansdank",
-    "Kazerne": "Neeltje Jans-Buiten",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Neeltje Jans-Buiten"
   },
   {
     "Regio": "19",
@@ -36148,8 +36054,7 @@
     "Type": "RB",
     "Omschrijving": "Reddingboot",
     "Toevoeging": "Fred",
-    "Kazerne": "Neeltje Jans-Binnen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Neeltje Jans-Binnen"
   },
   {
     "Regio": "19",
@@ -36157,8 +36062,7 @@
     "Type": "RB",
     "Omschrijving": "Reddingboot",
     "Toevoeging": "Koopmansdank",
-    "Kazerne": "Hansweert",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hansweert"
   },
   {
     "Regio": "19",
@@ -36166,8 +36070,7 @@
     "Type": "RB",
     "Omschrijving": "Reddingboot",
     "Toevoeging": "Kleine Vlet",
-    "Kazerne": "Hansweert",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Hansweert"
   },
   {
     "Regio": "19",
@@ -36193,8 +36096,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Zuid",
-    "Kazerne": "Terneuzen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Terneuzen"
   },
   {
     "Regio": "19",
@@ -36202,8 +36104,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Noord",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -36220,8 +36121,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Noord",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -36239,8 +36139,7 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes Benz Atego 4x2",
-    "Kazerne": "Yara Sluiskil",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Yara Sluiskil"
   },
   {
     "Regio": "19",
@@ -36249,8 +36148,7 @@
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
     "Merk (& Type)": "Mercedes Benz",
-    "Kazerne": "Terneuzen Oil Tanking",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Terneuzen Oil Tanking"
   },
   {
     "Regio": "19",
@@ -36308,16 +36206,14 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "DAF LF",
-    "Kazerne": "EPZ",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "EPZ"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8460",
     "Type": "DPH",
     "Omschrijving": "Dompelpomphaakarmbak",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -36406,32 +36302,28 @@
     "Roepnummer": "19-8520",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8530",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Kazerne": "Schouwen-Duiveland",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Schouwen-Duiveland"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8560",
     "Type": "WTH-G",
     "Omschrijving": "Watertankhaakarmbak - Groot",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8570",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
-    "Kazerne": "Schouwen-Duiveland",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Schouwen-Duiveland"
   },
   {
     "Regio": "19",
@@ -36446,32 +36338,28 @@
     "Roepnummer": "19-8583",
     "Type": "GM-LO",
     "Omschrijving": "Gereedschap/Materieel - Logistiek",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8588",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8593",
     "Type": "DV‐CVE",
     "Omschrijving": "Dienstvoertuig - Coördinator  Verkenningseenheden",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8594",
     "Type": "DV‐HOD",
     "Omschrijving": "Dienstvoertuig - Hoofdofficier van Dienst",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -36479,8 +36367,7 @@
     "Type": "DV‐IMO",
     "Omschrijving": "Dienstvoertuig - Informatiemanager ROT",
     "Toevoeging": "ROT",
-    "Kazerne": "Middelburg GMK",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg GMK"
   },
   {
     "Regio": "19",
@@ -36488,8 +36375,7 @@
     "Type": "DV‐IMC",
     "Omschrijving": "Dienstvoertuig Informatie Manger CoPI",
     "Toevoeging": "COPI",
-    "Kazerne": "Middelburg",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Middelburg"
   },
   {
     "Regio": "19",
@@ -36544,16 +36430,14 @@
     "Roepnummer": "19-8609",
     "Type": "DA-TD",
     "Omschrijving": "Dienstauto - Technische Dienst",
-    "Kazerne": "Terneuzen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Terneuzen"
   },
   {
     "Regio": "19",
     "Roepnummer": "19-8620",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Kazerne": "Terneuzen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Terneuzen"
   },
   {
     "Regio": "19",
@@ -36684,8 +36568,7 @@
     "Type": "DA-IM",
     "Omschrijving": "Dienstauto - Informatie Manager",
     "Toevoeging": "COPI Zuid",
-    "Kazerne": "Terneuzen",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Terneuzen"
   },
   {
     "Regio": "19",
@@ -39931,8 +39814,7 @@
     "Roepnummer": "28-4831",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Kazerne": "Woensdrecht",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Woensdrecht"
   },
   {
     "Regio": "21",
@@ -41081,16 +40963,14 @@
     "Roepnummer": "21-6131",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Kazerne": "Aspen locatie Moleneind",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Aspen locatie Moleneind"
   },
   {
     "Regio": "21",
     "Roepnummer": "21-6132",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Kazerne": "Aspen locatie De Geer",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Aspen locatie De Geer"
   },
   {
     "Regio": "22",
@@ -41125,10 +41005,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-1081",
-    "Kenteken": "7-VFJ-87",
-    "Type": "PM",
-    "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Renault Trafic",
+    "Kenteken": "R-569-SH",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Asten",
     "Adres": "Floralaan 20, 5721CV, Asten"
   },
@@ -42273,8 +42153,7 @@
     "Type": "DA",
     "Omschrijving": "Dienstauto",
     "Merk (& Type)": "Mitsubishi Outlander",
-    "Kazerne": "Nystar",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Nystar"
   },
   {
     "Regio": "22",
@@ -42303,8 +42182,7 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Merk (& Type)": "Mercedes Benz",
-    "Kazerne": "Nystar",
-    "Adres": "Kazerne NOT FOUND"
+    "Kazerne": "Nystar"
   },
   {
     "Regio": "22",
@@ -43082,6 +42960,16 @@
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "22-5207",
+    "Kenteken": "S-884-VN",
+    "Type": "DB-HC",
+    "Omschrijving": "Dienstbus - Handcrew",
+    "Merk (& Type)": "Mercedes-Benz Citan",
+    "Kazerne": "Neerkant",
+    "Adres": "Sint Vincentiusstraat 1, 5758SB, Neerkant"
   },
   {
     "Regio": "22",
