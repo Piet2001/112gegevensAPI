@@ -29810,21 +29810,24 @@
     "Roepnummer": "17-1081",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Strandwacht Nesselande"
+    "Kazerne": "Nesselande strandwacht",
+    "Adres": "Siciliëboulevard 227, 3059XT, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1082",
     "Type": "RB",
     "Omschrijving": "Reddingboot",
-    "Kazerne": "Strandwacht Nesselande"
+    "Kazerne": "Nesselande strandwacht",
+    "Adres": "Siciliëboulevard 227, 3059XT, Rotterdam"
   },
   {
     "Regio": "17",
     "Roepnummer": "17-1092",
     "Type": "RB",
     "Omschrijving": "Reddingboot",
-    "Kazerne": "Strandwacht Nesselande"
+    "Kazerne": "Nesselande strandwacht",
+    "Adres": "Siciliëboulevard 227, 3059XT, Rotterdam"
   },
   {
     "Regio": "17",
