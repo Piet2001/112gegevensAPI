@@ -1,12 +1,5 @@
 [
   {
-    "Roepnummer": "01-1276",
-    "Kenteken": "69-WT-HJ",
-    "Type": "VIA",
-    "Omschrijving": "Veetakelinstallatie aanhanger",
-    "Kazerne": "Grootegast"
-  },
-  {
     "Regio": "01",
     "Roepnummer": "01-0101",
     "Kenteken": "42-LTD-5",
@@ -62,7 +55,7 @@
     "Kenteken": "BS-ZV-44",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -82,7 +75,7 @@
     "Kenteken": "V-791-XZ",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -169,7 +162,7 @@
     "Kenteken": "J-485-VN",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -209,7 +202,7 @@
     "Kenteken": "VBK-41-D",
     "Type": "DV-TBO",
     "Omschrijving": "Dienstvoertuig - Team Brand Onderzoek",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Regionaal"
   },
   {
@@ -275,7 +268,7 @@
     "Kenteken": "ZB-105-K",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Leek",
     "Adres": "Tolberterstraat 74, 9351BJ, Leek"
   },
@@ -315,7 +308,7 @@
     "Kenteken": "33-BDS-5",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Marum",
     "Adres": "Kruisweg 40, 9363AE, Marum"
   },
@@ -367,6 +360,15 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-1276",
+    "Kenteken": "69-WT-HJ",
+    "Type": "VIA",
+    "Omschrijving": "Veetakelinstallatie aanhanger",
+    "Kazerne": "Grootegast",
+    "Adres": "Rondweg 15, 9861GK, Grootegast"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-1282",
     "Kenteken": "BX-NS-29",
     "Type": "HA",
@@ -381,7 +383,7 @@
     "Kenteken": "ZB-106-K",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zuidhorn",
     "Adres": "Boslaan 16, 9801HG, Zuidhorn"
   },
@@ -401,7 +403,7 @@
     "Kenteken": "VV-SG-65",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Grijpskerk",
     "Adres": "Bouwhuisstraat 20, 9843BC, Grijpskerk"
   },
@@ -506,7 +508,7 @@
     "Kenteken": "31-VXS-5",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zoutkamp",
     "Adres": "Marnestraat 3, 9974RB, Zoutkamp"
   },
@@ -601,7 +603,7 @@
     "Kenteken": "BN-ZH-06",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vario",
+    "Merk (& Type)": "Mercedes-Benz Vario",
     "Kazerne": "Winsum",
     "Adres": "Meeden 2, 9951HT, Winsum"
   },
@@ -681,7 +683,7 @@
     "Kenteken": "J-139-DZ",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Ten Boer",
     "Adres": "Boltweg 1, 9791AC, Ten Boer"
   },
@@ -701,7 +703,7 @@
     "Kenteken": "V-688-LX",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -731,7 +733,7 @@
     "Kenteken": "J-181-DZ",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -791,7 +793,7 @@
     "Kenteken": "32-BPV-9",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -875,7 +877,7 @@
     "Kenteken": "BX-ZZ-14",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic 2633 6x2/4",
+    "Merk (& Type)": "Mercedes-Benz Econic 2633 6x2/4",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -885,7 +887,7 @@
     "Kenteken": "BX-ZZ-13",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic 2633 6x2/5",
+    "Merk (& Type)": "Mercedes-Benz Econic 2633 6x2/5",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -963,7 +965,7 @@
     "Kenteken": "BJ-RN-04",
     "Type": "HV-K",
     "Omschrijving": "Hulpverleningsvoertuig-Klein ",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1103,7 +1105,7 @@
     "Kenteken": "49-VJG-6",
     "Type": "WO-RES",
     "Omschrijving": "Waterongevallenvoertuig - Reserve",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groningen Sontweg",
     "Adres": "Sontweg 10, 9723AT, Groningen"
   },
@@ -1247,7 +1249,7 @@
     "Kenteken": "BN-BR-92",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
   },
@@ -1267,7 +1269,7 @@
     "Kenteken": "BN-ZV-13",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic",
+    "Merk (& Type)": "Mercedes-Benz Econic",
     "Kazerne": "Hoogezand-Sappemeer",
     "Adres": "Rembrandtlaan 8, 9601XC, Hoogezand"
   },
@@ -1441,7 +1443,7 @@
     "Kenteken": "BN-ZH-09",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vario",
+    "Merk (& Type)": "Mercedes-Benz Vario",
     "Kazerne": "Nieuwe Pekela",
     "Adres": "Pekelwerk 8, 9663AW, Nieuwe Pekela"
   },
@@ -1535,7 +1537,7 @@
     "Kenteken": "BH-TZ-16",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic",
+    "Merk (& Type)": "Mercedes-Benz Econic",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -1642,7 +1644,7 @@
     "Kenteken": "V-792-XZ",
     "Type": "DV-TD",
     "Omschrijving": "Dienstvoertuig (Medewerker)  Technische  dienst",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Stadskanaal",
     "Adres": "Veenstraat 8, 9502EZ, Stadskanaal"
   },
@@ -1845,7 +1847,7 @@
     "Kenteken": "V-410-PS",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Finsterwolde",
     "Adres": "Bospad 1, 9684AW, Finsterwolde"
   },
@@ -1932,7 +1934,7 @@
     "Kenteken": "BR-TV-08",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic",
+    "Merk (& Type)": "Mercedes-Benz Econic",
     "Kazerne": "Winschoten",
     "Adres": "Molenweg 2, 9675JC, Winschoten"
   },
@@ -2050,7 +2052,7 @@
     "Kenteken": "5-VGH-41",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2136,7 +2138,7 @@
     "Kenteken": "BX-GZ-09",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "Delfzijl",
     "Adres": "Hogelandsterweg 1, 9934RM, Delfzijl"
   },
@@ -2227,7 +2229,7 @@
     "Kenteken": "8-VHP-51",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Appingedam",
     "Adres": "Dijkhuizenweg 28, 9903AC, Appingedam"
   },
@@ -2427,7 +2429,7 @@
     "Kenteken": "VV-15-RK",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bosbrandweer",
     "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
   },
@@ -2437,7 +2439,7 @@
     "Kenteken": "VV-53-DH",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bosbrandweer",
     "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
   },
@@ -2447,7 +2449,7 @@
     "Kenteken": "BG-RH-64",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bosbrandweer",
     "Adres": "Jacob Hansens de Boerstraat 35, 9365PL, Niebert"
   },
@@ -2473,7 +2475,7 @@
     "Kenteken": "19-VNH-1",
     "Type": "GS",
     "Omschrijving": "Gevaarlijke Stoffen voertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Falck (Chemiepark Delfzijl)",
     "Adres": "Oosterhorn 4e, 9936HD, Delfzijl"
   },
@@ -2575,7 +2577,7 @@
     "Kenteken": "V-989-RD",
     "Type": "DA-TBO",
     "Omschrijving": "Dienstauto - Team incidenten & Brand Onderzoek",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldlânsdijk 11, 8934AA, Leeuwarden"
   },
@@ -2743,7 +2745,7 @@
     "Kenteken": "BX-PJ-75",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz Unimog U1550",
+    "Merk (& Type)": "Mercedes-Benz Unimog U1550",
     "Kazerne": "Schiermonnikoog",
     "Adres": "Knuppeldam 6, 9166NZ, Schiermonnikoog"
   },
@@ -2881,7 +2883,7 @@
     "Kenteken": "ZP-669-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Drogeham",
     "Adres": "De Droegehamster Feart 6, 9289HH, Drogeham"
   },
@@ -3779,7 +3781,7 @@
     "Kenteken": "BP-PN-20",
     "Type": "GS",
     "Omschrijving": "Gevaarlijke Stoffen voertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Leeuwarden-Hoofdpost",
     "Adres": "Aldlânsdijk 11, 8934AA, Leeuwarden"
   },
@@ -3915,7 +3917,7 @@
     "Kenteken": "XX-785-N",
     "Type": "PM-VEB",
     "Omschrijving": "Personeel/Materieelvoertuig - Verkennings Eenheid Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Akkrum",
     "Adres": "It Vegelinskampke 12, 8491PD, Akkrum"
   },
@@ -3989,7 +3991,7 @@
     "Kenteken": "J-496-XV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Heerenveen",
     "Adres": "It Hege Stik 8, 8445PZ, Heerenveen"
   },
@@ -4418,7 +4420,7 @@
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Zuid",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Oosterwolde",
     "Adres": "Dertien Aprilstraat 42a, 8431GE, Oosterwolde"
   },
@@ -4632,7 +4634,7 @@
     "Type": "DV-OVD",
     "Omschrijving": "Dienstvoertuig - Officier van Dienst",
     "Toevoeging": "Zuid/Oost",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Gorredijk",
     "Adres": "Leitswei 3, 8401CL, Gorredijk"
   },
@@ -4959,7 +4961,7 @@
     "Kenteken": "03-BLG-3",
     "Type": "HA-KR",
     "Omschrijving": "Haakarmvoertuig met Kraan",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "Dokkum",
     "Adres": "Rondweg Noord 28, 9101AD, Dokkum"
   },
@@ -5645,7 +5647,7 @@
     "Kenteken": "K-454-NS",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Annen",
     "Adres": "Spijkerboorsdijk 3, 9468CG, Annen"
   },
@@ -5849,7 +5851,7 @@
     "Kenteken": "80-BPG-6",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -5953,7 +5955,7 @@
     "Kenteken": "35-BNP-4",
     "Type": "VW-AH",
     "Omschrijving": "Vrachtwagen - Arbeidshygiëne",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Emmen",
     "Adres": "Nijbracht 43a, 7821CB, Emmen"
   },
@@ -6519,7 +6521,7 @@
     "Kenteken": "J-891-GF",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Vledder",
     "Adres": "Kerkhoflaan 2, 8381BB, Vledder"
   },
@@ -6654,7 +6656,7 @@
     "Kenteken": "BR-DP-81",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Meppel",
     "Adres": "Paradijsweg 1, 7942HB, Meppel"
   },
@@ -6756,7 +6758,7 @@
     "Kenteken": "54-BNN-1",
     "Type": "HA-T",
     "Omschrijving": "Haakarmbakvoertuig-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz Antos",
+    "Merk (& Type)": "Mercedes-Benz Antos",
     "Kazerne": "Vries",
     "Adres": "Westerstraat 26, 9481CB, Vries"
   },
@@ -7056,7 +7058,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Midden",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -7644,7 +7646,7 @@
     "Roepnummer": "04-1882",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Genemuiden",
     "Adres": "Stuivenbergstraat 15, 8281EJ, Genemuiden"
   },
@@ -7702,7 +7704,7 @@
     "Kenteken": "PL-594-R",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Dalfsen",
     "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
   },
@@ -7712,7 +7714,7 @@
     "Kenteken": "BH-LD-15",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Dalfsen",
     "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
   },
@@ -7722,7 +7724,7 @@
     "Kenteken": "BS-FH-64",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Nieuwleusen",
     "Adres": "Westeinde 19b, 7711CH, Nieuwleusen"
   },
@@ -7787,7 +7789,7 @@
     "Kenteken": "BN-HZ-11",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Nieuwleusen",
     "Adres": "Westeinde 19b, 7711CH, Nieuwleusen"
   },
@@ -7813,7 +7815,7 @@
     "Kenteken": "65-BLH-2",
     "Type": "PM-SL",
     "Omschrijving": "Personeel/Materieelvoertuig - Slangenwagen",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuwleusen",
     "Adres": "Westeinde 19b, 7711CH, Nieuwleusen"
   },
@@ -7823,7 +7825,7 @@
     "Kenteken": "11-BHZ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Dalfsen",
     "Adres": "Prins Hendrikstraat 4, 7721CZ, Dalfsen"
   },
@@ -7983,7 +7985,7 @@
     "Kenteken": "ZP-655-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Hardenberg",
     "Adres": "Europaweg 10, 7771BG, Hardenberg"
   },
@@ -8193,7 +8195,7 @@
     "Kenteken": "BP-FP-25",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Wijhe",
     "Adres": "Industrieweg 6, 8131VZ, Wijhe"
   },
@@ -8227,7 +8229,7 @@
     "Kenteken": "BT-ZX-73",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "Wijhe",
     "Adres": "Industrieweg 6, 8131VZ, Wijhe"
   },
@@ -8295,7 +8297,7 @@
     "Kenteken": "VFT-52-G",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heeten",
     "Adres": "Ijzerweg 23, 8111CW, Heeten"
   },
@@ -8642,7 +8644,7 @@
     "Kenteken": "81-BJD-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Deventer",
     "Adres": "Schonenvaardersstraat 5, 7418CC, Deventer"
   },
@@ -8713,7 +8715,7 @@
     "Kenteken": "J-475-VN",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Hengelo-Centrum",
     "Adres": "Lansinkesweg 59, 7553AE, Hengelo"
   },
@@ -8827,7 +8829,7 @@
     "Kenteken": "BL-FV-66",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hengelo-Noord",
     "Adres": "Torenlaan 2a, 7559PJ, Hengelo"
   },
@@ -9058,7 +9060,7 @@
     "Kenteken": "RS-232-F",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Losser",
     "Adres": "Broekhoekweg 40, 7582PT, Losser"
   },
@@ -9068,7 +9070,7 @@
     "Kenteken": "70-BDD-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Losser",
     "Adres": "Broekhoekweg 40, 7582PT, Losser"
   },
@@ -9718,7 +9720,7 @@
     "Kenteken": "09-BHZ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Rijssen",
     "Adres": "Molenstalweg 17, 7462AE, Rijssen"
   },
@@ -10510,7 +10512,7 @@
     "Kenteken": "G-820-KV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Heerde",
     "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
   },
@@ -10963,7 +10965,7 @@
     "Kenteken": "V-714-SF",
     "Type": "PM-LO",
     "Omschrijving": "Personeel/Materieelvoertuig - Logistiek&Verzorging",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Apeldoorn-Zuid",
     "Adres": "Saba 6, 7332BH, Apeldoorn"
   },
@@ -12230,7 +12232,7 @@
     "Kenteken": "BL-RT-39",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Neede",
     "Adres": "Oude Eibergseweg 20, 7161RN, Neede"
   },
@@ -12693,7 +12695,7 @@
     "Kenteken": "80-VXJ-8",
     "Type": "PM-LO",
     "Omschrijving": "Personeel/Materieelvoertuig - Logistiek&Verzorging",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Apeldoorn-Zuid",
     "Adres": "Saba 6, 7332BH, Apeldoorn"
   },
@@ -13135,7 +13137,7 @@
     "Kenteken": "H-134-FV",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Ede-Centrum",
     "Adres": "Breelaan 4, 6711MR, Ede"
   },
@@ -13243,7 +13245,7 @@
     "Kenteken": "PX-067-Z",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Cluster Noord"
   },
   {
@@ -13285,7 +13287,7 @@
     "Kenteken": "VBP-30-V",
     "Type": "DB-OVR",
     "Omschrijving": "Dienstbus -Oppervlakteredding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nijkerk",
     "Adres": "Havenstraat 5, 3861VS, Nijkerk"
   },
@@ -13647,7 +13649,7 @@
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Toevoeging": "Vee Red Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "De Valk",
     "Adres": "Lage Valkseweg 119, 6741GB, Lunteren"
   },
@@ -13691,7 +13693,7 @@
     "Kenteken": "V-260-NN",
     "Type": "PM-FRB",
     "Omschrijving": "Personeel/Materieelvoertuig - First Responder Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Lunteren",
     "Adres": "Zilvervoslaan 29, 6741BE, Lunteren"
   },
@@ -13782,7 +13784,7 @@
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
     "Toevoeging": "t.b.v. Verzorging",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Ede-Centrum",
     "Adres": "Breelaan 4, 6711MR, Ede"
   },
@@ -14083,7 +14085,7 @@
     "Kenteken": "TG-532-N",
     "Type": "DB-FRB",
     "Omschrijving": "Dienstbus - First Responder Brandweer",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Renkum",
     "Adres": "Utrechtseweg 131, 6871DR, Renkum"
   },
@@ -14309,7 +14311,7 @@
     "Kenteken": "28-BSB-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Elst",
     "Adres": "De Korte Helster 1, 6661AE, Elst"
   },
@@ -14359,7 +14361,7 @@
     "Kenteken": "V-583-NS",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zetten",
     "Adres": "Sint Walburg 1b, 6671AS, Zetten"
   },
@@ -14387,7 +14389,7 @@
     "Kenteken": "82-BPG-2",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Valburg",
     "Adres": "De Vang 1, 6675AC, Valburg"
   },
@@ -14413,7 +14415,7 @@
     "Kenteken": "69-BPG-1",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Oosterhout",
     "Adres": "Dorpsstraat 3a, 6678BD, Oosterhout"
   },
@@ -14767,7 +14769,7 @@
     "Kenteken": "VBP-28-V",
     "Type": "PM-OVR",
     "Omschrijving": "Personeel/Materieelvoertuig - Oppervlakteredding Team",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Giesbeek",
     "Adres": "Dorpsplein 7, 6987AH, Giesbeek"
   },
@@ -14777,7 +14779,7 @@
     "Kenteken": "92-BSB-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Giesbeek",
     "Adres": "Dorpsplein 7, 6987AH, Giesbeek"
   },
@@ -14879,7 +14881,7 @@
     "Kenteken": "42-BRZ-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Duiven",
     "Adres": "Ploenstraat 3, 6921PM, Duiven"
   },
@@ -14971,7 +14973,7 @@
     "Kenteken": "33-BNX-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Pannerden",
     "Adres": "Renbaan 1c, 6911KH, Pannerden"
   },
@@ -15141,7 +15143,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "8 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zevenaar",
     "Adres": "Professor Aalbersestraat 3, 6904CA, Zevenaar"
   },
@@ -15418,7 +15420,7 @@
     "Kenteken": "24-BPB-6",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -15427,7 +15429,7 @@
     "Kenteken": "95-BPB-4",
     "Type": "TS-OPL",
     "Omschrijving": "Tankautospuit-Opleiding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -15436,7 +15438,7 @@
     "Kenteken": "40-BNZ-8",
     "Type": "TS-OPL",
     "Omschrijving": "Tankautospuit-Opleiding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -15525,7 +15527,7 @@
     "Kenteken": "KN-94-81",
     "Type": "TS-6",
     "Omschrijving": "Tankautospuit 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "ISK Harskamp",
     "Adres": "Otterloseweg, 6732BS, Harskamp"
   },
@@ -15534,7 +15536,7 @@
     "Roepnummer": "28-2235",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "ISK Harskamp",
     "Adres": "Otterloseweg, 6732BS, Harskamp"
   },
@@ -16145,7 +16147,7 @@
     "Kenteken": "7-VJN-69",
     "Type": "PM-FRB",
     "Omschrijving": "Personeel/Materieelvoertuig - First Responder Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nederhemert",
     "Adres": "Nijverheidstraat 1, 5317NL, Nederhemert"
   },
@@ -16171,7 +16173,7 @@
     "Kenteken": "7-VJN-70",
     "Type": "PM-FRB",
     "Omschrijving": "Personeel/Materieelvoertuig - First Responder Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zaltbommel",
     "Adres": "Steenweg 81, 5301HK, Zaltbommel"
   },
@@ -16482,7 +16484,7 @@
     "Kenteken": "G-825-KV",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Culemborg",
     "Adres": "Triosingel 34, 4101XC, Culemborg"
   },
@@ -16510,7 +16512,7 @@
     "Kenteken": "G-808-KV",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Lienden",
     "Adres": "Verbrughweg 2, 4033GP, Lienden"
   },
@@ -16644,7 +16646,7 @@
     "Kenteken": "VDD-46-N",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Kesteren",
     "Adres": "Vincent van Goghstraat 18, 4041GG, Kesteren"
   },
@@ -16711,7 +16713,7 @@
     "Kenteken": "BL-NX-98",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Tiel",
     "Adres": "Teisterbantlaan 1c, 4001TJ, Tiel"
   },
@@ -16811,7 +16813,7 @@
     "Kenteken": "48-VX-KG",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Regionaal"
   },
   {
@@ -16917,7 +16919,7 @@
     "Kenteken": "V-787-FV",
     "Type": "DB-TBO",
     "Omschrijving": "Dienstbus -Team Brandonderzoek",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Nijmegen-Centrum",
     "Adres": "Professor Bellefroidstraat 11, 6525AG, Nijmegen"
   },
@@ -16928,7 +16930,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Oost",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -16938,7 +16940,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Midden",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -16948,7 +16950,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Zuid",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -16958,7 +16960,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "West",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -16968,7 +16970,7 @@
     "Type": "DB-OVD",
     "Omschrijving": "Dienstbus - Officier van Dienst",
     "Toevoeging": "Noord",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Regionaal"
   },
   {
@@ -17050,7 +17052,7 @@
     "Kenteken": "40-BPG-2",
     "Type": "MCU",
     "Omschrijving": "Mobiele Commando Unit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Dodewaard",
     "Adres": "Oranjelaan 1b, 6669AH, Dodewaard"
   },
@@ -17337,7 +17339,7 @@
     "Kenteken": "25-BLP-6",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Amersfoort-Centrum",
     "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
   },
@@ -17347,7 +17349,7 @@
     "Kenteken": "85-BLH-8",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Amersfoort-Centrum",
     "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
   },
@@ -17375,7 +17377,7 @@
     "Kenteken": "84-BPG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Amersfoort-Noord",
     "Adres": "Het Hofslot 1, 3823VV, Amersfoort"
   },
@@ -17385,7 +17387,7 @@
     "Kenteken": "99-BKT-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Baarn",
     "Adres": "Plataanlaan 2, 3741EW, Baarn"
   },
@@ -17437,7 +17439,7 @@
     "Kenteken": "88-BPG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Bunschoten",
     "Adres": "Bikkersweg 2, 3752WV, Bunschoten"
   },
@@ -17471,7 +17473,7 @@
     "Kenteken": "12-BLF-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bunnik",
     "Adres": "Stationsweg 49, 3981AB, Bunnik"
   },
@@ -17497,7 +17499,7 @@
     "Kenteken": "61-BKX-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Werkhoven",
     "Adres": "Rode Haan 1, 3985PN, Werkhoven"
   },
@@ -17539,7 +17541,7 @@
     "Kenteken": "29-BLP-6",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bilthoven",
     "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
   },
@@ -17549,7 +17551,7 @@
     "Kenteken": "83-BLF-6",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Bilthoven",
     "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
   },
@@ -17567,7 +17569,7 @@
     "Kenteken": "67-BKK-7",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bilthoven",
     "Adres": "Leyenseweg 40, 3721BD, Bilthoven"
   },
@@ -17585,7 +17587,7 @@
     "Kenteken": "00-BNV-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "De Bilt",
     "Adres": "Henri Dunantplein 4c, 3731CL, De Bilt"
   },
@@ -17629,7 +17631,7 @@
     "Kenteken": "52-BKT-8",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Maartensdijk",
     "Adres": "Koningin Wilhelminaweg 9, 3738JZ, Maartensdijk"
   },
@@ -17644,8 +17646,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-1231",
+    "Kenteken": "58-BVR-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego 1527F",
     "Kazerne": "Abcoude",
     "Adres": "Brandweerplein 5, 1391CP, Abcoude"
   },
@@ -17655,7 +17659,7 @@
     "Kenteken": "71-BRD-9",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Mijdrecht",
     "Adres": "Industrieweg 2, 3641RM, Mijdrecht"
   },
@@ -17665,7 +17669,7 @@
     "Kenteken": "94-BKL-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Mijdrecht",
     "Adres": "Industrieweg 2, 3641RM, Mijdrecht"
   },
@@ -17699,7 +17703,7 @@
     "Kenteken": "30-BNZ-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vinkeveen",
     "Adres": "Herenweg 107, 3645DJ, Vinkeveen"
   },
@@ -17725,7 +17729,7 @@
     "Kenteken": "91-GLZ-8",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Wilnis",
     "Adres": "Pieter Joostenlaan 26, 3648XR, Wilnis"
   },
@@ -17735,7 +17739,7 @@
     "Kenteken": "28-BKH-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Wilnis",
     "Adres": "Pieter Joostenlaan 26, 3648XR, Wilnis"
   },
@@ -17793,7 +17797,7 @@
     "Kenteken": "40-BLD-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Houten-Oost",
     "Adres": "Binnenweg 22, 3994AN, Houten"
   },
@@ -17811,7 +17815,7 @@
     "Kenteken": "41-BLD-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Houten-West",
     "Adres": "De Brug 2, 3991LN, Houten"
   },
@@ -17847,7 +17851,7 @@
     "Kenteken": "62-BNZ-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Ijsselstein",
     "Adres": "Jan van der Heydenweg 244, 3401RJ, IJsselstein"
   },
@@ -17881,7 +17885,7 @@
     "Kenteken": "42-BLD-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Achterveld",
     "Adres": "Meester van Bergenweg 3, 3791AW, Achterveld"
   },
@@ -17891,7 +17895,7 @@
     "Kenteken": "94-BNV-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Leusden",
     "Adres": "Burgemeester van der Postlaan 1, 3833VT, Leusden"
   },
@@ -17943,7 +17947,7 @@
     "Kenteken": "56-BKT-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Benschop",
     "Adres": "Dorp 197A, 3405BD, Benschop"
   },
@@ -17980,7 +17984,7 @@
     "Kenteken": "05-BKX-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Lopik",
     "Adres": "M.A. Reinaldaweg 19, 3411MB, Lopik"
   },
@@ -18000,7 +18004,7 @@
     "Kenteken": "64-BJX-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Linschoten",
     "Adres": "Van Rietlaan 11, 3461EG, Linschoten"
   },
@@ -18028,7 +18032,7 @@
     "Kenteken": "21-BPH-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Montfoort",
     "Adres": "Anne Franklaan 16, 3417GE, Montfoort"
   },
@@ -18079,10 +18083,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-2731",
-    "Kenteken": "07-BKX-9",
+    "Kenteken": "02-BVR-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz Atego 1527F",
     "Kazerne": "Nieuwegein-Noord",
     "Adres": "Nevelgaarde 1, 3436ZZ, Nieuwegein"
   },
@@ -18108,7 +18112,7 @@
     "Kenteken": "04-BKX-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuwegein-Zuid",
     "Adres": "Henri Dunantlaan 1, 3434CH, Nieuwegein"
   },
@@ -18126,7 +18130,7 @@
     "Kenteken": "03-BNZ-7",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Oudewater",
     "Adres": "Biezenwal 3, 3421BE, Oudewater"
   },
@@ -18178,7 +18182,7 @@
     "Kenteken": "28-BLP-6",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Elst",
     "Adres": "Rijksstraatweg 104, 3921AL, Elst"
   },
@@ -18188,7 +18192,7 @@
     "Kenteken": "89-BLH-8",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Elst",
     "Adres": "Rijksstraatweg 104, 3921AL, Elst"
   },
@@ -18206,7 +18210,7 @@
     "Kenteken": "81-BNZ-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Rhenen-Achterberg",
     "Adres": "Achterbergsestraatweg 135, 3911CS, Rhenen"
   },
@@ -18296,7 +18300,7 @@
     "Kenteken": "BV-BB-82",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Soesterberg",
     "Adres": "Koppenlaan 9, 3769BK, Soesterberg"
   },
@@ -18314,7 +18318,7 @@
     "Kenteken": "57-BKT-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Breukelen",
     "Adres": "Brouwerij 5, 3621AD, Breukelen"
   },
@@ -18340,7 +18344,7 @@
     "Kenteken": "50-BKR-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Kockengen",
     "Adres": "Sportweg 1a, 3628AZ, Kockengen"
   },
@@ -18358,7 +18362,7 @@
     "Kenteken": "58-BKT-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Loenen aan de Vecht",
     "Adres": "Keizer Ottolaan 2, 3632BW, Loenen aan de Vecht"
   },
@@ -18368,7 +18372,7 @@
     "Kenteken": "73-BRD-9",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Maarssen",
     "Adres": "Binnenweg 2, 3604AC, Maarssen"
   },
@@ -18378,7 +18382,7 @@
     "Kenteken": "74-BKK-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Maarssen",
     "Adres": "Binnenweg 2, 3604AC, Maarssen"
   },
@@ -18388,7 +18392,7 @@
     "Kenteken": "BX-FT-20",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Maarssen",
     "Adres": "Binnenweg 2, 3604AC, Maarssen"
   },
@@ -18422,7 +18426,7 @@
     "Kenteken": "99-BKR-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuwer Ter Aa",
     "Adres": "Dorpsstraat 19, 3626AC, Nieuwer ter Aa"
   },
@@ -18440,7 +18444,7 @@
     "Kenteken": "95-BKK-8",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuwer Ter Aa",
     "Adres": "Dorpsstraat 19, 3626AC, Nieuwer ter Aa"
   },
@@ -18458,7 +18462,7 @@
     "Kenteken": "16-BPB-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "De Meern",
     "Adres": "Meerndijk 17a, 3454HM, De Meern"
   },
@@ -18484,7 +18488,7 @@
     "Kenteken": "14-BNT-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Utrecht-Leidsche Rijn",
     "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
@@ -18523,10 +18527,11 @@
   {
     "Regio": "09",
     "Roepnummer": "09-4531",
-    "Kenteken": "44-BNT-5",
+    "Kenteken": "38-BVN-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Toevoeging": "Basis",
+    "Merk (& Type)": "Mercedes-Benz Atego 1527F",
     "Kazerne": "Utrecht-Schepenbuurt",
     "Adres": "Vlampijpstraat 100, 3534AR, Utrecht"
   },
@@ -18557,10 +18562,11 @@
   {
     "Regio": "09",
     "Roepnummer": "09-4631",
-    "Kenteken": "64-BKX-2",
+    "Kenteken": "55-BVJ-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Toevoeging": "Basis",
+    "Merk (& Type)": "Mercedes-Benz Atgeo 1527F",
     "Kazerne": "Utrecht-Tolsteeg",
     "Adres": "Helling 20, 3523CC, Utrecht"
   },
@@ -18570,7 +18576,7 @@
     "Kenteken": "09-BPB-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vleuten",
     "Adres": "Gouden Koetslaan 97, 3451WE, Vleuten"
   },
@@ -18580,7 +18586,7 @@
     "Kenteken": "72-BLB-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Utrecht-Voordorp",
     "Adres": "Sartreweg 11, 3573PW, Utrecht"
   },
@@ -18598,7 +18604,7 @@
     "Kenteken": "BX-FP-16",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Utrecht-Voordorp",
     "Adres": "Sartreweg 11, 3573PW, Utrecht"
   },
@@ -18608,7 +18614,7 @@
     "Kenteken": "83-BPG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zuilen",
     "Adres": "Burg. Norbruislaan 45, 3555ED, Utrecht"
   },
@@ -18626,7 +18632,7 @@
     "Kenteken": "70-BLK-1",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Amerongen",
     "Adres": "Industrieweg Noord 16, 3958VT, Amerongen"
   },
@@ -18636,7 +18642,7 @@
     "Kenteken": "82-BJZ-1",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Amerongen",
     "Adres": "Industrieweg Noord 16, 3958VT, Amerongen"
   },
@@ -18654,7 +18660,7 @@
     "Kenteken": "BV-XS-38",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Driebergen",
     "Adres": "Bosstraat 3, 3971XA, Driebergen"
   },
@@ -18664,7 +18670,7 @@
     "Kenteken": "66-BJX-6",
     "Type": "TSC",
     "Omschrijving": "Tankautospuit-Compact",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Driebergen",
     "Adres": "Bosstraat 3, 3971XA, Driebergen"
   },
@@ -18674,7 +18680,7 @@
     "Kenteken": "55-BKT-8",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Driebergen",
     "Adres": "Bosstraat 3, 3971XA, Driebergen"
   },
@@ -18684,7 +18690,7 @@
     "Kenteken": "95-BLN-1",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Doorn",
     "Adres": "Kampweg 55, 3941HD, Doorn"
   },
@@ -18694,7 +18700,7 @@
     "Kenteken": "80-BLF-6",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Doorn",
     "Adres": "Kampweg 55, 3941HD, Doorn"
   },
@@ -18728,7 +18734,7 @@
     "Kenteken": "68-BLK-1",
     "Type": "TSC",
     "Omschrijving": "Tankautospuit-Compact",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Leersum",
     "Adres": "Schermlaan 37, 3956VK, Leersum"
   },
@@ -18738,7 +18744,7 @@
     "Kenteken": "83-BLH-8",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Leersum",
     "Adres": "Schermlaan 37, 3956VK, Leersum"
   },
@@ -18756,7 +18762,7 @@
     "Kenteken": "84-BLN-1",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Maarn-Maarsbergen",
     "Adres": "Tuindorpweg 8c, 3953BC, Maarn"
   },
@@ -18766,7 +18772,7 @@
     "Kenteken": "85-BLF-5",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Maarn-Maarsbergen",
     "Adres": "Tuindorpweg 8c, 3953BC, Maarn"
   },
@@ -18789,10 +18795,11 @@
   {
     "Regio": "09",
     "Roepnummer": "09-5531",
-    "Kenteken": "50-BKS-2",
+    "Kenteken": "66-BVK-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Toevoeging": "Basis",
+    "Merk (& Type)": "Mercedes-Benz Atego 1527F",
     "Kazerne": "Veenendaal",
     "Adres": "Industrielaan 18, 3903AC, Veenendaal"
   },
@@ -18802,7 +18809,7 @@
     "Kenteken": "BP-BV-99",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Veenendaal",
     "Adres": "Industrielaan 18, 3903AC, Veenendaal"
   },
@@ -18820,7 +18827,7 @@
     "Kenteken": "BP-TZ-10",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Veenendaal",
     "Adres": "Industrielaan 18, 3903AC, Veenendaal"
   },
@@ -18862,7 +18869,7 @@
     "Kenteken": "14-BLF-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hagestein",
     "Adres": "Dorpsstraat 28, 4124AM, Hagestein"
   },
@@ -18890,7 +18897,7 @@
     "Kenteken": "13-BLF-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vianen",
     "Adres": "Aimé Bonnastraat 22, 4132CD, Vianen"
   },
@@ -18908,7 +18915,7 @@
     "Kenteken": "34-BPH-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Cothen-Langbroek",
     "Adres": "Cotherweg 14, 3945PZ, Langbroek"
   },
@@ -18950,7 +18957,7 @@
     "Kenteken": "72-BRD-9",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Wijk bij Duurstede",
     "Adres": "Hordenweg 4, 3961KC, Wijk bij Duurstede"
   },
@@ -18968,7 +18975,7 @@
     "Kenteken": "BX-BJ-16",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Wijk bij Duurstede",
     "Adres": "Hordenweg 4, 3961KC, Wijk bij Duurstede"
   },
@@ -18978,7 +18985,7 @@
     "Kenteken": "79-BLF-6",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Wijk bij Duurstede",
     "Adres": "Hordenweg 4, 3961KC, Wijk bij Duurstede"
   },
@@ -19054,7 +19061,7 @@
     "Kenteken": "57-BKS-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Woerden",
     "Adres": "Boerendijk 34, 3442AH, Woerden"
   },
@@ -19088,7 +19095,7 @@
     "Kenteken": "46-BPH-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zegveld",
     "Adres": "Hoofdweg 101, 3474JB, Zegveld"
   },
@@ -19116,7 +19123,7 @@
     "Kenteken": "96-BLN-1",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Woudenberg",
     "Adres": "Europaweg 4, 3931NJ, Woudenberg"
   },
@@ -19126,7 +19133,7 @@
     "Kenteken": "85-BLF-6",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Woudenberg",
     "Adres": "Europaweg 4, 3931NJ, Woudenberg"
   },
@@ -19188,7 +19195,7 @@
     "Kenteken": "24-BNV-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Den Dolder",
     "Adres": "Dolderseweg 164, 3734BH, Den Dolder"
   },
@@ -19198,7 +19205,7 @@
     "Kenteken": "BX-FT-89",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zeist",
     "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
   },
@@ -19208,7 +19215,7 @@
     "Kenteken": "27-BLP-6",
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zeist",
     "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
   },
@@ -19218,7 +19225,7 @@
     "Kenteken": "81-BLF-6",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Unimog",
+    "Merk (& Type)": "Mercedes-Benz Unimog",
     "Kazerne": "Zeist",
     "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
   },
@@ -19270,7 +19277,7 @@
     "Kenteken": "44-BNT-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Leerdam",
     "Adres": "Koningin Emmalaan 30a, 4141EC, Leerdam"
   },
@@ -19288,7 +19295,7 @@
     "Kenteken": "4-VKT-50",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Lexmond",
     "Adres": "Driemolensweg 1, 4128LS, Lexmond"
   },
@@ -19306,7 +19313,7 @@
     "Kenteken": "55-BPJ-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Meerkerk",
     "Adres": "Burggraaf 2a, 4231ZJ, Meerkerk"
   },
@@ -19324,7 +19331,7 @@
     "Kenteken": "11-BNS-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Schoonrewoerd",
     "Adres": "Dorpsstraat 75, 4145KB, Schoonrewoerd"
   },
@@ -19381,7 +19388,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "t.b.v. M&L",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Amersfoort-Centrum",
     "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
   },
@@ -19391,7 +19398,7 @@
     "Kenteken": "26-BNX-3",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -19400,7 +19407,7 @@
     "Kenteken": "BL-XZ-54",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zeist",
     "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
   },
@@ -19411,7 +19418,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "t.b.v. M&L",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zeist",
     "Adres": "Dijnselburgerlaan 5, 3705LP, Zeist"
   },
@@ -19564,7 +19571,7 @@
     "Type": "TSC-6",
     "Omschrijving": "Tankautospuit-Compact 6 mans bezetting",
     "Toevoeging": "Logistiek",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -19588,7 +19595,7 @@
     "Kenteken": "49-BPF-9",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Utrecht-Leidsche Rijn",
     "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
@@ -19598,7 +19605,7 @@
     "Kenteken": "24-BPF-9",
     "Type": "GM",
     "Omschrijving": "Gereedschap/Materieelwagen",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Utrecht-Leidsche Rijn",
     "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
@@ -19670,7 +19677,7 @@
     "Kenteken": "BP-BX-11",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zuilen",
     "Adres": "Burg. Norbruislaan 45, 3555ED, Utrecht"
   },
@@ -19767,7 +19774,7 @@
     "Kenteken": "16-BKP-9",
     "Type": "GM-LO",
     "Omschrijving": "Gereedschap/Materieel - Logistiek",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -19776,7 +19783,7 @@
     "Kenteken": "72-BKN-5",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Utrecht-Leidsche Rijn",
     "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
@@ -19864,7 +19871,7 @@
     "Kenteken": "TK-219-P",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Hoofdkantoor VRU",
     "Adres": "Archimedeslaan 6, 3584BA, Utrecht"
   },
@@ -19927,7 +19934,7 @@
     "Kenteken": "TN-969-V",
     "Type": "DB-AGS",
     "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Hoofdkantoor VRU",
     "Adres": "Archimedeslaan 6, 3584BA, Utrecht"
   },
@@ -20003,37 +20010,37 @@
     "Kenteken": "46-BRS-2",
     "Type": "PM-QRT",
     "Omschrijving": "Personeel/Materiaalwagen - Quick Response Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Amersfoort-Centrum",
     "Adres": "Kleine Koppel 112, 3812PG, Amersfoort"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-9472",
-    "Kenteken": "L-125-DD",
-    "Type": "DA-QRT",
-    "Omschrijving": "Dienstauto - Quick Response Team",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Kenteken": "48-BRS-2",
+    "Type": "DB-QRT",
+    "Omschrijving": "Dienstbus - Quick Response Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuwegein-Noord",
     "Adres": "Nevelgaarde 1, 3436ZZ, Nieuwegein"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-9473",
-    "Kenteken": "L-124-DD",
+    "Kenteken": "10-BRR-9",
     "Type": "DA-QRT",
     "Omschrijving": "Dienstauto - Quick Response Team",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Leersum",
     "Adres": "Schermlaan 37, 3956VK, Leersum"
   },
   {
     "Regio": "09",
     "Roepnummer": "09-9474",
-    "Kenteken": "L-123-DD",
-    "Type": "DA-QRT",
-    "Omschrijving": "Dienstauto - Quick Response Team",
-    "Merk (& Type)": "Volkswagen Polo",
+    "Kenteken": "51-BRS-2",
+    "Type": "DB-QRT",
+    "Omschrijving": "Dienstbus - Quick Response Team",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Utrecht-Leidsche Rijn",
     "Adres": "Belcampostraat 10, 3544NG, Utrecht"
   },
@@ -20064,7 +20071,7 @@
     "Type": "DB",
     "Omschrijving": "Dienstbus",
     "Toevoeging": "Vakbekwaamheid",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -20073,7 +20080,7 @@
     "Kenteken": "BV-RJ-73",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -20082,7 +20089,7 @@
     "Kenteken": "BL-ST-24",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -20091,7 +20098,7 @@
     "Kenteken": "BV-RG-94",
     "Type": "TS-OTO",
     "Omschrijving": "Tankautospuit-Opleiden Trainen Oefenen",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -20168,7 +20175,7 @@
     "Kenteken": "84-BPL-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Alkmaar",
     "Adres": "Helderseweg 8, 1815AB, Alkmaar"
   },
@@ -20186,7 +20193,7 @@
     "Kenteken": "08-BPG-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Koedijk",
     "Adres": "Zonneweid 2, 1831BX, Koedijk"
   },
@@ -20243,7 +20250,7 @@
     "Kenteken": "05-BPG-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Groet",
     "Adres": "Gruttoweg 4a, 1873JC, Groet"
   },
@@ -20325,7 +20332,7 @@
     "Kenteken": "73-BRN-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Limmen",
     "Adres": "Rijksweg 51, 1906BD, Limmen"
   },
@@ -20392,7 +20399,7 @@
     "Kenteken": "ZP-662-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Julianadorp",
     "Adres": "Van Foreestweg 85a, 1787BG, Julianadorp"
   },
@@ -20475,7 +20482,7 @@
     "Kenteken": "VHX-92-N",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Westwoud",
     "Adres": "Dr. Nuijensstraat 122, 1617KE, Westwoud"
   },
@@ -20493,7 +20500,7 @@
     "Kenteken": "07-BLK-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Westwoud",
     "Adres": "Dr. Nuijensstraat 122, 1617KE, Westwoud"
   },
@@ -20553,7 +20560,7 @@
     "Kenteken": "BZ-RL-89",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "De Rijp",
     "Adres": "Driemaster 2, 1483WC, De Rijp"
   },
@@ -20589,7 +20596,7 @@
     "Kenteken": "69-BPG-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Heerhugowaard",
     "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
   },
@@ -21112,7 +21119,7 @@
     "Kenteken": "74-BHV-8",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Regionaal"
   },
   {
@@ -21137,7 +21144,7 @@
     "Kenteken": "12-BLK-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Schagen",
     "Adres": "Hofstraat 15, 1741CD, Schagen"
   },
@@ -21315,7 +21322,7 @@
     "Kenteken": "VP-728-H",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heerhugowaard",
     "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
   },
@@ -21325,7 +21332,7 @@
     "Kenteken": "20-VNH-1",
     "Type": "SI-2 RES",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting Reserve",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heerhugowaard",
     "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
   },
@@ -21396,7 +21403,7 @@
     "Kenteken": "BX-VD-07",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heerhugowaard",
     "Adres": "Zuidtangent 3, 1702VR, Heerhugowaard"
   },
@@ -21791,7 +21798,7 @@
     "Kenteken": "V-655-JS",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Regionaal"
   },
   {
@@ -21940,7 +21947,7 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "& OPL",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -22112,7 +22119,7 @@
     "Kenteken": "KM-19-00",
     "Type": "VC-3",
     "Omschrijving": "Verbindings-/Commandowagen -  Type 3",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuwe Haven",
     "Adres": "Rijkszee- en Marinehaven 1, 1781ZZ, Den Helder"
   },
@@ -22311,7 +22318,7 @@
     "Roepnummer": "11-0303",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
   },
@@ -22549,7 +22556,7 @@
     "Kenteken": "BN-VN-78",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
   },
@@ -22559,7 +22566,7 @@
     "Kenteken": "29-BKP-8",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
   },
@@ -22838,7 +22845,7 @@
     "Kenteken": "H-085-KL",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Purmerend",
     "Adres": "Gorslaan 50, 1441RG, Purmerend"
   },
@@ -22896,7 +22903,7 @@
     "Kenteken": "00-TKZ-9",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Marken",
     "Adres": "Buurterstraat 37, 1156AP, Marken"
   },
@@ -22930,7 +22937,7 @@
     "Kenteken": "03-BBB-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Wormer",
     "Adres": "Koetserstraat 2, 1531NX, Wormer"
   },
@@ -22956,7 +22963,7 @@
     "Kenteken": "VHX-91-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Wormer",
     "Adres": "Koetserstraat 2, 1531NX, Wormer"
   },
@@ -22981,7 +22988,7 @@
     "Kenteken": "VFS-16-F",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Zaandam Prins Bernhardplein",
     "Adres": "Prins Bernhardplein 112, 1508XB, Zaandam"
   },
@@ -23048,7 +23055,7 @@
     "Kenteken": "BX-TZ-36",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zaandam Vermiljoenweg",
     "Adres": "Jan Bonekampstraat 2, 1501XX, Zaandam"
   },
@@ -23066,7 +23073,7 @@
     "Kenteken": "BX-VG-73",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zaandam Botenmakersstraat",
     "Adres": "Botenmakersstraat 23, 1506TA, Zaandam"
   },
@@ -23084,7 +23091,7 @@
     "Kenteken": "40-BBD-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zaandijk",
     "Adres": "Guisweg 61, 1544AH, Zaandijk"
   },
@@ -23125,7 +23132,7 @@
     "Kenteken": "27-BLR-5",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Wormerveer",
     "Adres": "Industrieweg 1c, 1521NA, Wormerveer"
   },
@@ -23135,7 +23142,7 @@
     "Kenteken": "28-BLR-5",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zaandam Botenmakersstraat",
     "Adres": "Botenmakersstraat 23, 1506TA, Zaandam"
   },
@@ -23187,7 +23194,7 @@
     "Kenteken": "RD-612-D",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zaandijk",
     "Adres": "Guisweg 61, 1544AH, Zaandijk"
   },
@@ -23205,7 +23212,7 @@
     "Kenteken": "9-ZRV-14",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Krommenie",
     "Adres": "Kervelstraat 186, 1562AJ, Krommenie"
   },
@@ -23252,7 +23259,7 @@
     "Kenteken": "19-BNS-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Kwadijk",
     "Adres": "Stationsweg 9, 1471CL, Kwadijk"
   },
@@ -23509,7 +23516,7 @@
     "Kenteken": "BR-RP-92",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23518,7 +23525,7 @@
     "Kenteken": "03-BLN-3",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23527,7 +23534,7 @@
     "Kenteken": "14-BNS-4",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23536,7 +23543,7 @@
     "Kenteken": "33-BLP-2",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23545,7 +23552,7 @@
     "Kenteken": "31-BLP-6",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23554,7 +23561,7 @@
     "Kenteken": "35-BLR-2",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23563,7 +23570,7 @@
     "Kenteken": "80-BLL-4",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -23572,7 +23579,16 @@
     "Kenteken": "98-BNP-2",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "12",
+    "Roepnummer": "12-1539",
+    "Kenteken": "63-BVL-9",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -23739,7 +23755,7 @@
     "Kenteken": "41-BNP-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Heemskerk",
     "Adres": "Cornelis Groenlandstraat 48, 1962TG, Heemskerk"
   },
@@ -23765,7 +23781,7 @@
     "Kenteken": "BV-FS-20",
     "Type": "SL",
     "Omschrijving": "Slangenwagen",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Heemskerk",
     "Adres": "Cornelis Groenlandstraat 48, 1962TG, Heemskerk"
   },
@@ -23837,7 +23853,7 @@
     "Kenteken": "67-BLH-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Velsen",
     "Adres": "`s-Gravenlust 35, 1981AE, Velsen-Zuid"
   },
@@ -23921,7 +23937,7 @@
     "Kenteken": "11-BLJ-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Haarlem-West",
     "Adres": "Zijlweg 200, 2015CK, Haarlem"
   },
@@ -23981,7 +23997,7 @@
     "Kenteken": "93-BLH-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Haarlem-Oost",
     "Adres": "Floris van Adrichemlaan 90, 2035VD, Haarlem"
   },
@@ -24069,7 +24085,7 @@
     "Kenteken": "BX-XR-30",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Zandvoort-Noord",
     "Adres": "Linnaeusstraat 2, 2041BR, Zandvoort"
   },
@@ -24189,8 +24205,10 @@
   {
     "Regio": "12",
     "Roepnummer": "12-4130",
+    "Kenteken": "29-BVG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Badhoevedorp",
     "Adres": "Zeemanlaan 50, 1171BD, Badhoevedorp"
   },
@@ -24218,7 +24236,7 @@
     "Kenteken": "72-BKX-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hoofddorp",
     "Adres": "Adrianahoeve 2, 2131MN, Hoofddorp"
   },
@@ -24288,7 +24306,7 @@
     "Kenteken": "41-BLK-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nieuw-Vennep",
     "Adres": "Luzernestraat 5, 2153GM, Nieuw-Vennep"
   },
@@ -24614,7 +24632,7 @@
     "Kenteken": "38-BND-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Ijsbrand",
     "Adres": "Displaystraat 1, 1033RZ, Amsterdam"
   },
@@ -24662,7 +24680,7 @@
     "Kenteken": "34-BPX-5",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Teunis",
     "Adres": "Vredenhofweg 3, 1051LM, Amsterdam"
   },
@@ -24730,7 +24748,7 @@
     "Kenteken": "22-BDH-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nico",
     "Adres": "IJ-Tunnel 4, 1011TA, Amsterdam"
   },
@@ -24740,7 +24758,7 @@
     "Kenteken": "BZ-SN-60",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nico",
     "Adres": "IJ-Tunnel 4, 1011TA, Amsterdam"
   },
@@ -24766,7 +24784,7 @@
     "Kenteken": "41-BND-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Hendrik",
     "Adres": "Marnixstraat 170, 1016TG, Amsterdam"
   },
@@ -24923,7 +24941,7 @@
     "Kenteken": "BZ-PV-32",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Driemond",
     "Adres": "Lentestraat 30, 1109AT, Driemond"
   },
@@ -25014,7 +25032,7 @@
     "Kenteken": "BR-DF-85",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Amstelveen",
     "Adres": "Oranjebaan 1, 1183NN, Amstelveen"
   },
@@ -25237,7 +25255,7 @@
     "Kenteken": "03-BBF-7",
     "Type": "MCU",
     "Omschrijving": "Mobiele Commando Unit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Diemen",
     "Adres": "D.J. Den Hartoglaan 2, 1111ZC, Diemen"
   },
@@ -25349,7 +25367,7 @@
     "Kenteken": "21-BDH-7",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25359,7 +25377,7 @@
     "Kenteken": "85-BDK-6",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25369,7 +25387,7 @@
     "Kenteken": "06-BDJ-3",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25379,7 +25397,7 @@
     "Kenteken": "BP-HP-45",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25390,7 +25408,7 @@
     "Type": "AL",
     "Omschrijving": "Autoladder",
     "Toevoeging": "24",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25408,7 +25426,7 @@
     "Kenteken": "V-744-NG",
     "Type": "PM-TD",
     "Omschrijving": "Personeel/Materieelvoertuig - Technische Dienst",
-    "Merk (& Type)": "Mercedes Benz Sprinter Multicab",
+    "Merk (& Type)": "Mercedes-Benz Sprinter Multicab",
     "Kazerne": "Pier Afrika Logistiek / Wagen Park",
     "Adres": "Pier Afrika 8, 1013BK, Amsterdam"
   },
@@ -25635,7 +25653,7 @@
     "Kenteken": "55-BPL-1",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Bocas"
   },
   {
@@ -25698,7 +25716,7 @@
     "Kenteken": "BX-GT-91",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Blaricum",
     "Adres": "Singel 15a, 1261XP, Blaricum"
   },
@@ -26054,7 +26072,7 @@
     "Kenteken": "BL-ZZ-99",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Laren",
     "Adres": "Groene Gerritsweg 2, 1251JL, Laren"
   },
@@ -26185,7 +26203,7 @@
     "Kenteken": "PG-393-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Oefencentrum Crailo"
   },
   {
@@ -26263,7 +26281,7 @@
     "Kenteken": "01-XR-LL",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -26526,7 +26544,7 @@
     "Kenteken": "VG-117-R",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Sprinter ",
+    "Merk (& Type)": "Mercedes-Benz Sprinter ",
     "Kazerne": "Hilversum",
     "Adres": "Kamerlingh Onnesweg 148, 1223JN, Hilversum"
   },
@@ -26897,7 +26915,7 @@
     "Kenteken": "99-BBL-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Rijswijk",
     "Adres": "Burgemeester Elsenlaan 315, 2282NH, Rijswijk"
   },
@@ -27115,7 +27133,7 @@
     "Kenteken": "47-BLN-1",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Monster",
     "Adres": "Bach 1, 2681KH, Monster"
   },
@@ -27195,7 +27213,7 @@
     "Kenteken": "48-BLP-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "De Lier",
     "Adres": "Burgemeester Crezéelaan 32, 2678KX, De Lier"
   },
@@ -27379,7 +27397,7 @@
     "Type": "PM-QRT",
     "Omschrijving": "Personeel/Materiaalwagen - Quick Response Team",
     "Toevoeging": "+ GS-SI",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Den Haag-Laak",
     "Adres": "Waldorpstraat 555, 2521CK, Den Haag"
   },
@@ -27389,7 +27407,7 @@
     "Kenteken": "23-BLK-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Den Haag-Laak",
     "Adres": "Waldorpstraat 555, 2521CK, Den Haag"
   },
@@ -27457,7 +27475,7 @@
     "Kenteken": "50-BLP-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Den Haag-Centrum",
     "Adres": "Zamenhofstraat 10, 2518PB, Den Haag"
   },
@@ -27582,7 +27600,7 @@
     "Kenteken": "VGK-34-G",
     "Type": "DV-TD",
     "Omschrijving": "Dienstvoertuig (Medewerker)  Technische  dienst",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Regionaal"
   },
   {
@@ -27667,7 +27685,7 @@
     "Type": "WO-RES",
     "Omschrijving": "Waterongevallenvoertuig - Reserve",
     "Toevoeging": "Delft",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -27711,7 +27729,7 @@
     "Kenteken": "98-BLL-2",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -28221,7 +28239,7 @@
     "Kenteken": "BN-RB-18",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Gouda",
     "Adres": "Keerkring 12, 2801DG, Gouda"
   },
@@ -28669,7 +28687,7 @@
     "Kenteken": "90-BLP-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Gouda",
     "Adres": "Keerkring 12, 2801DG, Gouda"
   },
@@ -29234,7 +29252,7 @@
     "Kenteken": "BT-TX-99",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bodegraven",
     "Adres": "Portugalweg 6, 2411PR, Bodegraven"
   },
@@ -29244,7 +29262,7 @@
     "Kenteken": "BT-RL-94",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Schoonhoven",
     "Adres": "Het Bastion 7, 2871EV, Schoonhoven"
   },
@@ -29802,7 +29820,7 @@
     "Kenteken": "BX-GX-82",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "PAP / Metaalhof"
   },
   {
@@ -30151,6 +30169,15 @@
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
     "Toevoeging": "Tank Put brandbestrijding",
+    "Kazerne": "Moezelweg",
+    "Adres": "Moezelweg 150, 3198LS, Rotterdam"
+  },
+  {
+    "Regio": "17",
+    "Roepnummer": "17-1663",
+    "Type": "SBH",
+    "Omschrijving": "Schuimblushaakarmbak",
+    "Toevoeging": "10.000 liter",
     "Kazerne": "Moezelweg",
     "Adres": "Moezelweg 150, 3198LS, Rotterdam"
   },
@@ -30604,7 +30631,7 @@
     "Kenteken": "BX-GN-07",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Don Berghuijs",
     "Adres": "Butaanweg 251, 3196KC, Rotterdam"
   },
@@ -30986,7 +31013,7 @@
     "Kenteken": "BX-VR-12",
     "Type": "QRT",
     "Omschrijving": "Quick Response Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Groene Tuin",
     "Adres": "Groene Tuin 321, 3078KG, Rotterdam"
   },
@@ -32388,7 +32415,7 @@
     "Kenteken": "H-280-PZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuw-Beijerland",
     "Adres": "Handelstraat 13, 3264XZ, Nieuw-Beijerland"
   },
@@ -32398,7 +32425,7 @@
     "Kenteken": "5-ZLZ-28",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuw-Beijerland",
     "Adres": "Handelstraat 13, 3264XZ, Nieuw-Beijerland"
   },
@@ -32446,7 +32473,7 @@
     "Kenteken": "ZD-886-S",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Oud Beijerland",
     "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
   },
@@ -32515,7 +32542,7 @@
     "Kenteken": "ZK-171-B",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Oud Beijerland",
     "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
   },
@@ -32561,7 +32588,7 @@
     "Kenteken": "BJ-XR-76",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Oud Beijerland",
     "Adres": "Aston Martinlaan 20, 3261NB, Oud Beijerland"
   },
@@ -32785,7 +32812,7 @@
     "Kenteken": "ZH-102-G",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heerjansdam",
     "Adres": "Nijverheidsstraat 2a, 2995AP, Heerjansdam"
   },
@@ -32796,7 +32823,7 @@
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
     "Toevoeging": "25KV",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Heerjansdam",
     "Adres": "Nijverheidsstraat 2a, 2995AP, Heerjansdam"
   },
@@ -32816,7 +32843,7 @@
     "Kenteken": "ZD-887-S",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter Tourer",
+    "Merk (& Type)": "Mercedes-Benz Sprinter Tourer",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
   },
@@ -32836,7 +32863,7 @@
     "Kenteken": "40-BR-PH",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
   },
@@ -32876,7 +32903,7 @@
     "Kenteken": "PG-395-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
   },
@@ -32941,7 +32968,7 @@
     "Kenteken": "48-BNG-4",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Zwijndrecht",
     "Adres": "Develsingel 17, 3333LD, Zwijndrecht"
   },
@@ -33023,7 +33050,7 @@
     "Kenteken": "BD-HR-16",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Hendrik-Ido-Ambacht",
     "Adres": "Krommeweg 1, 3343LB, Hendrik-Ido-Ambacht"
   },
@@ -33043,7 +33070,7 @@
     "Kenteken": "ZB-834-Z",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Dordrecht-Noordendijk",
     "Adres": "Noordendijk 252, 3311DN, Dordrecht"
   },
@@ -33053,7 +33080,7 @@
     "Kenteken": "J-406-SK",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Dordrecht-Noordendijk",
     "Adres": "Noordendijk 252, 3311DN, Dordrecht"
   },
@@ -33336,7 +33363,7 @@
     "Kenteken": "PG-396-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Coördinatie"
   },
   {
@@ -33353,7 +33380,7 @@
     "Kenteken": "H-273-PZ",
     "Type": "DB-VEB",
     "Omschrijving": "Dienstbus - Verkenningseenheid Brandweer",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nieuw-Lekkerland",
     "Adres": "Planetenlaan 78, 2957SN, Nieuw-Lekkerland"
   },
@@ -33405,7 +33432,7 @@
     "Kenteken": "ZK-170-B",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Papendrecht",
     "Adres": "Willem Dreeslaan 2, 3354AW Papendrecht"
   },
@@ -33597,7 +33624,7 @@
     "Kenteken": "RR-923-P",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Brandwijk",
     "Adres": "Kerkweg 8, 2974LH, Brandwijk"
   },
@@ -33855,7 +33882,7 @@
     "Kenteken": "ZK-169-B",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Gorinchem",
     "Adres": "Arkelsedijk 22, 4206AC, Gorinchem"
   },
@@ -33873,7 +33900,7 @@
     "Kenteken": "53-JLF-5",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vario",
+    "Merk (& Type)": "Mercedes-Benz Vario",
     "Kazerne": "Gorinchem",
     "Adres": "Arkelsedijk 22, 4206AC, Gorinchem"
   },
@@ -34088,7 +34115,7 @@
     "Kenteken": "PG-397-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Regionaal"
   },
   {
@@ -34097,7 +34124,7 @@
     "Kenteken": "93--JRJ-7",
     "Type": "DB-AGS",
     "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34160,7 +34187,7 @@
     "Kenteken": "ZK-168-B",
     "Type": "DV-PCL",
     "Omschrijving": "Dienstvoertuig  Pelotonscommandant Logistiek",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34262,7 +34289,7 @@
     "Kenteken": "PG-398-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34294,7 +34321,7 @@
     "Kenteken": "RR-921-P",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34334,7 +34361,7 @@
     "Kenteken": "60-BT-JZ",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34433,31 +34460,37 @@
   {
     "Regio": "18",
     "Roepnummer": "18-9891",
+    "Kenteken": "L-074-FL",
     "Type": "DA-OVDBZ",
     "Omschrijving": "Dienstauto - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Coördinatie"
   },
   {
     "Regio": "18",
     "Roepnummer": "18-9892",
-    "Kenteken": "85-TZ-FG",
+    "Kenteken": "L-073-FL",
     "Type": "DB-OVDBZ",
     "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
-    "Merk (& Type)": "Volkswagen Transporter",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Coördinatie"
+  },
+  {
+    "Regio": "18",
+    "Roepnummer": "18-9893",
+    "Kenteken": "L-072-FL",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Coördinatie"
   },
   {
     "Regio": "18",
     "Roepnummer": "18-9894",
-    "Type": "DA-OVDBZ",
-    "Omschrijving": "Dienstauto - Officier van Dienst-Bevolkings Zorg",
-    "Kazerne": "Coördinatie"
-  },
-  {
-    "Regio": "18",
-    "Roepnummer": "18-9894",
-    "Type": "DA-OVDBZ",
-    "Omschrijving": "Dienstauto - Officier van Dienst-Bevolkings Zorg",
+    "Kenteken": "L-075-FL",
+    "Type": "DB-OVDBZ",
+    "Omschrijving": "Dienstbus - Officier van Dienst-Bevolkings Zorg",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Coördinatie"
   },
   {
@@ -34754,7 +34787,7 @@
     "Kenteken": "BZ-RD-88",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Krabbendijke",
     "Adres": "Westweg 42, 4413EG, Krabbendijke"
   },
@@ -34876,7 +34909,7 @@
     "Kenteken": "BX-VH-81",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vlissingen-Souburg",
     "Adres": "Marie Curieweg 3b, 4389WB, Vlissingen"
   },
@@ -34943,7 +34976,7 @@
     "Kenteken": "ZP-657-B",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Arnemuiden",
     "Adres": "Arnestraat 18, 4341CL, Arnemuiden"
   },
@@ -35258,7 +35291,7 @@
     "Kenteken": "BN-ZD-76",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Borssele",
     "Adres": "Quistenburg 3, 4454PZ, Borssele"
   },
@@ -35434,7 +35467,7 @@
     "Kenteken": "BZ-PR-44",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Goes-Oranjeweg",
     "Adres": "Oranjeweg 100, 4461LR, Goes"
   },
@@ -35491,7 +35524,7 @@
     "Kenteken": "BN-VD-40",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Oostburg",
     "Adres": "Ondernemersweg 100, 4501WD, Oostburg"
   },
@@ -35614,7 +35647,7 @@
     "Kenteken": "ZR-642-X",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Axel",
     "Adres": "Nieuwendijk 19, 4571LG, Axel"
   },
@@ -36141,7 +36174,7 @@
     "Kenteken": "79-BRN-5",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego 4x2",
+    "Merk (& Type)": "Mercedes-Benz Atego 4x2",
     "Kazerne": "Yara Sluiskil"
   },
   {
@@ -36150,7 +36183,7 @@
     "Kenteken": "BX-FP-11",
     "Type": "SB",
     "Omschrijving": "Schuimblusvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Terneuzen Oil Tanking"
   },
   {
@@ -36545,7 +36578,7 @@
     "Kenteken": "BN-XL-51",
     "Type": "HA-G",
     "Omschrijving": "Haakarmvoertuig (terreinvaardig) - Groot",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Axel",
     "Adres": "Nieuwendijk 19, 4571LG, Axel"
   },
@@ -36732,7 +36765,7 @@
     "Kenteken": "BJ-SG-84",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Tilburg-Centrum",
     "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
   },
@@ -36780,7 +36813,7 @@
     "Kenteken": "VBL-34-K",
     "Type": "DB-LO",
     "Omschrijving": "Dienstbus - Logistiek",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Tilburg-Centrum",
     "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
   },
@@ -36807,7 +36840,7 @@
     "Kenteken": "TK-218-P",
     "Type": "DB-AGS",
     "Omschrijving": "Dienstbus - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Bergen op Zoom",
     "Adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
   },
@@ -37358,7 +37391,7 @@
     "Kenteken": "ZB-431-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Moerdijk",
     "Adres": "Wilhelminaplein 11c, 4782AB, Moerdijk"
   },
@@ -37781,7 +37814,7 @@
     "Kenteken": "TX-213-P",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Bergen op Zoom",
     "Adres": "Havenplein 1, 4612RZ, Bergen op Zoom"
   },
@@ -39632,7 +39665,7 @@
     "Kenteken": "ZB-428-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Tilburg-Centrum",
     "Adres": "Fabriekstraat 34, 5038EN, Tilburg"
   },
@@ -39776,7 +39809,7 @@
     "Kenteken": "92-BLH-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Haaren",
     "Adres": "Helvoirtseweg 6b, 5076PK, Haaren"
   },
@@ -39825,7 +39858,7 @@
     "Kenteken": "SK-500-L",
     "Type": "DA-AGS",
     "Omschrijving": "Dienstauto - Adviseur Gevaarlijke Stoffen",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Leiding & Coördinatie"
   },
   {
@@ -40327,7 +40360,7 @@
     "Kenteken": "J-403-SK",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Grave",
     "Adres": "Stoofweg 5, 5361HZ, Grave"
   },
@@ -40337,7 +40370,7 @@
     "Kenteken": "95-BLH-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Haps",
     "Adres": "Oeffeltseweg 9, 5443PJ, Haps"
   },
@@ -40627,7 +40660,7 @@
     "Kenteken": "45-BJB-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Oss",
     "Adres": "Wethouder Van Eschstraat 260, 5342AV, Oss"
   },
@@ -40757,7 +40790,7 @@
     "Kenteken": "BS-LN-39",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Uden",
     "Adres": "Leeuweriksweg 4, 5402XD, Uden"
   },
@@ -40767,7 +40800,7 @@
     "Kenteken": "BV-DR-73",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Uden",
     "Adres": "Leeuweriksweg 4, 5402XD, Uden"
   },
@@ -40801,7 +40834,7 @@
     "Kenteken": "72-BNG-8",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Veghel",
     "Adres": "Stadhuisplein 2, 5461KS, Veghel"
   },
@@ -40843,7 +40876,7 @@
     "Kenteken": "8-VFT-59",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vierlingsbeek",
     "Adres": "Molenweg 8c, 5821EA, Vierlingsbeek"
   },
@@ -40877,7 +40910,7 @@
     "Kenteken": "87-BKR-2",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vught",
     "Adres": "Kettingweg 7a, 5261LG, Vught"
   },
@@ -41129,7 +41162,7 @@
     "Kenteken": "53-KGR-7",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Bladel",
     "Adres": "Isegrim 5, 5531KM, Bladel"
   },
@@ -41339,7 +41372,7 @@
     "Kenteken": "BX-VV-27",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Eindhoven-Centrum",
     "Adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
   },
@@ -41670,7 +41703,7 @@
     "Kenteken": "BX-BD-47",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Helmond",
     "Adres": "Deurneseweg 135, 5701CE, Helmond"
   },
@@ -41877,7 +41910,7 @@
     "Kenteken": "2-ZSJ-21",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "De Beerzen",
     "Adres": "Willibrordstraat 14, 5091CD, De Beerzen"
   },
@@ -41987,7 +42020,7 @@
     "Kenteken": "BZ-GD-29",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Son en Breugel",
     "Adres": "Rooijseweg 1, 5691PA, Son"
   },
@@ -42085,7 +42118,7 @@
     "Kenteken": "90-HTN-5",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Veldhoven De Run",
     "Adres": "De Run 5610, 5504DJ, Veldhoven"
   },
@@ -42145,7 +42178,7 @@
     "Kenteken": "BX-ZB-45",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Waalre",
     "Adres": "Monseigneur Bannenberglaan 36, 5581AH, Waalre"
   },
@@ -42184,7 +42217,7 @@
     "Kenteken": "VH-59-DB",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nystar"
   },
   {
@@ -42193,7 +42226,7 @@
     "Kenteken": "09-BK-KG",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "TU Eindhoven",
     "Adres": "Den Dolech 2, 5612AZ, Eindhoven"
   },
@@ -42243,7 +42276,7 @@
     "Kenteken": "XD-084-F",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Vessem",
     "Adres": "Wilhelminalaan 44, 5512BK, Vessem"
   },
@@ -42421,7 +42454,7 @@
     "Kenteken": "BZ-BH-64",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Geldrop",
     "Adres": "Laan der Vier Heemskinderen 17, 5664TH, Geldrop"
   },
@@ -42431,7 +42464,7 @@
     "Kenteken": "BX-BL-96",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
@@ -42441,7 +42474,7 @@
     "Kenteken": "BZ-BJ-93",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -42457,8 +42490,10 @@
   {
     "Regio": "22",
     "Roepnummer": "22-5045",
+    "Kenteken": "BZ-DH-48",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Helmond",
     "Adres": "Deurneseweg 135, 5701CE, Helmond"
   },
@@ -42468,7 +42503,7 @@
     "Kenteken": "BZ-FS-02",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
@@ -42478,7 +42513,7 @@
     "Kenteken": "34-BBJ-9",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "ROC Waalre",
     "Adres": "Engelse Tuin 1, 5583CT, Waalre"
   },
@@ -42488,7 +42523,7 @@
     "Kenteken": "BZ-DZ-01",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -42584,7 +42619,7 @@
     "Kenteken": "14-BNN-4",
     "Type": "PM-HRT",
     "Omschrijving": "Personeel/Materieelvoertuig - Hoogte Reddings Team",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Eindhoven-Centrum",
     "Adres": "Deken van Somerenstraat 2, 5611KX, Eindhoven"
   },
@@ -43242,7 +43277,7 @@
     "Kenteken": "16-BGS-5",
     "Type": "VC-2",
     "Omschrijving": "Verbindings-/Commandowagen  - Type 2",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Asten",
     "Adres": "Floralaan 20, 5721CV, Asten"
   },
@@ -43252,7 +43287,7 @@
     "Kenteken": "10-BHD-6",
     "Type": "VC-2",
     "Omschrijving": "Verbindings-/Commandowagen  - Type 2",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Son en Breugel",
     "Adres": "Rooijseweg 1, 5691PA, Son"
   },
@@ -43428,7 +43463,7 @@
     "Kenteken": "97-BLH-9",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Bergen",
     "Adres": "De Flammert 1026, 5854NA, Bergen"
   },
@@ -43506,7 +43541,7 @@
     "Kenteken": "BX-ZZ-93",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43516,7 +43551,7 @@
     "Kenteken": "61-BJX-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43526,7 +43561,7 @@
     "Kenteken": "72-BFL-2",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43552,7 +43587,7 @@
     "Kenteken": "VG-631-N",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43572,7 +43607,7 @@
     "Kenteken": "13-BHZ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43602,7 +43637,7 @@
     "Kenteken": "V-209-TB",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43612,7 +43647,7 @@
     "Kenteken": "V-206-TB",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Citan",
+    "Merk (& Type)": "Mercedes-Benz Citan",
     "Kazerne": "Venray",
     "Adres": "Acaciastraat 15, 5802EK, Venray"
   },
@@ -43658,7 +43693,7 @@
     "Kenteken": "BV-HH-37",
     "Type": "TS-8",
     "Omschrijving": "Tankautospuit 8 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Meerlo",
     "Adres": "Dorpbroekstraat 9a, 5864CP, Meerlo"
   },
@@ -43677,7 +43712,7 @@
     "Kenteken": "40-BBG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Lottum",
     "Adres": "Zandterweg 10, 5973RC, Lottum"
   },
@@ -43707,7 +43742,7 @@
     "Kenteken": "99-BLH-9",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Horst",
     "Adres": "Westsingel 201, 5961DD, Horst"
   },
@@ -43725,7 +43760,7 @@
     "Kenteken": "VH-802-J",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Horst",
     "Adres": "Westsingel 201, 5961DD, Horst"
   },
@@ -43745,7 +43780,7 @@
     "Kenteken": "06-BJV-7",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz Antos",
+    "Merk (& Type)": "Mercedes-Benz Antos",
     "Kazerne": "Horst",
     "Adres": "Westsingel 201, 5961DD, Horst"
   },
@@ -43840,7 +43875,7 @@
     "Kenteken": "BS-SG-25",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Panningen",
     "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
   },
@@ -43866,7 +43901,7 @@
     "Kenteken": "VG-611-N",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Panningen",
     "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
   },
@@ -43900,7 +43935,7 @@
     "Kenteken": "58-BJZ-5",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Panningen",
     "Adres": "John F. Kennedylaan 212, 5981WX, Panningen"
   },
@@ -43910,7 +43945,7 @@
     "Kenteken": "J-977-VX",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Kessel",
     "Adres": "Schijfweg-Zuid 8, 5995BG, Kessel"
   },
@@ -43940,7 +43975,7 @@
     "Kenteken": "93-BHG-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Baarlo",
     "Adres": "Zuivelstraat 1, 5991AN, Baarlo"
   },
@@ -44080,7 +44115,7 @@
     "Kenteken": "BX-XR-37",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44124,7 +44159,7 @@
     "Kenteken": "VG-622-N",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44134,7 +44169,7 @@
     "Kenteken": "74-BDH-5",
     "Type": "HV",
     "Omschrijving": "Hulpverleningsvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44144,7 +44179,7 @@
     "Kenteken": "10-BHZ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44154,7 +44189,7 @@
     "Kenteken": "75-BKJ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44164,7 +44199,7 @@
     "Kenteken": "VDF-85-V",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Vito",
+    "Merk (& Type)": "Mercedes-Benz Vito",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -44238,7 +44273,7 @@
     "Kenteken": "J-397-SK",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Nederweert",
     "Adres": "Smisserstraat 64, 6031AD, Nederweert"
   },
@@ -44264,7 +44299,7 @@
     "Kenteken": "20-BNK-3",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Nederweert",
     "Adres": "Smisserstraat 64, 6031AD, Nederweert"
   },
@@ -44290,7 +44325,7 @@
     "Kenteken": "J-402-SK",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Roggel",
     "Adres": "Heverstraat 9, 6088BG, Roggel"
   },
@@ -44397,7 +44432,7 @@
     "Kenteken": "BT-LZ-39",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Weert",
     "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
   },
@@ -44471,7 +44506,7 @@
     "Kenteken": "VF-371-T",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Weert",
     "Adres": "De Savornin Lohmanstraat 8, 6004AM, Weert"
   },
@@ -44573,7 +44608,7 @@
     "Kenteken": "BX-NB-03",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Ittervoort",
     "Adres": "Aziëstraat 11, 6014DA, Ittervoort"
   },
@@ -44583,7 +44618,7 @@
     "Kenteken": "45-BPR-3",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "Ittervoort",
     "Adres": "Aziëstraat 11, 6014DA, Ittervoort"
   },
@@ -44593,7 +44628,7 @@
     "Kenteken": "VGL-75-Z",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Ittervoort",
     "Adres": "Aziëstraat 11, 6014DA, Ittervoort"
   },
@@ -44765,7 +44800,7 @@
     "Kenteken": "BX-NB-22",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
@@ -44775,7 +44810,7 @@
     "Kenteken": "BV-ZT-83",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
@@ -44829,7 +44864,7 @@
     "Kenteken": "VG-632-N",
     "Type": "SI-2",
     "Omschrijving": "Snel Interventie Voertuig 2 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
@@ -44865,7 +44900,7 @@
     "Kenteken": "12-BHZ-9",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Roermond",
     "Adres": "Minderbroederssingel 36, 6041KK, Roermond"
   },
@@ -44911,7 +44946,7 @@
     "Kenteken": "22-BNK-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Montfort",
     "Adres": "Velvin 11, 6065BJ, Montfort"
   },
@@ -44945,7 +44980,7 @@
     "Kenteken": "01-BLJ-1",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Echt",
     "Adres": "Bandertlaan 28, 9101LZ, Echt"
   },
@@ -45008,10 +45043,10 @@
   {
     "Regio": "23",
     "Roepnummer": "23-5481",
-    "Kenteken": "Mercedes Benz Actros",
+    "Kenteken": "Mercedes-Benz Actros",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz Actros",
+    "Merk (& Type)": "Mercedes-Benz Actros",
     "Kazerne": "Susteren",
     "Adres": "Reinoud van Gelderstraat 38, 6114EC, Susteren"
   },
@@ -45049,7 +45084,7 @@
     "Kenteken": "BV-ZV-85",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Wessem",
     "Adres": "Haegstraat 30, 6019BP, Wessem"
   },
@@ -45140,7 +45175,7 @@
     "Kenteken": "46-BRB-7",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -45157,7 +45192,7 @@
     "Kenteken": "BP-DR-83",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -45166,7 +45201,7 @@
     "Kenteken": "BX-HG-20",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Regionaal"
   },
   {
@@ -45197,7 +45232,7 @@
     "Kenteken": "BP-SN-33",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -45207,7 +45242,7 @@
     "Type": "TS-OPL",
     "Omschrijving": "Tankautospuit-Opleiding",
     "Toevoeging": "t.b.v. rijden OGS",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Regionaal"
   },
   {
@@ -45216,7 +45251,7 @@
     "Kenteken": "35-BS-PL",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Venlo",
     "Adres": "Ariënsstraat 72, 5912PZ, Venlo"
   },
@@ -45640,7 +45675,7 @@
     "Kenteken": "32-BHT-4",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Stein",
     "Adres": "Stadhouderslaan 245, 5171KK, Stein"
   },
@@ -45706,7 +45741,7 @@
     "Kenteken": "75-BDH-7",
     "Type": "HVT-KR",
     "Omschrijving": "Hulpverleningsvoertuig-Terreinvaardig met kraan",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Maastricht-Zuid",
     "Adres": "Molensingel 100, 6229PC, Maastricht"
   },
@@ -45790,7 +45825,7 @@
     "Kenteken": "42-BDF-4",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Sittard-West",
     "Adres": "Zurichstraat 10, 6135LP, Sittard"
   },
@@ -45834,7 +45869,7 @@
     "Kenteken": "76-BDH-7",
     "Type": "HVT-KR",
     "Omschrijving": "Hulpverleningsvoertuig-Terreinvaardig met kraan",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Brunssum",
     "Adres": "Pijler 34, 6446AX, Brunssumm"
   },
@@ -45888,7 +45923,7 @@
     "Kenteken": "22-BDD-2",
     "Type": "TST-7NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Brunssum",
     "Adres": "Pijler 34, 6446AX, Brunssumm"
   },
@@ -45898,7 +45933,7 @@
     "Kenteken": "22-BDL-7",
     "Type": "AL",
     "Omschrijving": "Autoladder",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Heerlen",
     "Adres": "Bekkerweg 44, 6417BW, Heerlen"
   },
@@ -45926,7 +45961,7 @@
     "Kenteken": "86-BLF-8",
     "Type": "HVT-KR",
     "Omschrijving": "Hulpverleningsvoertuig-Terreinvaardig met kraan",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Mechelen",
     "Adres": "Spetsesweide 1a, 6281BV, Mechelen"
   },
@@ -46003,7 +46038,7 @@
     "Kenteken": "41-BDF-4",
     "Type": "TST-7NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Margraten",
     "Adres": "Holstraat 35a, 6269AW, Margraten"
   },
@@ -46013,7 +46048,7 @@
     "Kenteken": "BP-VB-43",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz Econic",
+    "Merk (& Type)": "Mercedes-Benz Econic",
     "Kazerne": "Sittard-West",
     "Adres": "Zurichstraat 10, 6135LP, Sittard"
   },
@@ -46031,7 +46066,7 @@
     "Kenteken": "BT-HN-62",
     "Type": "HVT-KR",
     "Omschrijving": "Hulpverleningsvoertuig-Terreinvaardig met kraan",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Geleen",
     "Adres": "Molenstraat 40, 6161CV, Geleen"
   },
@@ -46182,7 +46217,7 @@
     "Kenteken": "55-BDD-7",
     "Type": "TST-7NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Vaals",
     "Adres": "Randweg 7, 6291DC, Vaals"
   },
@@ -46250,7 +46285,7 @@
     "Kenteken": "56-BDD-7",
     "Type": "TST-7NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig 7 mans bezetting Natuurbrand Bestrijding",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Heerlen",
     "Adres": "Bekkerweg 44, 6417BW, Heerlen"
   },
@@ -46300,7 +46335,7 @@
     "Kenteken": "64-BHX-8",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Beek",
     "Adres": "Sportlaan 1, 6191XC, Beek"
   },
@@ -46326,7 +46361,7 @@
     "Kenteken": "32-BPN-2",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Mercedes Benz New-Actros",
+    "Merk (& Type)": "Mercedes-Benz New-Actros",
     "Kazerne": "Geleen",
     "Adres": "Molenstraat 40, 6161CV, Geleen"
   },
@@ -46398,7 +46433,7 @@
     "Kenteken": "06-BLJ-1",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Schinnen",
     "Adres": "Burg. Pijlsstraat 3, 6365CG, Schinnen"
   },
@@ -46451,7 +46486,7 @@
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
     "Toevoeging": "ROC Margraten",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Maastricht-Zuid",
     "Adres": "Molensingel 100, 6229PC, Maastricht"
   },
@@ -46479,7 +46514,7 @@
     "Kenteken": "23-BPG-4",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Maastricht-Noord",
     "Adres": "Willem Alexanderweg 101, 6222NB, Maastricht"
   },
@@ -46513,7 +46548,7 @@
     "Kenteken": "84-BPR-4",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Beek",
     "Adres": "Sportlaan 1, 6191XC, Beek"
   },
@@ -46523,7 +46558,7 @@
     "Kenteken": "92-BPR-8",
     "Type": "TST",
     "Omschrijving": "Tankautospuit-Terreinvaardig",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Brunssum",
     "Adres": "Pijler 34, 6446AX, Brunssumm"
   },
@@ -46544,7 +46579,7 @@
     "Kenteken": "23-BPL-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Born",
     "Adres": "Havenweg 141, 6122EN, Buchten"
   },
@@ -46587,7 +46622,7 @@
     "Kenteken": "24-BPL-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz Atgeo",
+    "Merk (& Type)": "Mercedes-Benz Atgeo",
     "Kazerne": "Stein",
     "Adres": "Stadhouderslaan 245, 5171KK, Stein"
   },
@@ -46994,7 +47029,7 @@
     "Kenteken": "73-BJX-6",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Almere Stad",
     "Adres": "Merkerkant 15-13, 1314AT, Almere"
   },
@@ -47044,7 +47079,7 @@
     "Kenteken": "93-BLS-9",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Almere Stad",
     "Adres": "Merkerkant 15-13, 1314AT, Almere"
   },
@@ -47062,7 +47097,7 @@
     "Kenteken": "53-BBH-7",
     "Type": "HW",
     "Omschrijving": "Hoogwerker",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Almere Veluwsekant",
     "Adres": "Veluwezoom 50, 1327AH, Almere"
   },
@@ -47112,7 +47147,7 @@
     "Kenteken": "77-BPK-8",
     "Type": "PM",
     "Omschrijving": "Personeel/Materieelvoertuig",
-    "Merk (& Type)": "Mercedes Benz Sprinter",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Zeewolde",
     "Adres": "Mast 1, 3891KE, Zeewolde"
   },
@@ -47195,7 +47230,7 @@
     "Kenteken": "40-GBX-7",
     "Type": "WO",
     "Omschrijving": "Waterongevallenvoertuig",
-    "Merk (& Type)": "Mercedes Benz",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Lelystad",
     "Adres": "Gordiaandreef 101, 8233AB, Lelystad"
   },
