@@ -2796,8 +2796,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-4234",
-    "Type": "TS-8",
-    "Omschrijving": "Tankautospuit 8 mans bezetting",
+    "Kenteken": "77-BZG-3",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Ternaard",
     "Adres": "Gysbert Japiksstrjitte 10, 9145RW, Ternaard"
   },
@@ -4242,8 +4244,10 @@
   {
     "Regio": "02",
     "Roepnummer": "02-6533",
-    "Type": "TS-9",
-    "Omschrijving": "Tankautospuit 9 mans bezetting",
+    "Kenteken": "79-BXV-7",
+    "Type": "TS-7",
+    "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Sint Nicolaasga",
     "Adres": "Slotweg 13, 8521MA, Sint Nicolaasga"
   },
@@ -10375,6 +10379,36 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-4331",
+    "Kenteken": "63-BDZ-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Almen",
+    "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4931",
+    "Kenteken": "42-BDZ-4",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Ruurlo",
+    "Adres": "Groenloseweg 10a, 7261AN, Ruurlo"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-6231",
+    "Kenteken": "33-BZB-1",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Aalten",
+    "Adres": "Tramstraat 1, 7121DD, Aalten"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-6591",
     "Kenteken": "RD-779-V",
     "Type": "DA-OVD",
@@ -10645,6 +10679,15 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-7034",
+    "Kenteken": "29-BXX-9",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-7041",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
@@ -10805,6 +10848,24 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-7235",
+    "Kenteken": "84-BXT-3",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7236",
+    "Kenteken": "97-BXT-3",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-7241",
     "Type": "TST-NB",
     "Omschrijving": "Tankautospuit-Terreinvaardig-Natuurbrand Bestrijding",
@@ -10862,6 +10923,15 @@
     "Merk (& Type)": "Volkswagen Transporter",
     "Kazerne": "Ermelo",
     "Adres": "Oude Telgterweg 181, 3851EC, Ermelo"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-7335",
+    "Kenteken": "37-BXR-3",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -19172,10 +19242,10 @@
   {
     "Regio": "09",
     "Roepnummer": "09-6486",
-    "Kenteken": "BX-VB-42",
+    "Kenteken": "51-BNK-5",
     "Type": "HA",
     "Omschrijving": "Haakarmvoertuig",
-    "Merk (& Type)": "Scania",
+    "Merk (& Type)": "Tatra Phoenix 480",
     "Kazerne": "Woudenberg",
     "Adres": "Europaweg 4, 3931NJ, Woudenberg"
   },
@@ -22439,8 +22509,10 @@
   {
     "Regio": "11",
     "Roepnummer": "11-0569",
-    "Type": "SBH",
-    "Omschrijving": "Schuimblushaakarmbak",
+    "Kenteken": "26-BXB-8",
+    "Type": "SB",
+    "Omschrijving": "Schuimblusvoertuig",
+    "Merk (& Type)": "Mercedes-Benz Arocs",
     "Kazerne": "Krommenie",
     "Adres": "Kervelstraat 186, 1562AJ, Krommenie"
   },
