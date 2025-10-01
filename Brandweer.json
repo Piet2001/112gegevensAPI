@@ -1449,6 +1449,14 @@
   },
   {
     "Regio": "01",
+    "Roepnummer": "01-24VI",
+    "Type": "VI",
+    "Omschrijving": "Veetakel Installatie",
+    "Kazerne": "Oude Pekela",
+    "Adres": "Burg. Snaterlaan 42, 9665HR, Oude Pekela"
+  },
+  {
+    "Regio": "01",
     "Roepnummer": "01-2500",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
