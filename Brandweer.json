@@ -1463,10 +1463,10 @@
   {
     "Regio": "01",
     "Roepnummer": "01-2587",
-    "Kenteken": "BX-BN-53",
+    "Kenteken": "61-BRD-6",
     "Type": "VW-LO",
     "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
-    "Merk (& Type)": "Volkswagen Crafter",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Veendam",
     "Adres": "Langeleegte 2, 9641GN, Veendam"
   },
@@ -4270,7 +4270,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-6511",
-    "Kenteken": "\tV-342-TG",
+    "Kenteken": "V-342-TG",
     "Type": "ORT",
     "Omschrijving": "Oppervlakte Redding Team",
     "Merk (& Type)": "Mercedes-Benz Sprinter",
@@ -4805,16 +4805,20 @@
   {
     "Regio": "02",
     "Roepnummer": "02-7101",
+    "Kenteken": "SJ-527-V",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Burgum",
     "Adres": "Mr. W.M. Oppedijk van Veenweg 24a, 9251GA, Burgum"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-7103",
+    "Kenteken": "XX-774-N",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Sprinter",
     "Kazerne": "Giekerk",
     "Adres": "R. van Nautaweg 4d, 9061AE, Giekerk"
   },
@@ -10457,6 +10461,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-2001",
+    "Kenteken": "JTP-25-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Hattem",
+    "Adres": "Verlengde Parklaan 36, 8051VB, Hattem"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-2131",
     "Kenteken": "BB-364-P",
     "Type": "TS",
@@ -10521,7 +10535,7 @@
     "Kenteken": "JTP-37-H",
     "Type": "DB",
     "Omschrijving": "Dienstbus",
-    "Merk (& Type)": "Volkswagen",
+    "Merk (& Type)": "Volkswagen E-Transporter",
     "Kazerne": "Klarenbeek",
     "Adres": "Klarenbeekseweg 127a, 7381BE, Klarenbeek"
   },
@@ -10537,6 +10551,36 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-3601",
+    "Kenteken": "JTP-21-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Twello",
+    "Adres": "Jupiter 4, 7391RK, Twello"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4032",
+    "Kenteken": "BD-026-D",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Zutphen",
+    "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4301",
+    "Kenteken": "R-353-BN",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Almen",
+    "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-4331",
     "Kenteken": "63-BDZ-1",
     "Type": "TS",
@@ -10544,6 +10588,16 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Almen",
     "Adres": "Berkelweg 2a, 7218AS, Almen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-4401",
+    "Kenteken": "JTP-31-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Lochem",
+    "Adres": "Albert Hahnweg 7, 7242EA, Lochem"
   },
   {
     "Regio": "06",
@@ -10617,6 +10671,16 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-5364",
+    "Kenteken": "05-NNL-4",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Doetinchem",
+    "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-5431",
     "Kenteken": "08-BZR-4",
     "Type": "TS",
@@ -10624,6 +10688,36 @@
     "Merk (& Type)": "Volvo FE 320",
     "Kazerne": "Gendringen",
     "Adres": "Nijverheidsweg 27, 7081AE, Gendringen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5631",
+    "Kenteken": "BD-077-G",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Volvo FE 320",
+    "Kazerne": "Varsseveld",
+    "Adres": "Klaproosstraat 28, 7051ZH, Varsseveld"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5801",
+    "Kenteken": "JTP-08-H",
+    "Type": "DB",
+    "Omschrijving": "Dienstbus",
+    "Merk (& Type)": "Volkswagen E-Transporter",
+    "Kazerne": "Steenderen",
+    "Adres": "Dr. Alfons Ariënsstraat 33c, 7221CA, Steenderen"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-5831",
+    "Kenteken": "22-BNH-6",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Iveco",
+    "Kazerne": "Steenderen",
+    "Adres": "Dr. Alfons Ariënsstraat 33c, 7221CA, Steenderen"
   },
   {
     "Regio": "06",
@@ -10838,6 +10932,25 @@
     "Omschrijving": "Hulpverleningsvoertuig",
     "Kazerne": "Heerde",
     "Adres": "Rhijnsburglaan 52, 8181XT, Heerde"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-6883",
+    "Kenteken": "BV-NH-22",
+    "Type": "VW-LO",
+    "Omschrijving": "Vrachtwagen - Logistiek en Ondersteuning",
+    "Toevoeging": "Oost",
+    "Merk (& Type)": "DAF LF",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-6897",
+    "Kenteken": "GSX-62-N",
+    "Type": "DV-PCL",
+    "Omschrijving": "Dienstvoertuig  Pelotonscommandant Logistiek",
+    "Merk (& Type)": "Ford",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -11076,8 +11189,10 @@
   {
     "Regio": "06",
     "Roepnummer": "06-7201",
+    "Kenteken": "JTL-81-Z",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
     "Kazerne": "Harderwijk",
     "Adres": "Maltezerlaan 1, 3842AZ, Harderwijk"
   },
@@ -11768,10 +11883,12 @@
   {
     "Regio": "06",
     "Roepnummer": "06-8101",
+    "Kenteken": "8-XJD-87",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
-    "Kazerne": "Zutphen",
-    "Adres": "Gerard Doustraat 129, 7204EW, Zutphen"
+    "Merk (& Type)": "Volkswagen Golf",
+    "Kazerne": "Doetinchem",
+    "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
   },
   {
     "Regio": "06",
@@ -13000,6 +13117,15 @@
   },
   {
     "Regio": "06",
+    "Roepnummer": "06-9591",
+    "Kenteken": "RD-775-V",
+    "Type": "DA-OVD",
+    "Omschrijving": "Dienstauto - Officier van Dienst",
+    "Merk (& Type)": "Toyota",
+    "Kazerne": "Regionaal"
+  },
+  {
+    "Regio": "06",
     "Roepnummer": "06-9601",
     "Type": "DB-LO",
     "Omschrijving": "Dienstbus - Logistiek",
@@ -13285,6 +13411,15 @@
     "Omschrijving": "Mobiele Commando Unit",
     "Kazerne": "Doetinchem",
     "Adres": "Stokhorstweg 1, 7006GA, Doetinchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-9793",
+    "Kenteken": "RK-402-V",
+    "Type": "DA-HOD",
+    "Omschrijving": "Dienstauto - Hoofd Officier van Dienst",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Regionaal"
   },
   {
     "Regio": "06",
@@ -15829,6 +15964,17 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "28-2101",
+    "Kenteken": "D-086-MD",
+    "Type": "DB-OVD",
+    "Omschrijving": "Dienstbus - Officier van Dienst",
+    "Toevoeging": "Commando Landstrijdkrachten",
+    "Merk (& Type)": "Mercedes-Benz Vito",
+    "Kazerne": "Schietkamp ASK `t Harde",
+    "Adres": "Eperweg 149, 8084HE, Het Harde"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "28-2131",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
@@ -15869,6 +16015,16 @@
   },
   {
     "Regio": "07",
+    "Roepnummer": "28-2145",
+    "Kenteken": "DM-609-N",
+    "Type": "TST",
+    "Omschrijving": "Tankautospuit-Terreinvaardig",
+    "Merk (& Type)": "Volvo",
+    "Kazerne": "Schietkamp ASK `t Harde",
+    "Adres": "Eperweg 149, 8084HE, Het Harde"
+  },
+  {
+    "Regio": "07",
     "Roepnummer": "28-2161",
     "Type": "WT",
     "Omschrijving": "Watertankwagen",
@@ -15894,8 +16050,11 @@
   {
     "Regio": "07",
     "Roepnummer": "28-2191",
+    "Kenteken": "D-775-MB",
     "Type": "DAT-OVD",
     "Omschrijving": "Dienstauto-Terreinvaardig - Officier van Dienst",
+    "Toevoeging": "Commando Landstrijdskrachten",
+    "Merk (& Type)": "Land Rover",
     "Kazerne": "Schietkamp ASK `t Harde",
     "Adres": "Eperweg 149, 8084HE, Het Harde"
   },
@@ -16272,6 +16431,16 @@
     "Merk (& Type)": "Renault Trafic",
     "Kazerne": "Wijchen",
     "Adres": "Bronckhorstlaan 5, 6602BG, Wijchen"
+  },
+  {
+    "Regio": "08",
+    "Roepnummer": "08-4001",
+    "Kenteken": "KH-582-L",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Beuningen",
+    "Adres": "Van Heemstraweg 95, 6641AC, Beuningen"
   },
   {
     "Regio": "08",
@@ -16749,6 +16918,16 @@
   },
   {
     "Regio": "08",
+    "Roepnummer": "08-7003",
+    "Kenteken": "TR-684-N",
+    "Type": "DA",
+    "Omschrijving": "Dienstauto",
+    "Merk (& Type)": "Volkswagen",
+    "Kazerne": "Culemborg",
+    "Adres": "Triosingel 34, 4101XC, Culemborg"
+  },
+  {
+    "Regio": "08",
     "Roepnummer": "08-7006",
     "Type": "DA",
     "Omschrijving": "Dienstauto",
@@ -16905,8 +17084,10 @@
   {
     "Regio": "08",
     "Roepnummer": "08-7531",
+    "Kenteken": "BZ-XT-98",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
+    "Merk (& Type)": "MAN",
     "Kazerne": "Maurik",
     "Adres": "Homoetsestraat 12, 4021HH, Maurik"
   },
@@ -30133,10 +30314,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-0631",
-    "Kenteken": "91-BFV-5",
+    "Kenteken": "69-BTZ-5",
     "Type": "TS-7",
     "Omschrijving": "Tankautospuit 7 mans bezetting",
-    "Merk (& Type)": "DAF LF",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Baan",
     "Adres": "Ketelaarsstraat 15, 3011CM, Rotterdam"
   },
@@ -32467,8 +32648,10 @@
   {
     "Regio": "17",
     "Roepnummer": "17-9232",
+    "Kenteken": "91-BFV-5",
     "Type": "TS-RES",
     "Omschrijving": "Tankautospuit-Reserve",
+    "Merk (& Type)": "DAF",
     "Kazerne": "Regionaal"
   },
   {
@@ -40985,8 +41168,10 @@
   {
     "Regio": "21",
     "Roepnummer": "21-2641",
+    "Kenteken": "47-BJB-3",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
     "Kazerne": "Mill",
     "Adres": "Jochemsweg 2, 5451HW, Mill"
   },
@@ -41030,7 +41215,7 @@
     "Kenteken": "54-BJX-6",
     "Type": "TS",
     "Omschrijving": "Tankautospuit",
-    "Merk (& Type)": "Mercedes Atego",
+    "Merk (& Type)": "Mercedes-Benz Atego",
     "Kazerne": "Oeffelt",
     "Adres": "Schoolstraat 4, 5441AM, Oeffelt"
   },
@@ -43664,6 +43849,27 @@
     "Omschrijving": "Decontaminatiehaakarmbak",
     "Kazerne": "Bergeijk",
     "Adres": "Borkelsedijk 15, 5571GA, Bergeijk"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "28-4935",
+    "Kenteken": "LM-14-91",
+    "Type": "TS",
+    "Omschrijving": "Tankautospuit",
+    "Merk (& Type)": "Mercedes-Benz",
+    "Kazerne": "Eindhoven Airport",
+    "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
+  },
+  {
+    "Regio": "22",
+    "Roepnummer": "28-4951",
+    "Kenteken": "DM-603-R",
+    "Type": "BM",
+    "Omschrijving": "Bijzonder materieel",
+    "Toevoeging": "Rescue Escape Stairs",
+    "Merk (& Type)": "MAN",
+    "Kazerne": "Eindhoven Airport",
+    "Adres": "Flightforum 1550, 5657EZ, Eindhoven"
   },
   {
     "Regio": "22",
