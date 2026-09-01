@@ -612,9 +612,9 @@
   {
     "Regio": "01",
     "Roepnummer": "01-805",
-    "Kenteken": "G-477-NX",
+    "Kenteken": "HB-048-N",
     "Omschrijving": "Officier van Dienst Geneeskunde",
-    "Merk": "Volkswagen Tiguan",
+    "Merk": "Mercedes-Benz V-Klasse",
     "Locatie indien vast": "Groningen"
   },
   {
@@ -652,9 +652,9 @@
   {
     "Regio": "02",
     "Roepnummer": "02-109",
-    "Kenteken": "KT-225-G",
+    "Kenteken": "R-336-BG",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Buitenpost"
   },
   {
@@ -692,7 +692,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-116",
-    "Kenteken": "R-335-BG",
+    "Kenteken": "T-279-DR",
     "Omschrijving": "Ambulance",
     "Merk": "MAN TGE",
     "Locatie indien vast": "Leeuwarden-Zuid"
@@ -700,9 +700,9 @@
   {
     "Regio": "02",
     "Roepnummer": "02-121",
-    "Kenteken": "T-679-DL",
+    "Kenteken": "S-286-FK",
     "Omschrijving": "Ambulance",
-    "Merk": "MAN TGE",
+    "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Sneek"
   },
   {
@@ -716,7 +716,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-125",
-    "Kenteken": "R-763-GR",
+    "Kenteken": "J-637-BR",
     "Omschrijving": "Ambulance",
     "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Harlingen"
@@ -732,15 +732,15 @@
   {
     "Regio": "02",
     "Roepnummer": "02-131",
-    "Kenteken": "S-905-TT",
+    "Kenteken": "J-701-JR",
     "Omschrijving": "Ambulance",
-    "Merk": "MAN TGE",
+    "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Drachten"
   },
   {
     "Regio": "02",
     "Roepnummer": "02-132",
-    "Kenteken": "R-731-DK",
+    "Kenteken": "J-131-GN",
     "Omschrijving": "Ambulance",
     "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Drachten"
@@ -748,7 +748,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-136",
-    "Kenteken": "T-514-DL",
+    "Kenteken": "R-341-BG",
     "Omschrijving": "Ambulance",
     "Merk": "MAN TGE",
     "Locatie indien vast": "Dokkum"
@@ -756,7 +756,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-141",
-    "Kenteken": "G-189-SP",
+    "Kenteken": "Z-621-NB",
     "Omschrijving": "Ambulance",
     "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Dokkum"
@@ -764,7 +764,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-142",
-    "Kenteken": "JZR-07-V",
+    "Kenteken": "Z-877-KT",
     "Omschrijving": "Ambulance",
     "Merk": "Volkswagen Crafter",
     "Locatie indien vast": "Dokkum"
@@ -772,7 +772,7 @@
   {
     "Regio": "02",
     "Roepnummer": "02-145",
-    "Kenteken": "K-319-XN",
+    "Kenteken": "R-473-ZR",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
@@ -787,10 +787,9 @@
   {
     "Regio": "02",
     "Roepnummer": "02-162",
-    "Kenteken": "63-85-YH",
+    "Kenteken": "50-05-YS",
     "Omschrijving": "Ambulanceboot"
   },
-  { "Regio": "02", "Roepnummer": "02-206", "Omschrijving": "Piketauto" },
   {
     "Regio": "02",
     "Roepnummer": "02-801",
@@ -866,9 +865,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-108",
-    "Kenteken": "HHJ-87-G",
+    "Kenteken": "R-342-BG",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Crafter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Roden"
   },
   {
@@ -913,9 +912,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-135",
-    "Kenteken": "T-091-BN",
+    "Kenteken": "R-343-BG",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Crafter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Emmen"
   },
   {
@@ -944,9 +943,9 @@
   {
     "Regio": "03",
     "Roepnummer": "03-152",
-    "Kenteken": "G-291-LS",
+    "Kenteken": "T-353-GN",
     "Omschrijving": "Ambulance",
-    "Merk": "Volkswagen Transporter",
+    "Merk": "MAN TGE",
     "Locatie indien vast": "Hoogeveen"
   },
   {
@@ -1929,10 +1928,35 @@
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Winterswijk"
   },
-  { "Regio": "06", "Roepnummer": "06-155", "Omschrijving": "Ambulance" },
-  { "Regio": "06", "Roepnummer": "06-158", "Omschrijving": "Ambulance" },
-  { "Regio": "06", "Roepnummer": "06-161", "Omschrijving": "Ambulance" },
-  { "Regio": "06", "Roepnummer": "06-183", "Omschrijving": "Ambulance" },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-155",
+    "Kenteken": "N-996-ZZ",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Doetinchem"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-158",
+    "Kenteken": "H-646-XR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-161",
+    "Kenteken": "P-153-BN",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-183",
+    "Kenteken": "T-581-LR",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
   {
     "Regio": "06",
     "Roepnummer": "06-185",
@@ -1940,8 +1964,12 @@
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
-  { "Regio": "06", "Roepnummer": "06-186", "Omschrijving": "Ambulance" },
-  { "Regio": "06", "Roepnummer": "06-187", "Omschrijving": "Ambulance" },
+  {
+    "Regio": "06",
+    "Roepnummer": "06-187",
+    "Kenteken": "T-214-XB",
+    "Omschrijving": "Ambulance"
+  },
   {
     "Regio": "06",
     "Roepnummer": "06-188",
@@ -1982,6 +2010,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-811",
+    "Kenteken": "H-427-FG",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Locatie indien vast": "Oost"
   },
@@ -1996,6 +2025,7 @@
   {
     "Regio": "06",
     "Roepnummer": "06-813",
+    "Kenteken": "H-513-FH",
     "Omschrijving": "Officier van Dienst Geneeskunde",
     "Locatie indien vast": "West"
   },
@@ -2052,7 +2082,13 @@
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Arnhem"
   },
-  { "Regio": "07", "Roepnummer": "07-114", "Omschrijving": "Ambulance" },
+  {
+    "Regio": "07",
+    "Roepnummer": "07-114",
+    "Kenteken": "P-550-PN",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
   { "Regio": "07", "Roepnummer": "07-116", "Omschrijving": "Ambulance" },
   {
     "Regio": "07",
@@ -2613,9 +2649,10 @@
   {
     "Regio": "10",
     "Roepnummer": "10-705",
-    "Kenteken": "ZL-715-H",
+    "Kenteken": "GLN-61-G",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Volvo"
+    "Merk": "Volvo",
+    "Locatie indien vast": "Alkmaar"
   },
   {
     "Regio": "10",
@@ -2887,21 +2924,23 @@
     "Kenteken": "HP-765-V",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Amsterdam"
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-104",
     "Kenteken": "ZH-757-H",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-105",
-    "Kenteken": "KV-499-S",
+    "Kenteken": "T-665-ZJ",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Overamstel"
   },
   {
     "Regio": "13",
@@ -2909,14 +2948,15 @@
     "Kenteken": "HZB-32-N",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
-    "Locatie indien vast": "Amsterdam Noord"
+    "Locatie indien vast": "Boven IJ"
   },
   {
     "Regio": "13",
     "Roepnummer": "13-120",
-    "Kenteken": "GP-521-H",
+    "Kenteken": "N-912-PN",
     "Omschrijving": "Ambulance",
-    "Merk": "Mercedes-Benz Sprinter"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Boven IJ"
   },
   {
     "Regio": "13",
@@ -2976,7 +3016,7 @@
   {
     "Regio": "13",
     "Roepnummer": "13-180",
-    "Kenteken": "GP-112-J",
+    "Kenteken": "N-065-NN",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Amstelveen"
@@ -3373,7 +3413,7 @@
   {
     "Regio": "15",
     "Roepnummer": "15-128",
-    "Kenteken": "PB-027-G",
+    "Kenteken": "T-179-LB",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Mangaanstraat"
@@ -3415,7 +3455,9 @@
   {
     "Regio": "15",
     "Roepnummer": "15-213",
+    "Kenteken": "R-956-FS",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Waldorpstraat"
   },
   {
@@ -3459,19 +3501,25 @@
   {
     "Regio": "15",
     "Roepnummer": "15-225",
+    "Kenteken": "H-055-PZ",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Mangaanstraat"
   },
   {
     "Regio": "15",
     "Roepnummer": "15-240",
+    "Kenteken": "SN-789-F",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Zoetermeer"
   },
   {
     "Regio": "15",
     "Roepnummer": "15-241",
+    "Kenteken": "KR-924-P",
     "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Zoetermeer"
   },
   { "Regio": "15", "Roepnummer": "15-321", "Omschrijving": "Rapid Responder" },
@@ -4571,7 +4619,10 @@
   {
     "Regio": "18",
     "Roepnummer": "18-272",
-    "Omschrijving": "Middencomplexe Ambulance"
+    "Kenteken": "HKL-34-J",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Dordrecht"
   },
   {
     "Regio": "18",
@@ -4847,8 +4898,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-141",
+    "Kenteken": "L-938-XF",
     "Omschrijving": "Ambulance",
-    "Locatie indien vast": "Tilburg-Zuid"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Bergen op Zoom"
   },
   {
     "Regio": "20",
@@ -4877,8 +4930,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-146",
+    "Kenteken": "P-231-HH",
     "Omschrijving": "Ambulance",
-    "Locatie indien vast": "Tilburg-Noord"
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Roosendaal"
   },
   {
     "Regio": "20",
@@ -4964,6 +5019,13 @@
   },
   {
     "Regio": "20",
+    "Roepnummer": "20-222",
+    "Kenteken": "JXD-71-K",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "20",
     "Roepnummer": "20-225",
     "Kenteken": "2-SXS-50",
     "Omschrijving": "Piketauto",
@@ -4973,10 +5035,10 @@
   {
     "Regio": "20",
     "Roepnummer": "20-232",
-    "Kenteken": "2-SXS-68",
-    "Omschrijving": "Piketauto",
-    "Merk": "Volkswagen Up",
-    "Locatie indien vast": "Tilburg-Noord"
+    "Kenteken": "Z-075-PS",
+    "Omschrijving": "Middencomplexe Ambulance",
+    "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Tilburg"
   },
   {
     "Regio": "20",
@@ -5046,6 +5108,14 @@
     "Kenteken": "V-132-RL",
     "Omschrijving": "OpleidingsAmbulance",
     "Merk": "Mercedes-Benz Sprinter",
+    "Locatie indien vast": "Tilburg-Noord"
+  },
+  {
+    "Regio": "20",
+    "Roepnummer": "20-535",
+    "Kenteken": "2-SXS-68",
+    "Omschrijving": "Piketauto",
+    "Merk": "Volkswagen Up",
     "Locatie indien vast": "Tilburg-Noord"
   },
   {
@@ -5833,9 +5903,9 @@
   {
     "Regio": "22",
     "Roepnummer": "22-705",
-    "Kenteken": "JT-708-S",
+    "Kenteken": "GLN-58-G",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mitsubishi Outlander electr.",
+    "Merk": "Volvo",
     "Locatie indien vast": "MMC Veldhoven"
   },
   {
@@ -6247,9 +6317,9 @@
   {
     "Regio": "23",
     "Roepnummer": "23-507",
-    "Kenteken": "6-KJP-92",
+    "Kenteken": "4-XVR-96",
     "Omschrijving": "OpleidingsAmbulance",
-    "Merk": "Volkswagen Transporter",
+    "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Venlo, Nijmeegseweg"
   },
   {
@@ -6433,7 +6503,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-122",
-    "Kenteken": "XT-577-J",
+    "Kenteken": "KRN-30-J",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Heerlen"
@@ -6449,7 +6519,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-124",
-    "Kenteken": "XP-615-S",
+    "Kenteken": "KRD-50-F",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Heerlen"
@@ -6497,7 +6567,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-136",
-    "Kenteken": "RD-350-D",
+    "Kenteken": "KRN-33-J",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Maastricht"
@@ -6513,7 +6583,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-138",
-    "Kenteken": "H-372-XH",
+    "Kenteken": "H-872-XH",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Maastricht"
@@ -6537,7 +6607,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-152",
-    "Kenteken": "KS-537-N",
+    "Kenteken": "KNX-71-T",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Landgraaf"
@@ -6553,7 +6623,7 @@
   {
     "Regio": "24",
     "Roepnummer": "24-154",
-    "Kenteken": "KZ-004-F",
+    "Kenteken": "KNB-87-K",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter",
     "Locatie indien vast": "Landgraaf"
@@ -6569,9 +6639,9 @@
   {
     "Regio": "24",
     "Roepnummer": "24-301",
-    "Kenteken": "53-HZH-1",
+    "Kenteken": "X-981-ZD",
     "Omschrijving": "Mobiele Intensive Care Unit",
-    "Merk": "Mercedes-Benz Atego",
+    "Merk": "Scania",
     "Locatie indien vast": "Maastricht"
   },
   {
@@ -6665,9 +6735,9 @@
   {
     "Regio": "24",
     "Roepnummer": "24-722",
-    "Kenteken": "NG-500-H",
+    "Kenteken": "T-764-TP",
     "Omschrijving": "Huisartsenpostvoertuig",
-    "Merk": "Mercedes-Benz GLK",
+    "Merk": "Hyundai",
     "Locatie indien vast": "Zuijderlandziekenhuis Heerlen"
   },
   {
@@ -6734,6 +6804,13 @@
     "Regio": "25",
     "Roepnummer": "25-115",
     "Kenteken": "GBR-48-G",
+    "Omschrijving": "Ambulance",
+    "Merk": "Mercedes-Benz Sprinter"
+  },
+  {
+    "Regio": "25",
+    "Roepnummer": "25-121",
+    "Kenteken": "KHV-80-H",
     "Omschrijving": "Ambulance",
     "Merk": "Mercedes-Benz Sprinter"
   },
